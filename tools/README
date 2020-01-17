@@ -1,0 +1,13 @@
+1. 生成欧洲地区的org_name--->ticker mapping之后，不能直接使用，需要a.转化为小写(Capitilize.py) b.同义词处理(regular_map.py)
+   注意：regular_map.py对于欧洲和美国地区的headline和org_name处理方式不同，须指定参数region = eu or region = us
+2. 根据raw_prc和ric_map生成新的org_name--->ticker以及ticker--->bbid mapping
+   其中，org_name--->ticker使用的脚本为gen_eu_map_by_ric_pipe2.py
+        ticker---->bbid使用的脚本为gen_bbid_ticker_via_sedal_pipe1.py
+3.根据trader_mark/prod.20170516分别生成EU和US region的org_name--->ticker mapping
+  其中，生成EU mapping的脚本为 gen_eu_prob_pipe1.py和gen_eu_prob_pipe2.py
+        生成US mapping的脚本为 gen_us_prob.py
+  注意：两个地区生成方式有区别，原因在于欧洲地区ticker变化多样(目前仍未完全覆盖)，美国地区ticker变化较小
+4. gen_rand.py 采样
+5. gen_mapping_by_missing_jp.py 子社会
+6. process_jp_missing.py 辅助
+7. remove_st.py 处理中文里的st,a,b等 

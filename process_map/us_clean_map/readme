@@ -1,0 +1,2 @@
+Cleaning us_auto_map's scripts contains distinguish_wrong_cause.py, tatistic_frequency_of_wrong_by_map.py, remove_map_noise.py
+These scripts execution flow is distinguish_wrong_cause.py -> tatistic_frequency_of_wrong_by_map.py -> remove_map_noise.py

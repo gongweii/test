@@ -1,0 +1,7 @@
+These program scripts under the folder are to generate eusa_auto map and eusa_bbid_ticker_with_date_range map.
+The methods of generating eurp_auto map and eurp_bbid_ticker_with_date_range map are similar with eusa's, so just put scripts about generating eusa map here.
+
+Generating eusa_auto map: flair_ner_pipe1.py -> flair_ner_pipe1_plus.py -> frequent_itemset_mining_pipe2.py -> clean_item_with_shape_pipe2_plus.py -> process_zero_NEREntity_pipe3.py
+                          -> process_warn_NEREntity_pipe4.py -> process_plus_NEREntity_pipe4_plus.py
+
+Generating eusa_bbid_ticker_with_date_range map: gen_bbid_map_pipe5.py 

@@ -1,0 +1,559 @@
+1|carrefour (ca.fp),le figaro|LI|CA
+1|lemtrada,fda,reuters|SAN|COPN
+1|lemtrada,fda|SAN|COPN
+1|barclays,lse,swapclear|LSE|BARC
+1|tooway,poste italiane,eutelsat|ETL|PST
+1|south china morning post,man|EMG|MAN
+1|3i,barclays infrastructure funds management|III|BARC
+1|barclays,british foods|ABF|BARC
+1|eu commission,telefonica deutschland|KPN|TEF
+1|strength of nature,unilever|ULVR|UNA
+1|euronext--reuters,deutsche boerse|DB1|ENX
+1|gdf suez,les echos|FP|ENGI
+1|focus list,credit suisse|CPI|CSGN
+1|unilever,nomura securities|ULVR|UNA
+1|uk,gb plange,associated british food|ABF|GBG
+1|eu commission,ansaldo energia,fsi|FNC|STS
+1|genzyme's alemtuzumab,fda|SAN|COPN
+1|genzyme's alemtuzumab,fda|SAN|COPN
+1|eu commission,allianz|POP|ALV
+1|exane bnp paribas,unilever|ULVR|BNP,UNA
+1|citi,man|EMG|MAN
+1|avant homes,sky news|LLOY|SKY
+1|pastor vida,eu commission,allianz|POP|ALV
+1|digicel, cable & wireless communications,irish times (pre-eu|ORA|CWC
+1|investec,eads|AIR|INVP
+1|eqt vi,aker solutions|AKA|AKSO,AKER
+1|statoil,aker solutions|AKA|AKSO,AKER,STL
+1|eurazeo,crdit agricole|ACA|RF
+1|fda,promacta|GSK|COPN
+1|smiths news,metro|CNCT|MEO,SMIN
+1|eurazeo,crdit agricole,eurazeo (rf.fp)|ACA|RF
+1|avio spazio,reuters,finmeccanica|SAF|FNC
+1|eu commission,telefonica deutschland|KPN|TEF
+1|kymmene,ubs,upm|UPM1V|UBSG
+1|rhn-klinikum,fresenius helios|RHK|FRE
+1|pastor vida,eu commission,allianz|POP|ALV
+1|nordea (pre-europen,aker solutions|AKA|AKSO,AKER
+1|citi,aker solutions|AKA|AKSO,AKER
+1|fda,philips|PHIA|COPN
+1|fidkars,danske bank|FIS1V|DANSKE
+1|dagens nringsliv,aker solutions|AKA|AKSO,AKER
+1|fda,genzyme,lemtrada (alemtuzumab)|SAN|COPN
+1|unilever,natixis|ULVR|KN,UNA
+1|gazprom (gazp.ru),repubblica,eni (eni.im), edison (edf.fp)|EOAN|ENI
+1|flughafen zurich,swiss life (slhn.sw)|FHZN|SLHN
+1|hesse,patrizia immobilien (p1z.gr),ca immobilien|CAI|P1Z
+1|les echos,french competition authorities,bouygues/sfr|ILD|EN
+1|wintershall,mol,uk continental shelf|BAS|CON
+1|bloomberg,unilever|ULVR|UNA
+1|eu commission,telefonica deutschland|KPN|TEF
+1|smiths news,trinity mirror (tni.ln)|CNCT|SMIN,TNI
+1|eu commission,e-plus,reuters,telefonica|KPN|TEF
+1|serco,g4s,bbc|CPI|GFS,SRP
+1|telenet's telecommunication,aurelius' (ar4.gr) brightone|TNET|AR4
+1|eu commission,fondo strategico italiano,ansaldo energia|FNC|STS
+1|federal network agency,telefnica deutschland,deutsche telekom (dte.gr)|O2D|DTE
+1|rhn-klinikum,fresenius, asklepios|RHK|FRE
+1|eu commission,scout24,hellman & friedman|DTE|G24
+1|seb enskilda,kymmene,upm|UPM1V|SK
+1|lloyds banking group (lloy.ln),st james's place|STJ|LLOY
+1|fda,onfi (clobazam)|LUN|COPN
+1|reunion,le figaro,bouygues|FGR|EN
+1|les echos,gaztransport & technigaz ipo|ENGI|GTT
+1|fda,onglyza|AZN|COPN
+1|bloomberg,peugeot,banco santander (san.sm)|UG|SAN
+1|psi,abu dhabi airports|DEC|PSAN
+1|corriere della sera,china cnr,ansaldo sts (sts.im), ansaldo breda|FNC|STS
+1|wpp,unilever,shopper marketing|ULVR|WPP,UNA
+1|glencore, sumitomo,eu commission,clermont|RIO|GLEN
+1|skandinaviska enskilda banken,dnb markets|SEBA|DNB
+1|thyssenkrupp steel europe,air-liquide|AI|TKA
+1|man,ft|EMG|MAN
+1|reuters,eu,e-plus,telefonica|KPN|TEF
+1|exane bnp paribas,man|EMG|BNP,MAN
+1|bank of america merrill lynch,man|EMG|MAN
+1|swedbank,aker solutions,bloomberg|AKA|AKSO,AKER
+1|reed elsevier,wunelli|REL|REN
+1|reed elsevier,wunelli|REL|REN
+1|eurotunnel,competition commission,uk's cma|GET|BCA
+1|ubs,edf|EDF|UBSG
+1|fda,genzymes lemtrada|SAN|COPN
+1|eu,reuters,telefonica|KPN|TEF
+1|sport direct,sky news|SPD|SKY
+1|aker solutions,credit suisse|AKA|CSGN,AKSO,AKER
+1|bp,aker solutions|AKA|AKSO,AKER
+1|unilever,mizkan|ULVR|UNA
+1|blackstone,tpg,kensington,sky news|INVP|SKY
+1|nexans,repubblica|PRY|NEX
+1|at&t-directv,kepler cheuvreux,vodafone (vod.ln),bskyb|SKY|VOD
+1|lunesta,fda|GSK|COPN
+1|paybyphone,adaptis,vinci park|PAY|DG
+1|ubs,morgan stanley|CARD|UBSG
+1|euronext,amf,worldline|ATO|WLN,ENX
+1|numeric holdings,man|EMG|MAN
+1|telefonica,wsj's heard|VIV|TEF
+1|ansaldo sts (sts.im),ansaldobreda|FNC|STS
+1|eu commission,telefonica deutschland,kpn|O2D|KPN,TEF
+1|eu commission,telefonica deutschland|O2D|TEF
+1|liberum capital,eu,man|EMG|MAN
+1|commerzbank securities,nn|NN|CBK
+1|fda,exact sciences|MDXH|COPN
+1|canaccord genuity,man|EMG|MAN
+1|global village telecom,telefnica brazil|TEF|TEP
+1|kensington,blackstone, tpg,sky news|INVP|SKY
+1|deutsche bank,nn|NN|DBK
+1|rbc capital,heineken|HEIO|HEIA
+1|credit suisse,nn|NN|CSGN
+1|fda,lumizyme|SAN|COPN
+1|fda,lumizyme|SAN|COPN
+1|bloomberg,aker solutions|AKA|AKSO,AKER
+1|european commission,telefonica deutschland (o2d.gr),e-plus,wirtschaftswoche|KPN|TEF
+1|numeric holdings,man|EMG|MAN
+1|enel (enel.im), a2a (a2a.im),il sole,reuters,gdf suez (gsz.fp)|EOAN|ENEL,A2A,ENGI
+1|numeric holdings,man group,ftc|EMG|MAN
+1|exane bnp paribas,nn|NN|BNP
+1|exane bnp paribas,croda|CRDA|BNP
+1|bloomberg,telefonica (tef.sm),gvt|VIV|TEF
+1|hbos,sky news|LLOY|SKY
+1|akastor,danske bank|AKA|DANSKE
+1|man,jpmorgan|EMG|MAN
+1|varde investment partners,reuters,crest nicholson,deutsche bank (alongside barclays),eu|CRST|BARC,DBK
+1|exane bnp paribas,nn|NN|BNP
+1|danske bank,wilh. wilhelmsen holding|WWI|DANSKE,WWASA
+1|reed elsevier's lexisnexis,health market science|REL|REN
+1|barclaycard,logic,uk's cma|BARC|BCA
+1|ofgem,smart dcc limited|CPI|DCC
+1|lvmh,herms|CDI|MC
+1|la times,pimco's total return fund|ALV|FP
+1|akastor,dnb markets|AKA|DNB
+1|pimco,total return fund,fbn|ALV|FP
+1|cfo,heineken|HEIO|HEIA
+1|virgin cruises,bain capital,sky news|CCL|SKY
+1|drillisch (dri.gr),telefnica deutschland|O2D|DRI
+1|fda,kremers urban pharmaceuticals|UCB|COPN
+1|deutsche bank,unilever|ULVR|DBK,UNA
+1|unilever,jpmorgan|ULVR|UNA
+1|cnbc-tv18,united breweries,heineken|HEIO|HEIA
+1|danske bank,ab|ORES|DANSKE
+1|bolsas,caixabank (cabk.sm),mercados espanoles|BME|CABK
+1|eu commission,scout24,hellman & friedman|DTE|G24
+1|slimfast,unilever,sky news|ULVR|SKY,UNA
+1|unilever,rbc capital|ULVR|UNA
+1|reed elsevier,cfo|REL|REN
+1|eurotunnel,channel tunnel,vodafone,ee|GET|VOD
+1|daily mail,rumor: at&t (t)|ORA|DMGT
+1|unilever,societe generale|ULVR|GLE,UNA
+1|cargotec,aker solutions|AKA|CGCBV,AKSO,AKER
+1|telefonica deutschland, e-plus,eu commission|KPN|TEF
+1|orphan biovitrum,danske bank|SOBI|DANSKE
+1|bloomberg,unilever|ULVR|UNA
+1|kymmene,upm,dnb markets|UPM1V|DNB
+1|seb enskilda,kymmene,upm|UPM1V|SK
+1|sulzer metco,oerlikon|OERL|SUN
+1|danske bank,aker solutions|AKA|AKSO,AKER,DANSKE
+1|kbc,nn|NN|KBC
+1|aker solutions,aka.no|AKA|AKSO,AKER
+1|baker hughes (bhi),aker solutions,subsea production alliance|AKA|AKSO,AKER,SUBC
+1|aker solutions holding,oslo stock exchange|AKA|AKSO,AKER
+1|aker solutions,canaccord genuity|AKA|AKSO,AKER
+1|fda,otsuka,lundbeck's (lun.dc)|LUN|COPN
+1|reed elsevier,bernstein|REL|REN
+1|fda,oic|AZN|COPN
+1|crown holdings,heineken|HEIO|HEIA
+1|myferrylink,cma|GET|BCA
+1|numeric holdings,man|EMG|MAN
+1|petrobras,aker solutions|AKA|AKSO,AKER
+1|thales,ansaldo breda,ansaldosts (sts.im)|FNC|STS,HO
+1|argenitina,telecom argetina (teco2.ar),fintech|TIT|TEP
+1|reed elsevier,fircosoft|REL|REN
+1|unilever,reuters|ULVR|UNA
+1|kymmene,upm,credit suisse|UPM1V|CSGN
+1|barclays,man|EMG|BARC,MAN
+1|fda,genzyme|SAN|COPN
+1|cnr,ansaldosts,ansaldo breda|FNC|STS
+1|akastor,dnb markets|AKA|DNB
+1|hikma's mitigare,fda,nda|HIK|COPN
+1|finmeccanica,caf,la tribune,ansaldobreda|HO|FNC
+1|e-plus,telefonica deutschland|O2D|TEF
+1|financieele dagblad,heineken|HEIO|HEIA
+1|british foods,credit suisse|ABF|CSGN
+1|aker solutions,shell|AKA|AKSO,AKER
+1|telefonica (tef.sm),eu|KPN|TEF
+1|deutsche bank,numis securities|PLP|DBK
+1|groupe bruxelles lambert (gbl),lafarge (lg.fp),holcim (holn.sw)|PARG|GBLB
+1|scout24,hellman & friedman|DTE|G24
+1|holcim (holn.sw),groupe bruxelles lambert (gblb.bb),lafarge (lg.fp)|PARG|GBLB
+1|lemtrada,fda,genzyme|SAN|COPN
+1|telenor broadcast (tel.no),conax|KUD|TEL
+1|ing,usg|USG|INGA
+1|nok14b,aker solutions|AKA|AKSO,AKER
+1|ansaldo breda,board,repubblica,ansaldo sts (sts.im)|FNC|STS
+1|danske bank,investment|ORES|DANSKE
+1|hsbc,man|EMG|MAN,HSBA
+1|monaco telecom,cable and wireless communications (cwc.ln)|ILD|TEP
+1|sunday times,heineken|HEIO|HEIA
+1|reed elsevier,ing financial|REL|INGA,REN
+1|nouvel obs,bouygues (en.fp),edf,alstom|EDF|ALO,EN
+1|baker hughes (bhi),aker solutions|AKA|AKSO,AKER
+1|seymour,smiths news,frontline|CNCT|SMIN
+1|reed elsevier,exane bnp paribas|REL|REN,BNP
+1|petrobras,aker solutions|AKA|AKSO,AKER
+1|stahl,clariant|MF|CLN
+1|evenbase recruitment,stepstone uk,uk's cma|DMGT|BCA
+1|fda,nda|LUN|COPN
+1|slim-fast,unilever,kainos capital|ULVR|KNOS,UNA
+1|danske bank,ab|ORES|DANSKE
+1|aker solutions,aker oilfield services|AKA|AKSO,AKER
+1|allianz global investors europe,fondsdepot bank|XCH|ALV
+1|bertolli,unilever,mizkan|ULVR|UNA
+1|ing,nn|NN|INGA
+1|repubblica,puma,pomellato|KER|PUM
+1|reed elsevier,rsmeans,reed construction data|REL|REN
+1|reed elsevier,rsmeans,city am,reed construction data|REL|REN
+1|nomura securities,heineken|HEIO|HEIA
+1|3i,agent provocateur,sky news|III|SKY
+1|goldman sachs,unilever|ULVR|UNA
+1|bloomberg,sns securities,heineken|HEIO|HEIA
+1|eurotunnel,cma|GET|BCA
+1|3i,eltel networks-- bloomberg|III|ELTEL
+1|galp,eni (eni.im)|GALP|ENI
+1|unilever,qinyuan|ULVR|UNA
+1|le monde,bouygues|NUM|EN
+1|bouygues (en.fp),le monde|NUM|EN
+1|deb,fda|SHP|COPN
+1|swip,aberdeen asset management (adm.ln)|LLOY|ADN
+1|bloomberg,commerzbank securities|ZO1|CBK
+1|banca imi,asos|YNAP|ASC,IMI
+1|vivendi's sfr,reuters|NUM|VIV
+1|goldman sachs international (sg),man|EMG|MAN
+1|galp,eni (eni.im)|GALP|ENI
+1|colgate palmolive (cl),ing,unilever|ULVR|INGA,UNA
+1|sky news,santander uk,fca|SAN|SKY
+1|citi,man|EMG|MAN
+1|restaurant,investec|RTN|INVP
+1|glencore, sumitomo,eu commission,clermont|RIO|GLEN
+1|man,man investments canada|EMG|MAN
+1|bloomberg,kraft (krft), pinnacle (pf),unilever|ULVR|UNA
+1|bloomberg,unilever,heinz and 3g capital|ULVR|UNA
+1|international inspection services,intertek|LAM|ITRK
+1|man,rbc capital|EMG|MAN
+1|altice-numericable (num.fp),le figaro,sfr|VIV|NUM,ATC
+1|unilever's ragu,bloomberg|ULVR|UNA
+1|bloomberg,altice (atc.na),sfr|VIV|ATC
+1|ciments franais,italmobiliare|IT|ITM
+1|scheer,sap|SOW|SAP
+1|deutsche bank,goldman sachs|WLN|DBK
+1|socgen,bilanz,commerzbank (cbk.gr),reuters|GLE|CBK
+1|germany's bundeskartellamt,telefonica|KPN|TEF
+1|telefonica (tef.sm),e-plus|KPN|TEF
+1|citi,man|EMG|MAN
+1|unilever,daily mail,brylcreem|ULVR|DMGT,UNA
+1|drillisch,telefnica deutschland|O2D|DRI
+1|vig,axa biztost zrt|VIG|CS
+1|aker solutions,nordea|AKA|AKSO,AKER
+1|deutsche bank,cvc,merlin,reuters,morgan stanley,blackstone|MERL|DBK
+1|quality hotel expo,aker solutions|AKA|AKSO,AKER
+1|man,man investments canada|EMG|MAN
+1|odac,fda|AZN|COPN
+1|odac,fda|AZN|COPN
+1|bild,ec,telefonica, e-plus|KPN|TEF
+1|orascom development,cape citadel,falcon hotels|ODHN|CIU
+1|bloomberg,bouygues|ILD|EN
+1|pine grove asset management llc,man|EMG|MAN
+1|fda,cerdelga|SAN|COPN
+1|numeric,man|EMG|MAN
+1|numeric holdings (private),man|EMG|MAN
+1|reed elsevier,abn amro|REL|REN
+1|silvermine capital management llc,man|EMG|MAN
+1|us,fda|LUN|COPN
+1|merrill lynch alternative investments llc's fund of hedge fund portfolio,man|EMG|MAN
+1|sunday times,unilever|ULVR|UNA
+1|ing-bob life,bnp paribas cardif,nn|NN|INGA,BNP
+1|versalis,saras (srs.im)|ENI|SRS
+1|omer telecom limited, virgin mobiles,sfr|NUM|TEP
+1|unibail-rodamco (ul.na),city of brussels|CFEB|UL
+1|bloomberg,unilever|ULVR|UNA
+1|bloomberg,unilever|ULVR|UNA
+1|william demant invest,vitrolife,bure|BURE|VITR,WDH
+1|reed elsevier's lexisnexis,ftc,market science|REL|REN
+1|bloomberg,kering|PUM|KER
+1|erste foundation,erste group bank,caixabank|EBS|CABK
+1|unilever,talenti gelato & sorbetto|ULVR|UNA
+1|bouygues (en.fp),le figaro|ILD|EN
+1|akastor,credit suisse|AKA|CSGN
+1|socgen,energizer personal care (post,unilever,colgate-palmolive (cl)|ULVR|UNA
+1|unilever,wsj's heard|ULVR|UNA
+1|akka technologies (aka.fp),dassault systmes|DSY|AKA
+1|barclaycard,logic,uk's cma|BARC|BCA
+1|ubs,man|EMG|UBSG,MAN
+1|qinetiq,sky news|BBY|SKY
+1|iag,ubs|IAG|UBSG
+1|vodafone (vod.ln), ee, o2 (tef.sm),london times,bskyb|SKY|VOD
+1|ubs,man|EMG|UBSG,MAN
+1|ubs,man|EMG|UBSG,MAN
+1|fda,carbella,nda|LUN|COPN
+1|hsbc,man|EMG|MAN,HSBA
+1|investor (inve.b.ss),wrtsil|FIS1V|WRT1V
+1|fda,reuters|BIM|COPN
+1|eu,portuguese electricity regulator|REE|EDP
+1|shell (rdsa.ln),total (fp.fp)|RUI|FP
+1|deutsche wohnen,conwert immobilien|CWI|DWNI
+1|conwert,deutsche wohnen,reuters|CWI|DWNI
+1|conwert,deutsche wohnen|CWI|DWNI
+1|logista,societe generale|LOG|GLE
+1|william hill (wmh.ln),holdings|888|WMH
+1|deutsche bank,peugeot|UG|DBK
+1|akastor,dnb markets|AKA|DNB
+1|credit suisse,nn|NN|CSGN
+1|william hill (wmh.ln),holdings|888|WMH
+1|william hill (wmh.ln),holdings,london times|888|WMH
+1|hitachi,breda,ansaldo sts (sts.im)|FNC|STS
+1|empaque,heineken|HEIO|HEIA
+1|goldman sachs,man|EMG|MAN
+1|barclays bank,eu,cnp|CNP|BARC
+1|commerzbank securities,nn|NN|CBK
+1|reed elsevier,eu|REL|REN
+1|fda,biofire|BIM|COPN
+1|man,newsmith|EMG|MAN
+1|exane bnp paribas,tui|TUI|BNP
+1|delhaize,royal ahold (ha.na)|DELB|AH
+1|bloomberg,buwog (bwo.av),conwert immobilien|CWI|BWO
+1|novartis,advair|GSK|NOVN
+1|hitachi,eu,ansaldo sts,ansaldobreda|FNC|STS
+1|pimco total return fund,reuters|ALV|FP
+1|ing (inga.na),nn|NN|INGA
+1|ing (inga.na),nn|NN|INGA
+1|cfo,unilever|ULVR|UNA
+1|bloomberg,banco santander|FP|SAN
+1|court of appeal,cma|GET|BCA
+1|ing group (inga.na),nn|NN|INGA
+1|repubblica,ansaldo-hitachi|FNC|STS
+1|repubblica,ansaldo-hitachi|FNC|STS
+1|williams & glyn,cma|RBS|BCA
+1|agm,man|EMG|MAN
+1|bla,fda|GSK|COPN
+1|drillisch (dri.gr),telefnica deutschland|O2D|DRI
+1|kion group (kgx.gr),handling automation division,egemin|ACKB|KGX
+1|nhh,banco santander (san.sm),el confidencial|NHH|SAN
+1|reed elsevier,goldman sachs|REL|REN
+1|kings cross,savills (svs.ln),dhl|DPW|SVS
+1|software innovation,norwegian competition authority|TIE1V|SOW
+1|bloomberg,rheinmetall (rhm.gr), thales (ho.fp),pe|AIR|HO,RHM
+1|bloomberg,rheinmetall (rhm.gr), thales (ho.fp),pe|AIR|HO,RHM
+1|ubs,british foods|ABF|UBSG
+1|barclays,nn|NN|BARC
+1|akastor,aker (aker.no)|AKA|AKER
+1|fda,sbla,actemra|ROG|COPN
+1|heineken holding,kbc|HEIO|HEIA,KBC
+1|m&m international srl,rotork (ror.ln),spirax-sarco|SPX|ROR
+1|ubs,hispania activos inmobiliarios|HIS|UBSG
+1|shell,motor fuel,uk's cma|RDSB|BCA
+1|goldman sachs,unilever|ULVR|UNA
+1|credit suisse,nn|NN|CSGN
+1|mller,dairy crests,uk's cma|DCG|BCA
+1|restaurant,deutsche bank|RTN|DBK
+1|cma,diageos,heineken|DGE|BCA,HEIA
+1|akastor,danske bank|AKA|DANSKE
+1|cma,diageos,heineken|DGE|BCA,HEIA
+1|edf's edison,repubblica,eni|EDF|ENI
+1|edf's edison,repubblica,eni|EDF|ENI
+1|man,rbc capital|EMG|MAN
+1|capita (cpi.ln),sky news|XCH|CPI,SKY
+1|bournemouth water,cma|PNN|BCA
+1|ubs,sole24ore,santander private banking italia|SAN|UBSG
+1|seb enskilda,akastor|AKA|SK
+1|desnoes & geddes limited,heineken|HEIO|HEIA
+1|bla,fda,sandoz|NOVN|COPN
+1|enel (enel.im),egp,enel|EGPW|ENEL
+1|euronext,energie|DIREN|ENX
+1|diageos (dge.ln),cma,heineken|HEIO|BCA,HEIA
+1|schneider,aveva|SU|AVV
+1|expansion,enel (enel.im),endesa (ele.sm)|EGPW|ENEL,ELE
+1|novartis,eu,ofatumumab|GSK|NOVN
+1|galp,galps,eni|GALP|ENI
+1|fda,philips|PHIA|COPN
+1|drillisch (dri.gr),telefonica deutschland|O2D|DRI,TEF
+1|unilever,wsj's heard|ULVR|UNA
+1|silvermine capital,man|EMG|MAN
+1|telefnica,sky (sky.ln)|TEF|SKY
+1|street takeaways,unilever|ULVR|UNA
+1|gocompare.com,uk's cma|ESUR|BCA
+1|reed elsevier's lexisnexis,health market science|REL|REN
+1|reed elsevier,newsflo|REL|REN
+1|logista,societe generale|LOG|GLE
+1|dunnhumby,sky news|TSCO|SKY
+1|edf energy,sky news|EDF|SKY
+1|tui,credit suisse|TUI|CSGN
+1|kymmene,upm,dnb markets|UPM1V|DNB
+1|glencore (glen.ln),bhp,south32,bernstein,australian financial review|BLT|GLEN
+1|arcep,orange (ora.fp)|ILD|ORA
+1|bank of america merrill lynch,relx|REL|REN
+1|jordan publishing,relx,uk's cma|REL|BCA,REN
+1|phoenix,guardian financial,cinven,sky news|PHNX|SKY
+1|partnership assurance,uk's cma|JRG|BCA
+1|fda,sbla|BAYN|COPN
+1|fda,zeiss medical technology|AFX|COPN
+1|barclays,ado properties|ADJ|BARC
+1|ubs,neste|NESTE|UBSG
+1|fda,diurnal's chronocort|IPO|COPN
+1|lagunitas brewing,heineken|HEIO|HEIA
+1|fda,thursday's obstetrics and gynecology devices panel|BAYN|COPN
+1|neste,societe generale|NESTE|GLE
+1|"brassivoire",cfao,heineken|HEIO|HEIA
+1|orfadin,fda|SOBI|COPN
+1|inwit,telecom italia (tit.im),cellnex,expansion|CLNX|INW,TEP,TIT
+1|ec,amadeus,navitaire,uk's cma|AMS|BCA
+1|fda,genentechs|ROG|COPN
+1|fda,philips|PHIA|COPN
+1|fda,sandoz|NOVN|COPN
+1|ic hong kong,intercontinental|IHG|IC
+1|aberdeen asset management,ca immobilien|CAI|ADN
+1|mllers,cma,dairy crests|DCG|BCA
+1|bofa ml, deutsche, ing,morgan stanley,ing group (inga.na),nn|NN|INGA
+1|ftc,lagunitas brewing,heineken|HEIO|HEIA
+1|rodin, berlioz,dfds|GET|DFDS
+1|sabmiller,wsj,ab inbev|ABI|SAB
+1|fda,biovitrum|SOBI|COPN
+1|sabmiller,ab inbev|ABI|SAB
+1|3i,mayborn,sky news|III|SKY
+1|fda,genmab|NOVN|COPN,GEN
+1|3i,mkm,sky news|III|SKY
+1|bloomberg,alacatel-lucent,nokia (nok1v.fh)|ALU|NOKIA
+1|bloomberg,alacatel-lucent,nokia (nok1v.fh)|ALU|NOKIA
+1|smn,sparebank,seb enskilda|MING|SK
+1|binas genomic management solution,bina technologies, astrazeneca|ROG|AZN
+1|reed elsevier,bank of america merrill lynch|REL|REN
+1|ubs,hispania activos inmobiliarios|HIS|UBSG
+1|proact,ponsse|PACT|PON1V
+1|fda,sandoz,glatopa|NOVN|COPN
+1|fda,sandoz|NOVN|COPN
+1|fda,genentech,gazyva|ROG|COPN
+1|chilectra,enersis, endesa chile|ENEL|ELE
+1|pimco total return fund,wsj|ALV|FP
+1|ei towers,rai|RWAY|EIT
+1|hitachi,eu,ansaldo sts,ansaldobreda|FNC|STS
+1|eu,berlingske,teliasonera|TEL|TLSN
+1|lundbeck,fda,otsuka|LUN|COPN
+1|airports commission,sky news|FER|SKY
+1|shell,motor fuel,uk's cma|RDSB|BCA
+1|exor (exo.im),the economist|PSON|EXO
+1|ryanair,cma,iag|IAG|BCA
+1|uk asset resolution (ukar) --sky news,computershare,hml|CPI|SKY
+1|laggan, tormore, edradour, glenlivet,sse e&p uk|FP|SSE
+1|novartis,fda|GEN|NOVN,COPN
+1|unilever,ftc|ULVR|UNA
+1|unilever,ftc,dermalogica skincare|ULVR|UNA
+1|alstom, deme,merkur offshore|ACKB|ALO
+1|unilever,sky news|ULVR|SKY,UNA
+1|man,rbc capital|EMG|MAN
+1|sky news,gala coral|LAD|SKY
+1|reliance jio,lithium-ion battery systems,telecom base stations|SAFT|TEP
+1|fda,exelon|NOVN|COPN
+1|hill & smith,cma|HILS|BCA
+1|iss,partnerre (pre)|EXO|ISS
+1|ceo,aker philadelphia shipyard|AKA|AKER
+1|orphan biovitrum,deutsche bank|SOBI|DBK
+1|w corbett,cma|HILS|BCA
+1|eersis, endesa,chilectra|ENEL|ELE
+1|sell merrick pet care,swander pace capital,nestl purina|NESN|PIC
+1|repubblica,ei towers|RWAY|EIT
+1|wpp,tescos dunnhumby|TSCO|WPP
+1|ubs,tui|TUI|UBSG
+1|restaurant,barclays|RTN|BARC
+1|bristol-myers' opdivo,fda,lonza|LONN|COPN
+1|puma,handelsblatt|RHM|PUM
+1|rte,terna rete italia|PRY|TRN
+1|fda,genentech|ROG|COPN
+1|yara,sapa|ORK|YAR
+1|immofinanz,ca immobilien|CAI|IIA
+1|immofinanz (iia.av),ca immobilien|CAI|IIA
+1|bloomberg,siltronic|WCH|WAF
+1|bloomberg,siltronic|WCH|WAF
+1|barclays bank,eu,cnp|CNP|BARC
+1|consob,ei towers|RWAY|EIT
+1|fda,laba|GSK|COPN
+1|reed elsevier,bloomberg,kbc (pre-european|REL|REN,KBC
+1|consob,ei towers (eit.im),reuters|RWAY|EIT
+1|la tribune,iliad|NUM|ILD
+1|goldman sachs,heineken|HEIO|HEIA
+1|altice (atc.na),kpns base,liberty global (lbtya),telegraaf|KPN|ATC
+1|danske bank,neste|NESTE|DANSKE
+1|mller,cma,dairy crests|DCG|BCA
+1|fda,nda|SAN|COPN
+1|pimco total return fund,wsj|ALV|FP
+1|cma,intercity east coast|SGC|BCA
+1|wsj,banco santander brasil (sanb11.bz),banco bradesco,banco itau|HSBA|SAN
+1|reed elsevier,barclays|REL|REN,BARC
+1|delhaize,ahold,telegraaf|DELB|AH
+1|delhaize,ahold|DELB|AH
+1|delhaize,ahold,ahold (ah.na), delhaize|DELB|AH
+1|unilever,dermalogica skincare|ULVR|UNA
+1|reed elsevier,investec|REL|REN,INVP
+1|iag,aer lingus,banco santander|IAG|SAN
+1|bloomberg,oci (oci.na)|HTG|OCI
+1|eurotunnel,sky|GET|SKY
+1|lloyds bank,sky news|LLOY|SKY
+1|rolls royce marine,sunnmre district court,kongsberg evotec|KOG|EVT
+1|french group committee,nokia|ALU|NOKIA
+1|homeplus,korea economic daily,carlyle group (cg), orion corp (001800.ks)|TSCO|ORNBV
+1|fda,wsj|BAYN|COPN
+1|dassault systmes,safran (saf.fp)|DSY|SAF
+1|bloomberg,telecom italia (tit.im)|BOL|TEP,TIT
+1|agfa healthcare,fda|AGFB|COPN
+1|fda,stivarga|BAYN|COPN
+1|galp,endesa (ele.sm)|GALP|ELE
+1|nibe industrier,dnb markets|NIBEB|DNB
+1|apax partners,sky,dunnhumby|TSCO|SKY
+1|rodin will,myferrylink,berlioz,dfds|GET|DFDS
+1|natwest,sky news|RBS|SKY
+1|(tfi.fp),natixis,bouygues,prosieben|PSM|KN,EN
+1|man,sky news|EMG|SKY,MAN
+1|celesios,cma,sainsburys|SBRY|BCA
+1|comcast,daily mail|ITV|DMGT
+1|comcast,daily mail|ITV|DMGT
+1|danske bank,investment|ORES|DANSKE
+1|novartis,eu|GSK|NOVN
+1|fda,uptravi nda|ATLN|COPN
+1|citi,man|EMG|MAN
+1|omnium,le figaro,faurecia's exterior systems|POM|EO
+1|neste, veolia (vie.fp),borealis|NESTE|VIE
+1|seb enskilda,neste|NESTE|SK
+1|macquarie,man|EMG|MAN
+1|prime site,boas senior care|SPSN|SNR
+1|williams & glyn,cma|RBS|BCA
+1|eurotunnel,supreme court,cma|GET|BCA
+1|tcb,unilever|ULVR|UNA
+1|heathrow. backs,davies commission|IAG|FER
+1|cvc capital, investcorp,barclays,canaccord,paysafe|PAYS|BARC
+1|barclays,canaccord,paysafe|PAYS|BARC
+1|fda,genentechs alecensa (alectinib)|ROG|COPN
+1|le monde,lagardere|ATC|MMB
+1|aberdeen asset management (adn.ln),rogge global partners,sky news|OML|SKY,ADN
+1|3i,sky news|III|SKY
+1|restaurant,ubs|RTN|UBSG
+1|eni (eni..im) gas & power,edf,edison|EDF|ENI
+1|ubs,neste|NESTE|UBSG
+1|british foods,societe generale|ABF|GLE
+1|eni (eni.im),technips,east hub development|TEC|ENI
+1|the financial times,nikkei,cma|PSON|BCA
+1|the financial times,nikkei,cma|PSON|BCA
+1|3i,mayborn,sky news|III|SKY
+1|metlac,akzonobel,uk's cma|AKZA|BCA
+1|man,jefferies|EMG|MAN
+1|argos,amazon,sky news|HOME|SKY
+1|fda,sandoz|NOVN|COPN
+1|repubblica,unilever|ULVR|UNA
+1|apollo global management (apo),capita (cpi.ln)|XCH|CPI
+1|al noor,nmc health (nmc.ln), vps healthcare|ANH|NMC
+1|telefonica (tef.sm),prisa|PRS|TEF
+1|ubs,applus|APPS|UBSG
+1|north sea midstream partners,uk's cma|FP|BCA
+1|kier bam,hinkley point|BAMNB|KIE,EDF
+1|deutsche bank,relx|REL|REN,DBK
+1|ny post,sabmiller (sab.ln),anheuser-busch|ABI|SAB
+1|ny post,sabmiller (sab.ln),anheuser-busch|ABI|SAB
+1|sainsburys supermarkets limited uk pharmacy business,cma,celesio (cls1.gr)|SBRY|BCA,CLS1
+1|bloomberg,ing financial|DIE|INGA
+1|pivovarna lako,heineken|HEIO|HEIA
+1|the financial times,nikkei,uk's cma|PSON|BCA

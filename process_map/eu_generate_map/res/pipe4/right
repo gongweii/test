@@ -1,0 +1,3475 @@
+1|ultra electronics,investec|ULE|ULE,INVP
+1|hsbc,amlin|AML|HSBA,AML
+1|hsbc,drax|DRX|HSBA,DRX
+1|credit suisse,merlin entertainments|MERL|CSGN,MERL
+1|barclays,lancashire holdings limited|LRE|BARC,LRE
+1|barclays,munich re|MUV2|BARC,MUV2
+1|serco,ubs|SRP|UBSG,SRP
+1|barclays,sap|SAP|BARC,SAP
+1|solaia,buwog,immofinanz|IIA|BWO,IIA
+1|deutsche bank,osram licht|OSR|DBK,OSR
+1|merck,deutsche bank|MRK|DBK,MRK
+1|danske bank,pandora|PNDORA|DANSKE,PNDORA
+1|dairy crest,investec|DCG|DCG,INVP
+1|hsbc,mlp|MLP|HSBA,MLP
+1|havas,societe generale|HAV|HAV,GLE
+1|hsbc,scor|SCR|HSBA,SCR
+1|deutsche bank,weir|WEIR|DBK,WEIR
+1|hsbc,havas|HAV|HSBA,HAV
+1|bloomberg,sanofi,fda,lemtrada|SAN|SAN,COPN
+1|barclays,deutsche bank|BARC|BARC,DBK
+1|deutsche bank,cargotec|CGCBV|DBK,CGCBV
+1|intertek,natixis|ITRK|KN,ITRK
+1|melexis,natixis|MELE|MELE,KN
+1|deutsche bank,k+s|SDF|DBK,SDF
+1|hsbc,tesco|TSCO|HSBA,TSCO
+1|amec,credit suisse|AMFW|AMFW,CSGN
+1|deutsche telekom,scout24|DTE|G24,DTE
+1|hsbc,weir|WEIR|HSBA,WEIR
+1|easyjet,hsbc|EZJ|HSBA,EZJ
+1|hsbc,dnb|DNB|HSBA,DNB
+1|hsbc,smiths|SMIN|HSBA,SMIN
+1|ubs,royal mail|RMG|RMG,UBSG
+1|barclays,metro|MEO|BARC,MEO
+1|nordea bank,societe generale|NDA|GLE,NDA
+1|danske bank,societe generale|DANSKE|GLE,DANSKE
+1|hsbc,mobistar|MOBB|HSBA,MOBB
+1|mtu aero,ubs|MTX|MTX,UBSG
+1|ubs,mitie|MTO|MTO,UBSG
+1|barclays,britvic|BVIC|BARC,BVIC
+1|fda,ion beam applications|IBAB|IBAB,COPN
+1|danske bank,raisio|RAIVV|RAIVV,DANSKE
+1|deutsche bank,cewe color holding|CWC|DBK,CWC
+1|remy cointreau,societe generale|RCO|RCO,GLE
+1|biomerieux,biocartis|BIM|BIM,BCART
+1|ubs,adidas|ADS|UBSG,ADS
+1|deutsche bank,british land|BLND|DBK,BLND
+1|statoil,omv|STL|OMV,STL
+1|deutsche bank,croda international|CRDA|DBK,CRDA
+1|international consolidated airlines,deutsche bank|IAG|DBK,IAG
+1|asm international,bloomberg,kbc|ASM|ASM,KBC
+1|sponda,danske bank|SDA1V|DANSKE,SDA1V
+1|h+h international,danske bank|HH|HH,DANSKE
+1|deutsche bank,ca immobilien anlagen|CAI|DBK,CAI
+1|deutsche bank,cts eventim|EVD|DBK,EVD
+1|stada arzneimittel,deutsche bank|SAZ|DBK,SAZ
+1|hsbc,k+s|SDF|HSBA,SDF
+1|ubs,astrazeneca|AZN|UBSG,AZN
+1|ubs,alcatel-lucent|ALU|ALU,UBSG
+1|renault,ubs|RNO|UBSG,RNO
+1|societe generale,royal bank of scotland|RBS|GLE,RBS
+1|ucb,fda,snda|UCB|COPN,UCB
+1|bnp paribas,royal bank of scotland|RBS|BNP,RBS
+1|bloomberg,deutsche telekom,scout24,hellman & friedman|DTE|G24,DTE
+1|cfe,eu commission,ackermans & van haaren|ACKB|ACKB,CFEB
+1|deutsche bank,atlantia|ATL|DBK,ATL
+1|bodycote,investec|BOY|BOY,INVP
+1|naloxegol,fda,astrazeneca,nda|AZN|AZN,COPN
+1|ubs,uniqa|UQA|UQA,UBSG
+1|deutsche bank,uniqa|UQA|DBK,UQA
+1|kpn,credit suisse|KPN|CSGN,KPN
+1|ubs,travis perkins|TPK|TPK,UBSG
+1|glencore xstrata,deutsche bank|GLEN|DBK,GLEN
+1|bouygues,alstom|EN|ALO,EN
+1|credit agricole,banco santander|ACA|ACA,SAN
+1|intercontinental hotels,cls holdings|CLI|CLI,IHG
+1|deutsche bank,alstria|AOX|DBK,AOX
+1|bouygues,alstom|EN|ALO,EN
+1|deutsche bank,aareal bank|ARL|DBK,ARL
+1|banco popular espanol,societe generale|POP|GLE,POP
+1|capgemini,societe generale|CAP|CAP,GLE
+1|statoil,danske bank|STL|DANSKE,STL
+1|investec,weir|WEIR|WEIR,INVP
+1|buwog,immofinanz|IIA|BWO,IIA
+1|hsbc,veolia environnement|VIE|HSBA,VIE
+1|hsbc,caixabank|CABK|HSBA,CABK
+1|deutsche bank,fraport|FRA|DBK,FRA
+1|foxtons,credit suisse|FOXT|CSGN,FOXT
+1|ubs,siemens|SIE|UBSG,SIE
+1|investec,lloyds banking|LLOY|LLOY,INVP
+1|finmeccanica,societe generale|FNC|FNC,GLE
+1|eu commission,telenor, schibsted|TEL|SCHA,TEL
+1|standard chartered,banco santander|STAN|STAN,SAN
+1|melia hotels international,banco santander|MEL|SAN,MEL
+1|repsol,natixis|REP|REP,KN
+1|telecom italia,natixis|TIT|KN,TIT
+1|deutsche bank,lancashire holdings limited|LRE|DBK,LRE
+1|shanks,credit suisse|SKS|SKS,CSGN
+1|goldman, barclays,merlin entertainments|MERL|BARC,MERL
+1|hsbc,koenig & bauer|SKB|HSBA,SKB
+1|hsbc,pennon|PNN|HSBA,PNN
+1|beneteau,societe generale|BEN|GLE,BEN
+1|inmarsat,barclays|ISAT|BARC,ISAT
+1|barclays,coca cola hbc|CCH|BARC,CCH
+1|fda,paion|PA8|PA8,COPN
+1|anheuser-busch inbev,societe generale|ABI|ABI,GLE
+1|sofina,exmar,saverex|EXM|EXM,SOF
+1|peugeot citroen,renault|UG|RNO,UG
+1|ultra electronics,investec|ULE|ULE,INVP
+1|chemring,investec|CHG|CHG,INVP
+1|kbc ancora,kbc groep,cera|KBC|KBCA,KBC
+1|kbc ancora,kbc|KBCA|KBCA,KBC
+1|barratt developments,credit suisse|BDEV|CSGN,BDEV
+1|hsbc,erste bank|EBS|HSBA,EBS
+1|ubs,balfour beatty|BBY|UBSG,BBY
+1|aberdeen asset management,lloyds banking|LLOY|ADN,LLOY
+1|veolia,electricite de france,morgan stanley|VIE|VIE,EDF
+1|fda,btg|BTG|BTG,COPN
+1|fugro,natixis|FUR|FUR,KN
+1|asml holding,societe generale|ASML|ASML,GLE
+1|ubs,sponda|SDA1V|UBSG,SDA1V
+1|barclays,sonae sgps|SON|BARC,SON
+1|citi, ubs,bofa/ml,safran|SAF|SAF,UBSG
+1|drax,investec|DRX|INVP,DRX
+1|investec,royal bank of scotland|RBS|RBS,INVP
+1|hsbc,sainsbury|SBRY|HSBA,SBRY
+1|hsbc,flybe|FLYB|HSBA,FLYB
+1|deutsche bank,phoenix group holdings|PHNX|DBK,PHNX
+1|ubs,brembo|BRE|UBSG,BRE
+1|barclays,e.on|EOAN|BARC,EOAN
+1|credit suisse,terna|TRN|CSGN,TRN
+1|fda,bayer|BAYN|BAYN,COPN
+1|hsbc,aberdeen asset management|ADN|HSBA,ADN
+1|deutsche bank,merlin entertainments|MERL|DBK,MERL
+1|serco,credit suisse|SRP|CSGN,SRP
+1|flughafen zuerich,credit suisse|FHZN|CSGN,FHZN
+1|barclays,daily mail|DMGT|BARC,DMGT
+1|metso,valmet|MEO1V|VALMT,MEO1V
+1|danske bank,schibsted|SCHA|SCHA,DANSKE
+1|danske bank,schibsted|SCHA|SCHA,DANSKE
+1|skandia poland,old mutual,vienna insurance|OML|VIG,OML
+1|carl zeiss meditec,hsbc|AFX|HSBA,AFX
+1|hsbc,compugroup medical|COP|HSBA,COP
+1|hsbc,sartorius|SRT3|HSBA,SRT3
+1|deutsche bank,edp energias de portugal|EDP|DBK,EDP
+1|ubs,balfour beatty|BBY|UBSG,BBY
+1|british sky broadcasting,credit suisse|SKY|SKY,CSGN
+1|arkema,societe generale|AKE|AKE,GLE
+1|pernod ricard,societe generale|RI|RI,GLE
+1|deutsche telekom,scout24,hellman & friedman|DTE|G24,DTE
+1|hsbc,michelin|ML|HSBA,ML
+1|hsbc,arm holdings|ARM|HSBA,ARM
+1|ubs,antofagasta|ANTO|UBSG,ANTO
+1|saras,societe generale|SRS|GLE,SRS
+1|edison (edc.gr), gazprom,eni,e.on|EOAN|EOAN,ENI
+1|deutsche bank,amadeus it|AMS|DBK,AMS
+1|repsol,natixis|REP|REP,KN
+1|hsbc,telecom italia|TIT|HSBA,TIT
+1|boliden,credit suisse|BOL|CSGN,BOL
+1|ubs,euromoney institutional investor|ERM|UBSG,ERM
+1|deutsche bank,kws saat|KWS|DBK,KWS
+1|publicis groupe,lagardere,regie|PUB|MMB,PUB
+1|tnt express,postnl|PNL|PNL,TNTE
+1|tnt express,postnl|PNL|PNL,TNTE
+1|deutsche bank,ultra electronics|ULE|DBK,ULE
+1|hsbc,deutsche wohnen|DWNI|HSBA,DWNI
+1|hsbc,leg immobilien|LEG|HSBA,LEG
+1|hsbc,deutsche annington immobilien|VNA|HSBA,VNA
+1|hsbc,tag immobilien|TEG|HSBA,TEG
+1|dcc,ubs|DCC|UBSG,DCC
+1|danske bank,af gruppen|AFG|AFG,DANSKE
+1|rightmove,investec|RMV|RMV,INVP
+1|mapfre,banco santander|MAP|MAP,SAN
+1|wereldhave,societe generale|WHA|GLE,WHA
+1|gdf suez,isab energy,erg|ERG|ENGI,ERG
+1|gamesa,edp renovaveis|GAM|EDPR,GAM
+1|tnt express,postnl|TNTE|PNL,TNTE
+1|foxtons,credit suisse|FOXT|CSGN,FOXT
+1|hsbc,wendel|MF|HSBA,MF
+1|ubs,hochtief|HOT|HOT,UBSG
+1|ubs,faurecia|EO|UBSG,EO
+1|merck,societe generale|MRK|GLE,MRK
+1|do,arena one,e.on|EOAN|EOAN,DOC
+1|barclays,vivendi|VIV|BARC,VIV
+1|barclays,pennon|PNN|BARC,PNN
+1|liberty global (lbtya),daily mail,cable & wireless communications|CWC|CWC,DMGT
+1|mediaset,mediaset espana|MS|TL5,MS
+1|metso,helsinki stock exchange,valmet|MEO1V|VALMT,MEO1V
+1|ophir energy,omv|OPHR|OMV,OPHR
+1|hsbc,luxottica|LUX|HSBA,LUX
+1|numericable,hsbc|NUM|HSBA,NUM
+1|hsbc,royal bank of scotland|RBS|HSBA,RBS
+1|fortum,credit suisse|FUM1V|FUM1V,CSGN
+1|marks & spencer,ubs|MKS|MKS,UBSG
+1|ubs,asos|ASC|ASC,UBSG
+1|ubs,seb|SK|SK,UBSG
+1|barclays,merlin entertainments|MERL|BARC,MERL
+1|kemira,brenntag|KRA1V|KRA1V,BNR
+1|cembra money bank,deutsche bank|CMBN|DBK,CMBN
+1|cembra money bank,credit suisse|CMBN|CSGN,CMBN
+1|marston,barclays|MARS|BARC,MARS
+1|telecom italia,credit suisse|TIT|CSGN,TIT
+1|metso,valmet|MEO1V|VALMT,MEO1V
+1|deutsche bank,eni|ENI|DBK,ENI
+1|hsbc,gamesa|GAM|HSBA,GAM
+1|ubs,bilfinger berger|GBF|GBF,UBSG
+1|enagas,deutsche bank|ENG|DBK,ENG
+1|deutsche bank,gas natural|GAS|DBK,GAS
+1|numericable,barclays|NUM|BARC,NUM
+1|deutsche bank,home retail|HOME|DBK,HOME
+1|sandvik,deutsche bank|SAND|SAND,DBK
+1|centrica,societe generale|CNA|CNA,GLE
+1|deutsche bank,anglo american|AAL|DBK,AAL
+1|interparfums,l'oreal,nickel|ITP|OR,ITP
+1|centrica,deutsche bank|CNA|DBK,CNA
+1|vontobel,kuoni|KUNN|VONN,KUNN
+1|icade,klepierre|ICAD|ICAD,LI
+1|hsbc,tesco|TSCO|HSBA,TSCO
+1|ubs,thomas cook|TCG|UBSG,TCG
+1|ubs,shire|SHP|UBSG,SHP
+1|barclays,debenhams|DEB|BARC,DEB
+1|cfo,vivendi,wsj,havas|VIV|VIV,HAV
+1|bloomberg,vestas wind systems,danske bank|VWS|VWS,DANSKE
+1|ucb,barclays|UCB|BARC,UCB
+1|ubs,imagination technologies|IMG|IMG,UBSG
+1|ubs,accor|AC|UBSG,AC
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|carnival,natixis|CCL|CCL,KN
+1|fda,bayer,bayer's advantage multi (imidacloprid|BAYN|BAYN,COPN
+1|carnival,credit suisse|CCL|CSGN,CCL
+1|glaxosmithkline,fda,sbla,genmab|GSK|GSK,GEN,COPN
+1|lvmh moet hennessy,natixis|MC|MC,KN
+1|glaxosmithkline,deutsche bank|GSK|GSK,DBK
+1|dksh,credit suisse|DKSH|CSGN,DKSH
+1|deutsche bank,ubm|UBM|DBK,UBM
+1|deutsche bank,teliasonera|TLSN|DBK,TLSN
+1|deutsche bank,iliad|ILD|DBK,ILD
+1|deutsche bank,vivendi|VIV|DBK,VIV
+1|daily mail,credit suisse|DMGT|CSGN,DMGT
+1|kazakhmys,credit suisse|KAZ|CSGN,KAZ
+1|antofagasta,credit suisse|ANTO|CSGN,ANTO
+1|barclays,grupo multi,pearson|PSON|BARC,PSON
+1|telenor,schibsted|TEL|SCHA,TEL
+1|commerzbank,thyssenkrupp,jpmorgan|TKA|TKA,CBK
+1|hsbc,thyssenkrupp|TKA|HSBA,TKA
+1|playtech,ubs|PTEC|UBSG,PTEC
+1|ubs,william hill|WMH|UBSG,WMH
+1|fda,basilea|BSLN|BSLN,COPN
+1|deutsche bank,fraport|FRA|DBK,FRA
+1|hsbc,boliden|BOL|HSBA,BOL
+1|hsbc,telenor|TEL|HSBA,TEL
+1|hsbc,imerys|NK|HSBA,NK
+1|bic,societe generale|BB|GLE,BB
+1|gas natural,credit suisse|GAS|CSGN,GAS
+1|valora holding,credit suisse|VALN|VALN,CSGN
+1|gategroup holding,credit suisse|GATE|CSGN,GATE
+1|swatch,societe generale|UHR|UHR,GLE
+1|thomas cook,credit suisse|TCG|CSGN,TCG
+1|hsbc,cargotec|CGCBV|HSBA,CGCBV
+1|neste oil,societe generale|NESTE|GLE,NESTE
+1|hsbc,thyssenkrupp|TKA|HSBA,TKA
+1|hsbc,banco bilbao vizcaya|BBVA|HSBA,BBVA
+1|ing,credit suisse|INGA|INGA,CSGN
+1|jd wetherspoon,barclays|JDW|BARC,JDW
+1|fda,astrazeneca|AZN|AZN,COPN
+1|greencore,investec|GNC|GNC,INVP
+1|storebrand,gjensidige forsikring|GJF|GJF,STB
+1|dechra pharmaceuticals,investec|DPH|INVP,DPH
+1|grupo catalana occidente,banco santander|GCO|SAN,GCO
+1|fda,bayer|BAYN|BAYN,COPN
+1|statoil,danske bank|STL|DANSKE,STL
+1|danske bank,oriola-kd|OKDBV|OKDBV,DANSKE
+1|deutsche bank,dsv|DSV|DBK,DSV
+1|ubs,l'oreal|OR|OR,UBSG
+1|hsbc,nokian renkaat|NRE1V|HSBA,NRE1V
+1|cfe,ackermans & van haaren|ACKB|ACKB,CFEB
+1|europe focus list,publicis groupe,credit suisse|PUB|CSGN,PUB
+1|technip,statoil|TEC|TEC,STL
+1|credit suisse,dnb|DNB|CSGN,DNB
+1|prosegur compania de seguridad,banco santander|PSG|PSG,SAN
+1|lisi,natixis|FII|FII,KN
+1|natixis,suez environnement|SEV|KN,SEV
+1|natixis,safran|SAF|SAF,KN
+1|royal wessanen,kbc|WES|WES,KBC
+1|hsbc,mlp|MLP|HSBA,MLP
+1|deutsche bank,safran|SAF|DBK,SAF
+1|icade,societe generale|ICAD|ICAD,GLE
+1|technip,societe generale|TEC|TEC,GLE
+1|xaar,ubs|XAR|XAR,UBSG
+1|ubs,halma|HLMA|HLMA,UBSG
+1|remy cointreau,barclays|RCO|RCO,BARC
+1|fda,shire|SHP|SHP,COPN
+1|carl zeiss meditec,hsbc|AFX|HSBA,AFX
+1|ubs,bnp paribas|BNP|BNP,UBSG
+1|ladbrokes,ubs|LAD|LAD,UBSG
+1|ubm,credit suisse|UBM|UBM,CSGN
+1|munich re,societe generale|MUV2|GLE,MUV2
+1|kbc groep,societe generale|KBC|KBC,GLE
+1|vivendi,altice|VIV|VIV,ATC
+1|vivendi,bloomberg tv,sfr,altice|VIV|VIV,ATC
+1|numericable,vivendi,bfm|VIV|NUM,VIV
+1|a2a,e.on|A2A|EOAN,A2A
+1|go-ahead,ubs|GOG|UBSG,GOG
+1|ubs,atlantia|ATL|ATL,UBSG
+1|buwog,immofinanz|IIA|BWO,IIA
+1|technicolor,thales|TCH|HO,TCH
+1|glencore, sumitomo,eu commission,rio tinto,clermont|RIO|GLEN,RIO
+1|ws atkins,investec|ATK|ATK,INVP
+1|efg international,ubs|EFGN|UBSG,EFGN
+1|peugeot citroen,natixis|UG|KN,UG
+1|uk car insurance,swiss re,admiral,hannover re, mapfre re, new re|ADM|HNR1,ADM,SREN
+1|klepierre,societe generale|LI|GLE,LI
+1|ubs,airbus|AIR|AIR,UBSG
+1|ingenico,societe generale|ING|ING,GLE
+1|edp,energias de portugal,iberdrola,ubs|IBE|IBE,UBSG
+1|barclays,kazakhmys|KAZ|BARC,KAZ
+1|fda,filmarray gastrointestinal panel,biomerieux|BIM|BIM,COPN
+1|reuters,groupe danone,fresenius|BN|FRE,BN
+1|deutsche bank,bhf-bank,germany's bafin,wsj,rhj international|BHFKB|DBK,BHFKB
+1|bnp paribas,royal bank of scotland|RBS|BNP,RBS
+1|swatch,barclays|UHR|BARC,UHR
+1|mtu aero,societe generale|MTX|MTX,GLE
+1|deutsche bank,bertrandt|BDT|DBK,BDT
+1|investec,merlin entertainments|MERL|MERL,INVP
+1|kemira,danske bank|KRA1V|DANSKE,KRA1V
+1|hsbc,petrofac|PFC|HSBA,PFC
+1|hsbc,african barrick gold|ACA|HSBA,ACA
+1|hsbc,jungheinrich|JUN3|HSBA,JUN3
+1|deutsche bank,rpc|RPC|DBK,RPC
+1|saft groupe,societe generale|SAFT|GLE,SAFT
+1|sbm offshore,societe generale|SBMO|SBMO,GLE
+1|akzo nobel,natixis|AKZA|KN,AKZA
+1|bankia,natixis|BKIA|BKIA,KN
+1|renishaw,investec|RSW|RSW,INVP
+1|hsbc,banco popular espanol|POP|HSBA,POP
+1|hsbc,bmw|BMW|HSBA,BMW
+1|aurubis,societe generale|NDA|GLE,NDA
+1|barclays,premier farnell|PFL|BARC,PFL
+1|barclays,berkeley|BKG|BARC,BKG
+1|ubs,gdf suez|ENGI|UBSG,ENGI
+1|tomra systems,danske bank|TOM|DANSKE,TOM
+1|cvs,investec|CVSG|INVP,CVSG
+1|hsbc,adidas|ADS|HSBA,ADS
+1|deutsche bank,omv|OMV|DBK,OMV
+1|loi,petrofac,ophir energy|OPHR|PFC,OPHR
+1|ubs,nokian renkaat|NRE1V|NRE1V,UBSG
+1|ubs,suez environnement|SEV|UBSG,SEV
+1|bloomberg,nestle,l'oreal|OR|NESN,OR
+1|bloomberg,nestle,l'oreal|OR|NESN,OR
+1|arcadis,kbc|ARCAD|ARCAD,KBC
+1|danske bank,dsv|DSV|DSV,DANSKE
+1|eutelsat communications,credit suisse|ETL|CSGN,ETL
+1|anglo american,societe generale|AAL|GLE,AAL
+1|ncc,deutsche post|NCC|DPW,NCC
+1|deutsche bank,genmab|GEN|DBK,GEN
+1|deutsche bank,sampo|SAMAS|DBK,SAMAS
+1|ubs,yara international|YAR|UBSG,YAR
+1|bouygues,alstom|EN|ALO,EN
+1|anglo american,credit suisse|AAL|CSGN,AAL
+1|bouygues,rothschild,reuters,sfr,hsbc|EN|HSBA,EN
+1|udg,investec|UDG|UDG,INVP
+1|hays,natixis|HAS|KN,HAS
+1|valeo,ubs|FR|FR,UBSG
+1|sopra,societe generale|SOP|SOP,GLE
+1|barclays,schneider electric|SU|BARC,SU
+1|centrica,ubs|CNA|CNA,UBSG
+1|ica gruppen,danske bank|ICA|ICA,DANSKE
+1|neste oil,danske bank|NESTE|DANSKE,NESTE
+1|gjensidige forsikring,danske bank|GJF|GJF,DANSKE
+1|intrum justitia,danske bank|IJ|IJ,DANSKE
+1|hsbc,valeo|FR|HSBA,FR
+1|jd wetherspoon,hsbc|JDW|HSBA,JDW
+1|hsbc,accor|AC|HSBA,AC
+1|hsbc,edenred|EDEN|HSBA,EDEN
+1|michael page international,credit suisse|MPI|MPI,CSGN
+1|commerzbank,hsbc|CBK|HSBA,CBK
+1|fresenius medical care,ubs|FME|UBSG,FME
+1|randgold resources,ubs|RRS|UBSG,RRS
+1|lvmh moet hennessy,credit suisse|MC|CSGN,MC
+1|bunzl,credit suisse|BNZL|BNZL,CSGN
+1|barclays,vodafone|VOD|BARC,VOD
+1|daily mail,lloyds banking|LLOY|LLOY,DMGT
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|colruyt,kbc|COLR|COLR,KBC
+1|nissan,volvo,vertu motors|VTU|VOLVB,VTU
+1|hsbc,premier farnell|PFL|HSBA,PFL
+1|hsbc,sulzer|SUN|HSBA,SUN
+1|fda,consort medical|CSRT|CSRT,COPN
+1|lloyds banking,sainsbury's bank,sainsbury|SBRY|LLOY,SBRY
+1|banco bilbao vizcaya,societe generale|BBVA|BBVA,GLE
+1|banco popular espanol,societe generale|POP|GLE,POP
+1|rio tinto,credit suisse|RIO|CSGN,RIO
+1|deutsche bank,ubs|DBK|DBK,UBSG
+1|royal wessanen,kbc|WES|WES,KBC
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|merck,ubs|MRK|UBSG,MRK
+1|ubs,temenos|TEMN|UBSG,TEMN
+1|barclays,britvic|BVIC|BARC,BVIC
+1|morrisons,barclays|MRW|BARC,MRW
+1|bnp paribas,credit suisse|BNP|BNP,CSGN
+1|les echos,siemens,alstom|SIE|ALO,SIE
+1|ion beam applications,kbc|IBAB|KBC,IBAB
+1|halfords,deutsche bank|HFD|HFD,DBK
+1|barclays,chemring|CHG|BARC,CHG
+1|logitech,credit suisse|LOGN|LOGN,CSGN
+1|commerzbank,symrise,jpmorgan|SY1|SY1,CBK
+1|enagas,ubs|ENG|UBSG,ENG
+1|babcock international,credit suisse|BAB|CSGN,BAB
+1|pandora,danske bank, goldman sachs|PNDORA|DANSKE,PNDORA
+1|wsj,siemens,alstom|ALO|ALO,SIE
+1|royal bank of scotland,daily mail,lloyds (lloy.ln)|RBS|DMGT,RBS
+1|britvic,societe generale|BVIC|BVIC,GLE
+1|grifols,societe generale|GRF|GLE,GRF
+1|fda,shire|SHP|SHP,COPN
+1|deutsche bank,atresmedia|A3M|DBK,A3M
+1|poundland,credit suisse|PLND|CSGN,PLND
+1|ubs,most preferred europe autos,michelin|ML|ML,UBSG
+1|ubs,halma|HLMA|HLMA,UBSG
+1|glencore xstrata,genel energy,telegraph|GENL|GLEN,GENL
+1|credit suisse,e.on|EOAN|EOAN,CSGN
+1|credit suisse,e.on|EOAN|EOAN,CSGN
+1|deutsche bank,aperam|APAM|DBK,APAM
+1|aperam,credit suisse|APAM|APAM,CSGN
+1|ubs,lundin petroleum|LUPE|UBSG,LUPE
+1|cobham,boa merrill lynch, ubs|COB|COB,UBSG
+1|danske bank,astrazeneca|AZN|AZN,DANSKE
+1|myferrylink,cma,groupe eurotunnel|GET|BCA,GET
+1|merrill lynch,cobham,ubs|COB|COB,UBSG
+1|skandia poland,old mutual,vienna insurance|OML|VIG,OML
+1|hsbc,electricite de france|EDF|HSBA,EDF
+1|shanks,credit suisse|SKS|SKS,CSGN
+1|credit suisse,tate & lyle|TATE|CSGN,TATE
+1|whitbread,societe generale|WTB|GLE,WTB
+1|randgold resources,ubs|RRS|UBSG,RRS
+1|kingfisher,barclays|KGF|BARC,KGF
+1|sanofi,fda|SAN|SAN,COPN
+1|cobham,investec|COB|COB,INVP
+1|hsbc,shaftesbury|SHB|HSBA,SHB
+1|remy cointreau,hsbc|RCO|RCO,HSBA
+1|orange,societe generale|ORA|ORA,GLE
+1|ipo,citigroup, bofa/ml, credit suisse,goldman sachs,saga|SAGA|CSGN,SAGA
+1|telekom austria,credit suisse|TKA|TKA,CSGN
+1|barclays,ipsen|IPN|BARC,IPN
+1|barclays,deutsche annington immobilien|VNA|BARC,VNA
+1|polymetal international,ubs|POLY|UBSG,POLY
+1|randstad holding,ubs|RAND|RAND,UBSG
+1|deutsche bank,panmure gordon,rpc|RPC|DBK,RPC
+1|james fisher & sons,investec|FSJ|FSJ,INVP
+1|deutsche bank,novo nordisk's n8-gp,swedish orphan biovitrum|SOBI|DBK,SOBI
+1|barclays,ubs|BARC|BARC,UBSG
+1|hsbc,telekom austria|TKA|HSBA,TKA
+1|thyssenkrupp,ubs|TKA|TKA,UBSG
+1|barclays,home retail|HOME|BARC,HOME
+1|gruppo campari,societe generale|CPR|GLE,CPR
+1|barclays,schibsted|SCHA|BARC,SCHA
+1|saint-gobain,wendel|MF|SGO,MF
+1|merck,bayer|BAYN|MRK,BAYN
+1|amadeus it,natixis|AMS|AMS,KN
+1|deutsche bank,croda international|CRDA|DBK,CRDA
+1|danske bank,credit suisse|DANSKE|CSGN,DANSKE
+1|barclays,bellway|BWY|BARC,BWY
+1|bull (bull.fp),orange,atos|ORA|ORA,ATO
+1|red & black lux,hugo boss,svg capital|SVI|BOSS,SVI
+1|deutsche bank,osram licht|OSR|DBK,OSR
+1|swatch,societe generale|UHR|UHR,GLE
+1|ubs,aveva|AVV|AVV,UBSG
+1|focus list,london stock exchange,credit suisse|LSE|LSE,CSGN
+1|ypsomed holding,credit suisse|YPSN|CSGN,YPSN
+1|hsbc,international personal finance|IPF|HSBA,IPF
+1|morrisons,deutsche bank|MRW|DBK,MRW
+1|anima holding,ubs|ANIM|UBSG,ANIM
+1|ubs,brown|BWNG|UBSG,BWNG
+1|petrofac,barclays|PFC|BARC,PFC
+1|prysmian,credit suisse|PRY|PRY,CSGN
+1|slm solutions,credit suisse, deutsche bank|AM3D|DBK,CSGN,AM3D
+1|deutsche bank,sss microtec|SMHN|DBK,SMHN
+1|deutsche bank,cewe color holding|CWC|DBK,CWC
+1|barclays,alstom|ALO|BARC,ALO
+1|heidelbergcement,societe generale|HEI|GLE,HEI
+1|repsol,societe generale|REP|REP,GLE
+1|ubs,orange|ORA|ORA,UBSG
+1|ubs,bouygues|EN|UBSG,EN
+1|serco,ubs|SRP|UBSG,SRP
+1|ubs,wereldhave|WHA|UBSG,WHA
+1|peugeot citroen,ubs|UG|UBSG,UG
+1|randgold resources,ubs|RRS|UBSG,RRS
+1|credit suisse,lanxess|LXS|CSGN,LXS
+1|intertek,credit suisse|ITRK|CSGN,ITRK
+1|societe generale,sage|SGE|SGE,GLE
+1|deutsche bank,nordex|NDX1|DBK,NDX1
+1|fda,biofire,biomerieux|BIM|BIM,COPN
+1|glaxosmithkline,genmab|GEN|GSK,GEN
+1|bam groep, iss,rinjstraat|BAMNB|ISS,BAMNB
+1|danske bank,teliasonera|TLSN|DANSKE,TLSN
+1|a2a,il sole,ore,gdf suez|A2A|A2A,ENGI
+1|banco popular espanol,credit suisse|POP|CSGN,POP
+1|serco,ubs|SRP|UBSG,SRP
+1|intertek,ubs|ITRK|UBSG,ITRK
+1|nexans,euronext|NEX|NEX,ENX
+1|fortum,societe generale|FUM1V|FUM1V,GLE
+1|saras,societe generale|SRS|GLE,SRS
+1|anglo american,credit suisse|AAL|CSGN,AAL
+1|barco,kbc|BAR|KBC,BAR
+1|agfa gevaert,kbc|AGFB|AGFB,KBC
+1|bouygues,alstom|EN|ALO,EN
+1|ubs,imi|IMI|IMI,UBSG
+1|barclays,lagardere|MMB|BARC,MMB
+1|smiths,investec|SMIN|SMIN,INVP
+1|statoil,danske bank|STL|DANSKE,STL
+1|tikkurila,danske bank|TIK1V|TIK1V,DANSKE
+1|astrazeneca,societe generale|AZN|AZN,GLE
+1|henkel,credit suisse|HEN3|HEN3,CSGN
+1|red electrica,societe generale|REE|REE,GLE
+1|siemens,credit suisse|SIE|CSGN,SIE
+1|infineon technologies,ubs|IFX|IFX,UBSG
+1|melexis,ubs|MELE|MELE,UBSG
+1|glencore xstrata,credit suisse|GLEN|GLEN,CSGN
+1|fresnillo,credit suisse|FRES|FRES,CSGN
+1|hsbc,deutz|DEZ|HSBA,DEZ
+1|meggitt,investec|MGGT|MGGT,INVP
+1|saras,societe generale|SRS|GLE,SRS
+1|deutsche bank,credit agricole|ACA|DBK,ACA
+1|coface,credit suisse|COFA|COFA,CSGN
+1|ubs,finecobank|FBK|FBK,UBSG
+1|ubs,zoopla|ZPLA|ZPLA,UBSG
+1|atos origin,barclays|ATO|BARC,ATO
+1|jyske bank,pandora|PNDORA|JYSK,PNDORA
+1|ontex,kbc|ONTEX|ONTEX,KBC
+1|kbc groep,natixis|KBC|KBC,KN
+1|international consolidated airlines,natixis|IAG|IAG,KN
+1|ubs,ontex|ONTEX|ONTEX,UBSG
+1|ubs,genel energy|GENL|GENL,UBSG
+1|sanofi,fda|SAN|SAN,COPN
+1|hsbc,eurofins|ERF|HSBA,ERF
+1|hsbc holdings,ubs|HSBA|HSBA,UBSG
+1|kazakhmys,ubs|KAZ|UBSG,KAZ
+1|mediaset,hsbc|MS|HSBA,MS
+1|hsbc,natixis|KN|HSBA,KN
+1|petrolia (pdr.no),lundin petroleum,e.on|LUPE|EOAN,LUPE
+1|ophir energy,societe generale|OPHR|GLE,OPHR
+1|rsa insurance,credit suisse|RSA|RSA,CSGN
+1|vivendi,gvt,telecom italia|VIV|VIV,TIT
+1|national express,uk's cma|NEX|NEX,BCA
+1|galp energia,societe generale|GALP|GLE,GALP
+1|ubs,bayer|BAYN|UBSG,BAYN
+1|efg international,credit suisse|EFGN|CSGN,EFGN
+1|vontobel,credit suisse|VONN|VONN,CSGN
+1|telecom italia,vivendi|TIT|VIV,TIT
+1|bloomberg,vivendi,telefonica|VIV|VIV,TEF
+1|spire healthcare,investec|SPI|SPI,INVP
+1|kone,credit suisse|KNEBV|CSGN,KNEBV
+1|tim participaes,telecom italia,vivendi|TIT|VIV,TIT
+1|hsbc,thyssenkrupp|TKA|HSBA,TKA
+1|deutsche bank,semperit|SEM|DBK,SEM
+1|bloomberg,telecom italia,gvt,vivendi|TIT|VIV,TIT
+1|vivendi,reuters,telefonica|TEF|VIV,TEF
+1|rentokil,investec|RTO|INVP,RTO
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|ubs,schweiter technologies|SWTQ|UBSG,SWTQ
+1|deutsche bank,electricite de france|EDF|DBK,EDF
+1|puma,borussia dortmund|PUM|PUM,BVB
+1|fda,royal philips|PHIA|PHIA,COPN
+1|arcadis,kbc|ARCAD|ARCAD,KBC
+1|ophir energy,investec|OPHR|OPHR,INVP
+1|vestas wind systems,societe generale|VWS|VWS,GLE
+1|bam groep,kbc|BAMNB|KBC,BAMNB
+1|puma,wirtschaftswoche,borussia dortmund|PUM|PUM,BVB
+1|fresenius medical care,societe generale|FME|GLE,FME
+1|credit suisse,nos|NOS|CSGN,NOS
+1|ubs,drax|DRX|UBSG,DRX
+1|metso,danske bank|MEO1V|MEO1V,DANSKE
+1|safran,societe generale|SAF|SAF,GLE
+1|natixis,safran|SAF|SAF,KN
+1|erste bank,natixis|EBS|EBS,KN
+1|deutsche bank,subsea|SUBC|DBK,SUBC
+1|royal dutch shell,societe generale|RDSB|GLE,RDSB
+1|deutsche bank,adidas|ADS|DBK,ADS
+1|deutsche bank,elior|ELIOR|DBK,ELIOR
+1|rib software,ubs|RSTA|RSTA,UBSG
+1|ubs,adidas|ADS|UBSG,ADS
+1|randgold resources,ubs|RRS|UBSG,RRS
+1|endesa,enel,bloomberg|ENEL|ENEL,ELE
+1|bhp billiton,credit suisse|BLT|CSGN,BLT
+1|gsk,fda,arnuity ellipta|GSK|GSK,COPN
+1|kbc,heineken|HEIA|KBC,HEIA
+1|danske bank,topdanmark|TOP|TOP,DANSKE
+1|societe generale,e.on|EOAN|EOAN,GLE
+1|credit suisse,compaa de distribucin integral logista|LOG|CSGN,LOG
+1|ubs,hochtief|HOT|HOT,UBSG
+1|dksh,credit suisse|DKSH|CSGN,DKSH
+1|ssp,barclays|SSPG|BARC,SSPG
+1|imcd,deutsche bank|IMCD|DBK,IMCD
+1|hsbc,buzzi unicem|BZU|HSBA,BZU
+1|euronext,ubs|ENX|UBSG,ENX
+1|credit suisse,alpiq holding|ALPH|CSGN,ALPH
+1|deutsche bank,coca cola hbc|CCH|DBK,CCH
+1|intu properties,ubs|INTU|INTU,UBSG
+1|adidas,credit suisse|ADS|CSGN,ADS
+1|agfa gevaert,kbc|AGFB|AGFB,KBC
+1|hsbc,eurazeo|RF|HSBA,RF
+1|infineon technologies,credit suisse|IFX|IFX,CSGN
+1|sodexo,credit suisse|SW|CSGN,SW
+1|enel,ubs|ENEL|UBSG,ENEL
+1|mersen,natixis|MRN|MRN,KN
+1|hsbc,norma|NOEJ|HSBA,NOEJ
+1|credit suisse,accor|AC|CSGN,AC
+1|ubs,lundin petroleum|LUPE|UBSG,LUPE
+1|barclays,osram licht|OSR|BARC,OSR
+1|easyjet,barclays|EZJ|BARC,EZJ
+1|deutsche bank,umicore|UMI|DBK,UMI
+1|deutsche bank,arkema|AKE|DBK,AKE
+1|deutsche bank,synthomer|SYNT|DBK,SYNT
+1|unibail-rodamco,societe generale|UL|GLE,UL
+1|eurazeo,societe generale|RF|RF,GLE
+1|danske bank,exiqon|EXQ|DANSKE,EXQ
+1|meggitt,societe generale|MGGT|MGGT,GLE
+1|hill & smith holdings,investec|HILS|HILS,INVP
+1|vivendi,telefonica,gvt; board|VIV|VIV,TEF
+1|ubs,iliad|ILD|ILD,UBSG
+1|fresenius medical care,ubs|FME|UBSG,FME
+1|vivendi,telefonica,global village telecom,telefonica brazil,telefnica brasil|TEF|VIV,TEF
+1|aurelius,spie,connectis|AR4|SPIE,AR4
+1|telecom italia (tit.im),vivendi,reuters,bollore,gvt|VIV|VIV,BOL
+1|ubs,mobistar|MOBB|UBSG,MOBB
+1|ubs,telenet group holding|TNET|UBSG,TNET
+1|ubs,nokian renkaat|NRE1V|NRE1V,UBSG
+1|deutsche bank,rwe|RWE|DBK,RWE
+1|deutsche bank,prime office|PMOX|DBK,PMOX
+1|ubs,petroleum geo-services|PGS|UBSG,PGS
+1|ubs,gdf suez|ENGI|UBSG,ENGI
+1|barclays,phoenix group holdings|PHNX|BARC,PHNX
+1|amikacin inhale,fda,bayer|BAYN|BAYN,COPN
+1|banco santander,eu,cnp assurances|CNP|CNP,SAN
+1|novartis,glaxosmithkline|GSK|GSK,NOVN
+1|royal dutch shell,subsea|SUBC|SUBC,RDSB
+1|barclays,deutsche telekom|DTE|BARC,DTE
+1|fenner,credit suisse|FENR|FENR,CSGN
+1|hsbc,austria technologie & systems|ATS|HSBA,ATS
+1|vectura,investec|VEC|VEC,INVP
+1|hsbc,international personal finance|IPF|HSBA,IPF
+1|repsol,barclays|REP|BARC,REP
+1|ubs,safran|SAF|SAF,UBSG
+1|deutsche bank,pennon|PNN|DBK,PNN
+1|hsbc,ahold|AH|HSBA,AH
+1|ubs,autogrill|AGL|AGL,UBSG
+1|barclays,enterprise inns|ETI|BARC,ETI
+1|ubs,norsk hydro|NHY|NHY,UBSG
+1|ubs,rocket internet|RKET|RKET,UBSG
+1|marks & spencer,deutsche bank|MKS|DBK,MKS
+1|sports direct international,debenhams|SPD|SPD,DEB
+1|fda,ipsen|IPN|IPN,COPN
+1|hermes,societe generale|RMS|GLE,RMS
+1|bloomberg,hsbc,banco santander|SAN|HSBA,SAN
+1|marks & spencer,ubs|MKS|MKS,UBSG
+1|deutsche bank,dnb|DNB|DBK,DNB
+1|reuters,groupe danone,fresenius|BN|FRE,BN
+1|statoil,deutsche bank|STL|DBK,STL
+1|danske bank,raisio|RAIVV|RAIVV,DANSKE
+1|kemira,danske bank|KRA1V|DANSKE,KRA1V
+1|ubs,flughafen zuerich|FHZN|UBSG,FHZN
+1|tomtom,ubs|TOM2|TOM2,UBSG
+1|international consolidated airlines,ubs|IAG|IAG,UBSG
+1|ubs,lufthansa|LHA|UBSG,LHA
+1|technip,statoil|TEC|TEC,STL
+1|eu commission,aegon,banco santander|AGN|AGN,SAN
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|gn store nord,barclays|GN|BARC,GN
+1|ubs,wolseley|WOS|WOS,UBSG
+1|ashtead,ubs|AHT|UBSG,AHT
+1|jm,danske bank|JM|JM,DANSKE
+1|gruppo campari,societe generale|CPR|GLE,CPR
+1|xxl,credit suisse|XXL|XXL,CSGN
+1|gerresheimer,credit suisse|GXI|CSGN,GXI
+1|barclays,mitie|MTO|BARC,MTO
+1|barclays,aveva|AVV|BARC,AVV
+1|thomas cook,credit suisse|TCG|CSGN,TCG
+1|danske bank,norsk hydro|NHY|NHY,DANSKE
+1|danske bank,entra|ENTRA|DANSKE,ENTRA
+1|deutsche bank,amadeus it|AMS|DBK,AMS
+1|wereldhave,unibail-rodamco|UL|UL,WHA
+1|investec,royal bank of scotland|RBS|RBS,INVP
+1|hsbc,tag immobilien|TEG|HSBA,TEG
+1|swatch,credit suisse|UHR|CSGN,UHR
+1|cie automotive,banco santander|CIE|CIE,SAN
+1|kingfisher,hsbc|KGF|HSBA,KGF
+1|telecom italia,rai way|TIT|RWAY,TIT
+1|barclays,thomas cook|TCG|BARC,TCG
+1|ubs,uniqa|UQA|UQA,UBSG
+1|iqon spectral ct,fda,royal philips|PHIA|PHIA,COPN
+1|pernod ricard,credit suisse|RI|CSGN,RI
+1|petrofac,natixis|PFC|PFC,KN
+1|asml holding,ubs|ASML|ASML,UBSG
+1|petrofac,deutsche bank|PFC|DBK,PFC
+1|petrofac,credit suisse|PFC|PFC,CSGN
+1|ubs,dnb|DNB|UBSG,DNB
+1|barclays,oci,bank of america,uae-- bloomberg|OCI|BARC,OCI
+1|boskalis westminster,fugro|BOKA|BOKA,FUR
+1|hsbc,london stock exchange|LSE|HSBA,LSE
+1|grnges,orkla|GRNG|ORK,GRNG
+1|ubs,genel energy|GENL|GENL,UBSG
+1|fugro,subsea|FUR|SUBC,FUR
+1|credit suisse,zalando|ZAL|CSGN,ZAL
+1|prysmian,credit suisse|PRY|PRY,CSGN
+1|deutsche bank,alfa laval|ALFA|DBK,ALFA
+1|ubs,solidium,teliasonera|TLSN|UBSG,TLSN
+1|telenor,banco santander|TEL|TEL,SAN
+1|jd wetherspoon,investec|JDW|JDW,INVP
+1|danske bank,raisio|RAIVV|RAIVV,DANSKE
+1|tdc,barclays|TDC|BARC,TDC
+1|kingfisher,deutsche bank|KGF|DBK,KGF
+1|endesa,enel,reuters|ELE|ENEL,ELE
+1|hikma pharmaceuticals,fda|HIK|HIK,COPN
+1|hsbc,rheinmetall|RHM|HSBA,RHM
+1|danske bank,pandora|PNDORA|DANSKE,PNDORA
+1|ubs,shire|SHP|UBSG,SHP
+1|deutsche bank,kennedy wilson europe real estate|KWE|DBK,KWE
+1|arcadis,ing,bnp paribas, hsbc|ARCAD|BNP,ARCAD,INGA,HSBA
+1|ubs,wincor nixdorf|WIN|WIN,UBSG
+1|ubs,terna|TRN|UBSG,TRN
+1|ica gruppen,danske bank|ICA|ICA,DANSKE
+1|ucb,bloomberg,kbc|UCB|KBC,UCB
+1|serco,credit suisse|SRP|CSGN,SRP
+1|aberdeen asset management,development securities|UAI|ADN,UAI
+1|ubs,e.on|EOAN|EOAN,UBSG
+1|cembra money bank,ubs|CMBN|CMBN,UBSG
+1|ubs,paragon|PAG|UBSG,PAG
+1|ubs,rwe|RWE|RWE,UBSG
+1|deutsche bank,essentra|ESNT|DBK,ESNT
+1|enel,investec|ENEL|ENEL,INVP
+1|danske bank,pandora|PNDORA|DANSKE,PNDORA
+1|mediaset,societe generale|MS|GLE,MS
+1|playtech,credit suisse|PTEC|CSGN,PTEC
+1|mears,investec|MER|MER,INVP
+1|deutsche bank,essentra|ESNT|DBK,ESNT
+1|societe generale,accor|AC|GLE,AC
+1|ubs,aberdeen asset management|ADN|ADN,UBSG
+1|sanofi,fda,lemtrada|SAN|SAN,COPN
+1|credit suisse,autogrill|AGL|CSGN,AGL
+1|grifols,fda|GRF|GRF,COPN
+1|hsbc,booker|BOK|HSBA,BOK
+1|deutsche bank,cable & wireless communications|CWC|DBK,CWC
+1|schibsted,societe generale|SCHA|SCHA,GLE
+1|hsbc,continental|CON|HSBA,CON
+1|glencore,anglo american,reuters|AAL|GLEN,AAL
+1|dairy crest,credit suisse|DCG|DCG,CSGN
+1|hsbc,tesco|TSCO|HSBA,TSCO
+1|hsbc,banco santander|SAN|HSBA,SAN
+1|salzgitter,credit suisse|SZG|SZG,CSGN
+1|ubs,dairy crest|DCG|DCG,UBSG
+1|salzgitter,deutsche bank|SZG|DBK,SZG
+1|london stock exchange,frank russell,uk's cma|LSE|LSE,BCA
+1|fda,evonik industries|EVK|EVK,COPN
+1|deutsche bank,allianz|ALV|DBK,ALV
+1|tdc,deutsche bank|TDC|DBK,TDC
+1|ubs,schroders|SDR|UBSG,SDR
+1|james fisher & sons,subsea|FSJ|SUBC,FSJ
+1|investec,royal bank of scotland|RBS|RBS,INVP
+1|natixis,vicat|VCT|VCT,KN
+1|aegon,svg capital|SVI|AGN,SVI
+1|danske bank,astrazeneca|AZN|AZN,DANSKE
+1|hsbc,e.on|EOAN|HSBA,EOAN
+1|natixis,alcatel-lucent|ALU|ALU,KN
+1|ladbrokes,investec|LAD|LAD,INVP
+1|befimmo,kbc|BEFB|BEFB,KBC
+1|danske bank,amer sports|AMEAS|AMEAS,DANSKE
+1|barclays,royal philips|PHIA|BARC,PHIA
+1|deutsche bank,debenhams|DEB|DBK,DEB
+1|hikma pharmaceuticals,ubs|HIK|UBSG,HIK
+1|sky europe,fox (foxa),ubs,british sky broadcasting,m&a|SKY|SKY,UBSG
+1|deutsche bank,celesio|CLS1|DBK,CLS1
+1|hsbc,brenntag|BNR|HSBA,BNR
+1|hsbc,itv|ITV|HSBA,ITV
+1|barclays,societa iniziative autostradali e servizi|SIS|BARC,SIS
+1|intertek,natixis|ITRK|KN,ITRK
+1|seb,natixis|SK|SK,KN
+1|sap,banco santander|SAP|SAN,SAP
+1|barclays,groupe eurotunnel|GET|BARC,GET
+1|banco popular espanol,societe generale|POP|GLE,POP
+1|ubs,british sky broadcasting|SKY|SKY,UBSG
+1|asml holding,credit suisse|ASML|ASML,CSGN
+1|deutsche bank,stagecoach|SGC|DBK,SGC
+1|bloomberg,ubs,exor|EXO|EXO,UBSG
+1|tikkurila,danske bank|TIK1V|TIK1V,DANSKE
+1|gjensidige forsikring,danske bank|GJF|GJF,DANSKE
+1|vivendi,les echos,bouygues|VIV|VIV,EN
+1|deutsche bank,oci|OCI|DBK,OCI
+1|deutsche bank,celesio|CLS1|DBK,CLS1
+1|erste bank,ubs|EBS|EBS,UBSG
+1|hsbc,semperit|SEM|HSBA,SEM
+1|barclays,schibsted|SCHA|BARC,SCHA
+1|cfo,merck,societe generale|MRK|GLE,MRK
+1|infineon technologies,natixis|IFX|IFX,KN
+1|rezidor hotel,natixis|REZT|REZT,KN
+1|vossloh,natixis|VOS|KN,VOS
+1|aixtron,natixis|AIXA|AIXA,KN
+1|ocado,deutsche bank|OCDO|DBK,OCDO
+1|deutsche bank,omv|OMV|DBK,OMV
+1|statoil,deutsche bank|STL|DBK,STL
+1|vontobel,straumann holding|STMN|VONN,STMN
+1|bankia,nh hotels|NHH|NHH,BKIA
+1|europe focus list,gdf suez,credit suisse|ENGI|CSGN,ENGI
+1|intertek,credit suisse|ITRK|CSGN,ITRK
+1|ubs,synthomer|SYNT|UBSG,SYNT
+1|ubs,redrow|RDW|RDW,UBSG
+1|ubs,deutsche wohnen|DWNI|DWNI,UBSG
+1|ubs,valmet|VALMT|VALMT,UBSG
+1|carrefour,klepierre|LI|CA,LI
+1|sanofi,reuters,l'oreal|SAN|OR,SAN
+1|deutsche bank,eu,adidas|ADS|DBK,ADS
+1|nokia,societe generale|NOKIA|GLE,NOKIA
+1|easyjet,hsbc|EZJ|HSBA,EZJ
+1|investec,lloyds banking|LLOY|LLOY,INVP
+1|vestas wind systems,credit suisse|VWS|VWS,CSGN
+1|sandvik,barclays|SAND|SAND,BARC
+1|barclays,groupe delhaize|DELB|BARC,DELB
+1|snam,societe generale|SRG|GLE,SRG
+1|numericable,french competition authority,altice|NUM|NUM,ATC
+1|glencore xstrata,focus list,credit suisse|GLEN|GLEN,CSGN
+1|uponor,danske bank|UNR1V|DANSKE,UNR1V
+1|hsbc,croda international|CRDA|HSBA,CRDA
+1|hsbc,british land|BLND|HSBA,BLND
+1|hsbc,pfeiffer vacuum|PFV|HSBA,PFV
+1|komax,credit suisse|KOMN|KOMN,CSGN
+1|barclays,enel|ENEL|BARC,ENEL
+1|deutsche bank,deutsche post|DPW|DBK,DPW
+1|hsbc,puma|PUM|HSBA,PUM
+1|euronav,kbc|EURN|KBC,EURN
+1|ubm,investec|UBM|UBM,INVP
+1|deutsche bank,jungheinrich|JUN3|DBK,JUN3
+1|hsbc,debenhams|DEB|HSBA,DEB
+1|swatch,societe generale|UHR|UHR,GLE
+1|air liquide,ubs|AI|UBSG,AI
+1|ubs,basf|BAS|UBSG,BAS
+1|marks & spencer,investec|MKS|MKS,INVP
+1|firstgroup,investec|FGP|FGP,INVP
+1|ubs,wolseley|WOS|WOS,UBSG
+1|deutsche bank,alcatel-lucent|ALU|DBK,ALU
+1|deutsche bank,arm holdings|ARM|DBK,ARM
+1|hsbc,pennon|PNN|HSBA,PNN
+1|hsbc,tullow oil|TLW|HSBA,TLW
+1|hsbc,genel energy|GENL|HSBA,GENL
+1|lundin petroleum,credit suisse|LUPE|CSGN,LUPE
+1|orange,credit suisse|ORA|ORA,CSGN
+1|nexans,barclays|NEX|BARC,NEX
+1|tarkett,deutsche bank|TKTT|DBK,TKTT
+1|hsbc,international consolidated airlines|IAG|HSBA,IAG
+1|hsbc,raiffeisen international|RBI|HSBA,RBI
+1|gamesa,societe generale|GAM|GLE,GAM
+1|ubs,cable & wireless communications|CWC|UBSG,CWC
+1|serco,ubs|SRP|UBSG,SRP
+1|ubs,brenntag|BNR|UBSG,BNR
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|psi,deutsche bank|PSAN|PSAN,DBK
+1|deutsche bank,deutsche wohnen|DWNI|DBK,DWNI
+1|deutsche bank,luxottica|LUX|DBK,LUX
+1|safilo,deutsche bank|SFL|DBK,SFL
+1|deutsche bank,hermes|RMS|DBK,RMS
+1|burberry,credit suisse|BRBY|CSGN,BRBY
+1|allianz,societe generale|ALV|ALV,GLE
+1|fortum,karlshamns kraft,e.on|FUM1V|FUM1V,EOAN
+1|hsbc,wacker chemie|WCH|HSBA,WCH
+1|mersen,societe generale|MRN|GLE,MRN
+1|ubs,zumtobel|ZAG|ZAG,UBSG
+1|ubs,puma|PUM|UBSG,PUM
+1|ubs,leonteq securities|LEON|UBSG,LEON
+1|dechra pharmaceuticals,investec|DPH|INVP,DPH
+1|hsbc,international consolidated airlines|IAG|HSBA,IAG
+1|hsbc,metro|MEO|HSBA,MEO
+1|hsbc,bilfinger berger|GBF|HSBA,GBF
+1|deutsche bank,just retirement|JRG|DBK,JRG
+1|red electrica,societe generale|REE|REE,GLE
+1|cobham,ubs|COB|COB,UBSG
+1|ubs,telekom austria|TKA|TKA,UBSG
+1|ubs,laird|LRD|LRD,UBSG
+1|ubs,kuoni|KUNN|UBSG,KUNN
+1|barclays,banco bilbao vizcaya|BBVA|BARC,BBVA
+1|banco de sabadell,societe generale|SAB|SAB,GLE
+1|pearson,investec|PSON|PSON,INVP
+1|agfa gevaert,kbc|AGFB|AGFB,KBC
+1|wartsila,danske bank|WRT1V|DANSKE,WRT1V
+1|hsbc,buzzi unicem|BZU|HSBA,BZU
+1|severn trent,credit suisse|SVT|CSGN,SVT
+1|ubs,komax|KOMN|KOMN,UBSG
+1|jupiter fund management,societe generale|JUP|JUP,GLE
+1|hsbc,henderson|HGG|HSBA,HGG
+1|hsbc,biotest|BIO3|HSBA,BIO3
+1|ubs,rightmove|RMV|UBSG,RMV
+1|ubs,freenet|FNTN|UBSG,FNTN
+1|ubs,royal bank of scotland|RBS|UBSG,RBS
+1|remy cointreau,societe generale|RCO|RCO,GLE
+1|royal dsm,kbc|DSM|DSM,KBC
+1|danske bank,ramirent|RMR1V|RMR1V,DANSKE
+1|societe generale,alstom|ALO|ALO,GLE
+1|deutsche bank,schneider electric|SU|DBK,SU
+1|deutsche bank,bw lpg|BWLPG|DBK,BWLPG
+1|ubs,symrise|SY1|UBSG,SY1
+1|remy cointreau,natixis|RCO|RCO,KN
+1|natixis,edenred|EDEN|KN,EDEN
+1|nexans,hsbc|NEX|HSBA,NEX
+1|hsbc,tarkett|TKTT|HSBA,TKTT
+1|serco,credit suisse|SRP|CSGN,SRP
+1|infineon technologies,hsbc|IFX|HSBA,IFX
+1|hsbc,osram licht|OSR|HSBA,OSR
+1|domino's pizza,credit suisse|DOM|CSGN,DOM
+1|sabmiller,societe generale|SAB|SAB,GLE
+1|credit suisse,fresenius|FRE|FRE,CSGN
+1|deutsche bank,barclays|DBK|DBK,BARC
+1|ubs,burckhardt compression holding|BCHN|UBSG,BCHN
+1|ubs,lundin petroleum|LUPE|UBSG,LUPE
+1|bankia,nh hotels|NHH|NHH,BKIA
+1|le monde,nestle,l'oreal|OR|NESN,OR
+1|ubs,celesio|CLS1|UBSG,CLS1
+1|hsbc,national express|NEX|HSBA,NEX
+1|hsbc,stagecoach|SGC|HSBA,SGC
+1|deutsche bank,ca immobilien anlagen|CAI|DBK,CAI
+1|norsk hydro,societe generale|NHY|NHY,GLE
+1|christian hansen holding,societe generale|CHR|GLE,CHR
+1|polymetal international,ubs|POLY|UBSG,POLY
+1|cma,vodafone|VOD|VOD,BCA
+1|banco santander,sainsbury|SBRY|SBRY,SAN
+1|de la rue,investec|DLAR|DLAR,INVP
+1|tsb banking (tsb.ln),ubs,lloyds banking|LLOY|LLOY,UBSG
+1|kering,credit suisse|KER|KER,CSGN
+1|ubs,moncler|MONC|UBSG,MONC
+1|buwog,immofinanz|IIA|BWO,IIA
+1|hsbc,admiral|ADM|HSBA,ADM
+1|berendsen,credit suisse|BRSN|CSGN,BRSN
+1|basf,credit suisse|BAS|CSGN,BAS
+1|boliden,societe generale|BOL|GLE,BOL
+1|aryzta,societe generale|ARYN|ARYN,GLE
+1|spire healthcare,uk's cma|SPI|SPI,BCA
+1|spire healthcare group,uk's cma|SPI|SPI,BCA
+1|glaxosmithkline,sky news,royal bank of scotland|RBS|GSK,RBS
+1|societe generale,tate & lyle|TATE|TATE,GLE
+1|polymetal international,ubs|POLY|UBSG,POLY
+1|ubs,fresnillo|FRES|FRES,UBSG
+1|ubs,tate & lyle|TATE|TATE,UBSG
+1|deutsche bank,melia hotels international|MEL|DBK,MEL
+1|deutsche bank,asos|ASC|DBK,ASC
+1|fortum,bilfinger|GBF|FUM1V,GBF
+1|tdc,danske bank|TDC|TDC,DANSKE
+1|intrum justitia,danske bank|IJ|IJ,DANSKE
+1|hermes,credit suisse|RMS|CSGN,RMS
+1|serco,caledonian sleeper,uk's cma|SRP|SRP,BCA
+1|statoil,danske bank|STL|DANSKE,STL
+1|danske bank,nokia|NOKIA|NOKIA,DANSKE
+1|barclays,havas|HAV|BARC,HAV
+1|fda,ipsen|IPN|IPN,COPN
+1|ucb,fda|UCB|COPN,UCB
+1|inditex,deutsche bank|ITX|DBK,ITX
+1|hsbc,asos|ASC|HSBA,ASC
+1|hsbc,lufthansa|LHA|HSBA,LHA
+1|ubs,wienerberger|WIE|UBSG,WIE
+1|heidelbergcement,ubs|HEI|UBSG,HEI
+1|ubs,allianz|ALV|ALV,UBSG
+1|foxtons,bc partners,numis,credit suisse|FOXT|CSGN,FOXT
+1|hsbc,statoil|STL|HSBA,STL
+1|randstad holding,credit suisse|RAND|RAND,CSGN
+1|credit suisse,vienna insurance|VIG|VIG,CSGN
+1|ubs,leonteq securities|LEON|UBSG,LEON
+1|deutsche bank,danske bank|DANSKE|DBK,DANSKE
+1|bloomberg,sabmiller,heineken|HEIA|SAB,HEIA
+1|sky,vodafone,phones4u|VOD|SKY,VOD
+1|societe generale,alstom|ALO|ALO,GLE
+1|deutsche bank,balfour beatty|BBY|DBK,BBY
+1|jpmorgan, deutsche bank,hammerson|HMSO|DBK,HMSO
+1|danske bank,nobia|NOBI|NOBI,DANSKE
+1|barclays,gea|G1A|BARC,G1A
+1|dairy crest,societe generale|DCG|DCG,GLE
+1|amec,ubs|AMFW|AMFW,UBSG
+1|kering,safilo group|SFL|KER,SFL
+1|hugo boss,svg capital|SVI|BOSS,SVI
+1|lvmh moet hennessy,hermes (rms.fp),hermes|MC|MC,RMS
+1|glencore,investec|GLEN|GLEN,INVP
+1|hsbc,freenet|FNTN|HSBA,FNTN
+1|deutsche bank,veolia environnement|VIE|DBK,VIE
+1|tdc,credit suisse|TDC|TDC,CSGN
+1|ubs,aveva|AVV|AVV,UBSG
+1|fda,astrazeneca|AZN|AZN,COPN
+1|ubs,yara international|YAR|UBSG,YAR
+1|hsbc,tecan|TECN|HSBA,TECN
+1|barclays,siemens|SIE|BARC,SIE
+1|chemring,investec|CHG|CHG,INVP
+1|hsbc,synthomer|SYNT|HSBA,SYNT
+1|norsk hydro,credit suisse|NHY|NHY,CSGN
+1|asos,societe generale|ASC|ASC,GLE
+1|ubs,icap|IAP|UBSG,IAP
+1|vesuvius,ubs|VSVS|UBSG,VSVS
+1|ubs,ebro foods|EBRO|UBSG,EBRO
+1|bfm,iliad,bouygues|ILD|ILD,EN
+1|barclays,nordea bank|NDA|BARC,NDA
+1|luxottica,reuters,essilor|EI|LUX,EI
+1|ubs,vallourec|VK|UBSG,VK
+1|tenaris,ubs|TEN|UBSG,TEN
+1|telecom italia,reuters,telefonica|TEF|TEF,TIT
+1|statoil,deutsche bank|STL|DBK,STL
+1|go-ahead,deutsche bank|GOG|DBK,GOG
+1|shanks,credit suisse|SKS|SKS,CSGN
+1|petrofac,barclays|PFC|BARC,PFC
+1|merlin properties socimi,deutsche bank|MRL|DBK,MRL
+1|gea,credit suisse|G1A|G1A,CSGN
+1|edp energias de portugal,credit suisse|EDP|CSGN,EDP
+1|serco,ubs|SRP|UBSG,SRP
+1|ubs,whitbread|WTB|UBSG,WTB
+1|nordea bank,societe generale|NDA|GLE,NDA
+1|a2a,iren|IRE|A2A,IRE
+1|petrofac,credit suisse|PFC|PFC,CSGN
+1|allianz,credit suisse|ALV|ALV,CSGN
+1|vectura,barclays|VEC|BARC,VEC
+1|societe generale,vallourec|VK|VK,GLE
+1|tnt express,ubs|TNTE|UBSG,TNTE
+1|grnges,orkla|ORK|ORK,GRNG
+1|grnges,omx stockholm,orkla|ORK|ORK,GRNG
+1|deutsche bank,b&m european value retail|BME|DBK,BME
+1|hsbc,scottish and southern energy|SSE|HSBA,SSE
+1|antofagasta,investec|ANTO|ANTO,INVP
+1|glencore,investec|GLEN|GLEN,INVP
+1|randgold resources,investec|RRS|INVP,RRS
+1|nexans,credit suisse|NEX|NEX,CSGN
+1|leonteq securities,credit suisse|LEON|CSGN,LEON
+1|ubs,anglo american|AAL|UBSG,AAL
+1|deutsche wohnen,societe generale|DWNI|DWNI,GLE
+1|ubs,petroleum geo-services|PGS|UBSG,PGS
+1|royal dutch shell,seplat petroleum (sepl.ln),daily mail|RDSB|DMGT,RDSB
+1|fda,astrazeneca|AZN|AZN,COPN
+1|siemens,alstom|SIE|ALO,SIE
+1|bloomberg,siemens,alstom|ALO|ALO,SIE
+1|siemens,alstom|SIE|ALO,SIE
+1|deutsche bank,subsea|SUBC|DBK,SUBC
+1|astrazeneca,societe generale|AZN|AZN,GLE
+1|sandvik,deutsche bank|SAND|SAND,DBK
+1|drax,societe generale|DRX|GLE,DRX
+1|diageo,credit suisse|DGE|DGE,CSGN
+1|barclays,deutsche post dhl|DPW|BARC,DPW
+1|eu commission,bnp paribas,royal bank of scotland|RBS|BNP,RBS
+1|europe focus list,gdf suez,credit suisse|ENGI|CSGN,ENGI
+1|oxford instruments,investec|OXIG|INVP,OXIG
+1|hays,natixis|HAS|KN,HAS
+1|atenor,kbc|ATEB|ATEB,KBC
+1|deutsche bank,investec|INVP|DBK,INVP
+1|gdf suez,credit suisse|ENGI|CSGN,ENGI
+1|societe generale,caixabank|CABK|CABK,GLE
+1|gaztransport & technigaz,societe generale|GTT|GTT,GLE
+1|jcdecaux,ubs|DEC|UBSG,DEC
+1|deutsche bank,symrise|SY1|DBK,SY1
+1|banco santander,caixabank|CABK|CABK,SAN
+1|deutsche bank,lancashire holdings limited|LRE|DBK,LRE
+1|ubs,ophir energy|OPHR|UBSG,OPHR
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|sacyr,banco santander|SCYR|SCYR,SAN
+1|ansaldo,banca imi,finmeccanica|STS|FNC,STS
+1|sabmiller,investec|SAB|SAB,INVP
+1|credit suisse,vienna insurance|VIG|VIG,CSGN
+1|deutsche bank,sodexo|SW|DBK,SW
+1|deutsche bank,g4s|GFS|DBK,GFS
+1|fda,bayer|BAYN|BAYN,COPN
+1|pkc,danske bank|PKC1V|PKC1V,DANSKE
+1|playtech,deutsche bank|PTEC|DBK,PTEC
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|jenoptik,ubs,bloomberg|JEN|UBSG,JEN
+1|arcadis,credit suisse|ARCAD|ARCAD,CSGN
+1|pernod ricard,credit suisse|RI|CSGN,RI
+1|tullow oil,ubs|TLW|TLW,UBSG
+1|asos,societe generale|ASC|ASC,GLE
+1|metso,weir|MEO1V|MEO1V,WEIR
+1|metso,betaville,weir|MEO1V|MEO1V,WEIR
+1|danske bank,hkscan|HKSAV|HKSAV,DANSKE
+1|ubs,osram licht|OSR|UBSG,OSR
+1|royal dsm,kbc|DSM|DSM,KBC
+1|deutsche bank,leg immobilien|LEG|DBK,LEG
+1|metso,credit suisse|MEO1V|MEO1V,CSGN
+1|hsbc,g4s|GFS|HSBA,GFS
+1|iss,ubs|ISS|ISS,UBSG
+1|wolseley,credit suisse|WOS|CSGN,WOS
+1|danske bank,atria|ATRAV|ATRAV,DANSKE
+1|xaar,investec|XAR|XAR,INVP
+1|remy cointreau,societe generale|RCO|RCO,GLE
+1|enel,societe generale|ENEL|GLE,ENEL
+1|swatch,oscilloquartz,adva optical networking|UHR|ADV,UHR
+1|hikma pharmaceuticals,ubs|HIK|UBSG,HIK
+1|statoil,societe generale|STL|GLE,STL
+1|vivendi,sfr,bouygues|EN|VIV,EN
+1|vivendi,sfr,bouygues|EN|VIV,EN
+1|vivendi,sfr,altice|VIV|VIV,ATC
+1|mediaset,ei towers|MS|EIT,MS
+1|deutsche bank,royal mail|RMG|DBK,RMG
+1|barclays,yara international|YAR|BARC,YAR
+1|roche,evotec|EVT|ROG,EVT
+1|dnb,credit suisse|DNB|CSGN,DNB
+1|ubs,schroders|SDR|UBSG,SDR
+1|il sole,telecom italia,telefonica|TIT|TEF,TIT
+1|bloomberg,merck,bayer|BAYN|MRK,BAYN
+1|astrazeneca,credit suisse|AZN|CSGN,AZN
+1|uponor,danske bank|UNR1V|DANSKE,UNR1V
+1|umicore,kbc|UMI|UMI,KBC
+1|suez environnement,societe generale|SEV|GLE,SEV
+1|ubs,leonteq securities|LEON|UBSG,LEON
+1|ubs,rightmove|RMV|UBSG,RMV
+1|african barrick gold,barclays|ACA|BARC,ACA
+1|natixis,alcatel-lucent|ALU|ALU,KN
+1|hsbc,oesterreichische post|POST|HSBA,POST
+1|hikma pharmaceuticals,fda|HIK|HIK,COPN
+1|ubs,moncler|MONC|UBSG,MONC
+1|bankia,credit suisse|BKIA|BKIA,CSGN
+1|ubs,eni|ENI|UBSG,ENI
+1|deutsche bank,ubs|DBK|DBK,UBSG
+1|atos origin,ubs|ATO|UBSG,ATO
+1|dttv,gruppo editoriale l'espresso, telecom italia|ES|ES,TIT
+1|vectura,investec|VEC|VEC,INVP
+1|hsbc,imerys|NK|HSBA,NK
+1|hsbc,imi|IMI|HSBA,IMI
+1|african barrick gold,deutsche bank|ACA|DBK,ACA
+1|ubs,investec|INVP|UBSG,INVP
+1|kingfisher,ubs|KGF|KGF,UBSG
+1|ubs,antofagasta|ANTO|UBSG,ANTO
+1|galp energia,amorim energia bv,eni|GALP|ENI,GALP
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|infineon technologies,ubs|IFX|IFX,UBSG
+1|deutsche bank,bovis homes|BVS|DBK,BVS
+1|statoil,danske bank|STL|DANSKE,STL
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|barclays,orange|ORA|BARC,ORA
+1|europe focus list,adidas,credit suisse|ADS|CSGN,ADS
+1|metso,weir and metso (meo1v.fh),weir|WEIR|MEO1V,WEIR
+1|evonik,li-tec battery,daimler,deutsche accumotive|DAI|DAI,EVK
+1|deutsche bank,scottish and southern energy|SSE|DBK,SSE
+1|centrica,deutsche bank|CNA|DBK,CNA
+1|enagas,deutsche bank|ENG|DBK,ENG
+1|lvmh moet hennessy,deutsche bank|MC|DBK,MC
+1|cineworld,barclays|CINE|BARC,CINE
+1|ubs,straumann holding|STMN|STMN,UBSG
+1|telecom italia,telefonica|TEF|TEF,TIT
+1|fda,basilea|BSLN|BSLN,COPN
+1|fda,ion beam applications,proteusone|IBAB|IBAB,COPN
+1|acerinox,societe generale|ACX|GLE,ACX
+1|ubs,saras|SRS|UBSG,SRS
+1|asml holding,banco santander|ASML|ASML,SAN
+1|acerinox,ubs|ACX|UBSG,ACX
+1|deutsche bank,leg immobilien|LEG|DBK,LEG
+1|les echos,bouygues,alstom|EN|ALO,EN
+1|mediaset,repubblica,telefonica|MS|TEF,MS
+1|acerinox,ubs|ACX|UBSG,ACX
+1|saga,credit suisse|SAGA|CSGN,SAGA
+1|itv,ubs|ITV|ITV,UBSG
+1|ubs,lundin petroleum|LUPE|UBSG,LUPE
+1|societe generale,aveva|AVV|AVV,GLE
+1|erste bank,societe generale|EBS|EBS,GLE
+1|erste bank,barclays|EBS|BARC,EBS
+1|marks & spencer,tesco|MKS|MKS,TSCO
+1|fugro,kbc|FUR|FUR,KBC
+1|allianz,societe generale|ALV|ALV,GLE
+1|iberdrola,credit suisse|IBE|IBE,CSGN
+1|credit suisse,heineken|HEIA|CSGN,HEIA
+1|kazakhmys,ubs|KAZ|UBSG,KAZ
+1|ubs,croda international|CRDA|CRDA,UBSG
+1|ubs,yara international|YAR|UBSG,YAR
+1|ubs,synthomer|SYNT|UBSG,SYNT
+1|glaxosmithkline,fda|GSK|GSK,COPN
+1|glaxosmithkline,ubs|GSK|GSK,UBSG
+1|fda,royal philips|PHIA|PHIA,COPN
+1|kingfisher,europe focus list,credit suisse|KGF|CSGN,KGF
+1|drax,societe generale|DRX|GLE,DRX
+1|danske bank,konecranes|KCR1V|KCR1V,DANSKE
+1|telenor,danske bank|TEL|TEL,DANSKE
+1|vontobel,logitech|LOGN|VONN,LOGN
+1|societe generale,ipsos|IPS|GLE,IPS
+1|deutsche bank,kazakhmys|KAZ|DBK,KAZ
+1|ubs,kazakhmys,eu metals & mining|KAZ|UBSG,KAZ
+1|mediaset espana,barclays|TL5|BARC,TL5
+1|societe generale,vicat|VCT|VCT,GLE
+1|metro,alstom|ALO|ALO,MEO
+1|telecom italia,folha de sao paulo,telefonica|TEF|TEF,TIT
+1|barco,kbc|BAR|KBC,BAR
+1|heidelbergcement,natixis|HEI|KN,HEI
+1|fugro,natixis|FUR|FUR,KN
+1|ubs,lufthansa|LHA|UBSG,LHA
+1|saint-gobain,societe generale|SGO|SGO,GLE
+1|erste bank,ubs|EBS|EBS,UBSG
+1|dairy crest,societe generale|DCG|DCG,GLE
+1|diageo,societe generale|DGE|DGE,GLE
+1|almirall,astrazeneca|AZN|ALM,AZN
+1|spar nord bank,danske bank|SPNO|SPNO,DANSKE
+1|ubs,osram licht|OSR|UBSG,OSR
+1|ubs,tullett prebon|TLPR|UBSG,TLPR
+1|hsbc,bnp paribas|BNP|HSBA,BNP
+1|ocado,deutsche bank|OCDO|DBK,OCDO
+1|barclays,lufthansa|LHA|BARC,LHA
+1|merck,bayer,reuters,coppertone|BAYN|MRK,BAYN
+1|bnp paribas,societe generale|BNP|BNP,GLE
+1|top pick,ubs,societe generale|GLE|UBSG,GLE
+1|g4s,ubs|GFS|GFS,UBSG
+1|barclays,daily mail|DMGT|BARC,DMGT
+1|fda,murrysville, pa,royal philips,smart monitor|PHIA|PHIA,COPN
+1|foxtons,credit suisse|FOXT|CSGN,FOXT
+1|ubs,greggs,troy asset management|GRG|GRG,UBSG
+1|erste bank,deutsche bank|EBS|DBK,EBS
+1|countrywide,credit suisse|CWD|CSGN,CWD
+1|ubs,airbus|AIR|AIR,UBSG
+1|statoil, exxon mobil & gassco,technip|TEC|TEC,STL
+1|sanofi,fda,nda|SAN|SAN,COPN
+1|bouygues,alstom|EN|ALO,EN
+1|uk-french unmanned combat air systems,thales,finmeccanica|HO|FNC,HO
+1|unilever,aarhuskarlshamn,frita|AAK|AAK,UNA
+1|danske bank,orkla|ORK|ORK,DANSKE
+1|bloomberg,deutsche bank,metro|MEO|DBK,MEO
+1|ubs,alstom|ALO|ALO,UBSG
+1|societe generale,leg immobilien|LEG|LEG,GLE
+1|daimler,credit suisse|DAI|CSGN,DAI
+1|sunday times,debenhams,mothercare|DEB|DEB,MTC
+1|deutsche bank,tate & lyle|TATE|DBK,TATE
+1|wartsila,danske bank|WRT1V|DANSKE,WRT1V
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|rexel,natixis|RXL|RXL,KN
+1|software,euro am sonntag,sap|SOW|SOW,SAP
+1|elior,credit suisse|ELIOR|ELIOR,CSGN
+1|gsk,ofatumumab,genmab|GEN|GSK,GEN
+1|endesa,enel,board|ELE|ENEL,ELE
+1|bloomberg,natixis,salini impregilo|SAL|SAL,KN
+1|ageas,credit suisse|AGS|AGS,CSGN
+1|aberdeen asset management,credit suisse|ADN|ADN,CSGN
+1|jupiter fund management,credit suisse|JUP|JUP,CSGN
+1|societe generale,osram licht|OSR|GLE,OSR
+1|infineon technologies,hsbc|IFX|HSBA,IFX
+1|schneider electric,societe generale|SU|GLE,SU
+1|devro,societe generale|DVO|DVO,GLE
+1|british sky broadcasting,barclays, morgand stanley|SKY|SKY,BARC
+1|mtu aero,investec|MTX|MTX,INVP
+1|gamesa,societe generale|GAM|GLE,GAM
+1|petrofac,societe generale|PFC|PFC,GLE
+1|british sky broadcasting,barclays, morgand stanley|SKY|SKY,BARC
+1|banco de sabadell,societe generale|SAB|SAB,GLE
+1|deutsche bank,austria technologie & systems|ATS|DBK,ATS
+1|barclays,atresmedia|A3M|BARC,A3M
+1|daily mail,lloyds banking|LLOY|LLOY,DMGT
+1|tikkurila,danske bank|TIK1V|TIK1V,DANSKE
+1|danske bank,atria|ATRAV|ATRAV,DANSKE
+1|uponor,danske bank|UNR1V|DANSKE,UNR1V
+1|randstad holding,kbc|RAND|RAND,KBC
+1|nexans,natixis|NEX|NEX,KN
+1|capgemini,societe generale|CAP|CAP,GLE
+1|barclays,petroleum geo-services|PGS|BARC,PGS
+1|ubs,royal bank of scotland|RBS|UBSG,RBS
+1|ubs,anglo american|AAL|UBSG,AAL
+1|stabilus,societe generale|STM|STM,GLE
+1|rentokil,credit suisse|RTO|CSGN,RTO
+1|saras,societe generale|SRS|GLE,SRS
+1|hsbc,tullett prebon|TLPR|HSBA,TLPR
+1|metso,danske bank|MEO1V|MEO1V,DANSKE
+1|barclays,zoopla|ZPLA|BARC,ZPLA
+1|zoopla,credit suisse|ZPLA|ZPLA,CSGN
+1|daily mail,credit suisse|DMGT|CSGN,DMGT
+1|aberdeen asset management,societe generale|ADN|ADN,GLE
+1|bank of georgia holdings,ubs|BGEO|BGEO,UBSG
+1|genmab, glaxosmithkline,eu|GEN|GSK,GEN
+1|hsbc,fresnillo|FRES|HSBA,FRES
+1|gerresheimer,hsbc|GXI|HSBA,GXI
+1|drax,credit suisse|DRX|CSGN,DRX
+1|ubs,saga|SAGA|UBSG,SAGA
+1|barclays,sodexo|SW|BARC,SW
+1|jyske bank,pandora|PNDORA|JYSK,PNDORA
+1|natixis,micronas semiconductor holding|MASN|KN,MASN
+1|intervest offices,kbc|INTO|KBC,INTO
+1|ucb,kbc|UCB|KBC,UCB
+1|kinepolis,kbc|KIN|KBC,KIN
+1|arm holdings,natixis|ARM|ARM,KN
+1|bankinter,banco santander|BKT|BKT,SAN
+1|poundland,deutsche bank|PLND|DBK,PLND
+1|deutsche bank,b&m european value retail|BME|DBK,BME
+1|credit suisse,dassault systems|DSY|CSGN,DSY
+1|b&m european value retail,credit suisse|BME|BME,CSGN
+1|barclays,nos|NOS|BARC,NOS
+1|hikma pharmaceuticals,ubs|HIK|UBSG,HIK
+1|ubs,buzzi unicem|BZU|BZU,UBSG
+1|deutsche bank,rexam|REX|DBK,REX
+1|barclays,croda international|CRDA|BARC,CRDA
+1|barclays,onesavings bank|OSB|BARC,OSB
+1|mediaset espana,telefonica|TL5|TEF,TL5
+1|enagas,ubs|ENG|UBSG,ENG
+1|bolsas y mercados espanoles,credit suisse|BME|BME,CSGN
+1|hsbc,nmc health|NMC|HSBA,NMC
+1|deutsche brse,credit suisse|DB1|CSGN,DB1
+1|mediaset,telefonica|MS|TEF,MS
+1|bankia,societe generale|BKIA|BKIA,GLE
+1|ubs,e.on|EOAN|EOAN,UBSG
+1|fortum,ubs|FUM1V|FUM1V,UBSG
+1|capgemini,hsbc|CAP|HSBA,CAP
+1|boliden,societe generale|BOL|GLE,BOL
+1|deutsche bank,xing|O1BC|DBK,O1BC
+1|advanced medical solutions,investec|AMS|AMS,INVP
+1|heidelbergcement,hsbc|HEI|HSBA,HEI
+1|sandvik,ubs|SAND|SAND,UBSG
+1|barclays,groupe danone|BN|BARC,BN
+1|k+s,societe generale|SDF|SDF,GLE
+1|fda,evonik industries|EVK|EVK,COPN
+1|eu commission,rbs,bnp paribas|RBS|BNP,RBS
+1|iliad,societe generale|ILD|ILD,GLE
+1|randstad holding,ubs|RAND|RAND,UBSG
+1|centrica,credit suisse|CNA|CSGN,CNA
+1|evonik industries,credit suisse|EVK|CSGN,EVK
+1|barclays,bouygues|EN|BARC,EN
+1|credit suisse,nokia,european/us|NOKIA|CSGN,NOKIA
+1|cfe,ackermans & van haaren|CFEB|ACKB,CFEB
+1|krones,ubs|KRN|UBSG,KRN
+1|drax,societe generale|DRX|GLE,DRX
+1|mersen,societe generale|MRN|GLE,MRN
+1|banco bilbao vizcaya,societe generale|BBVA|BBVA,GLE
+1|ubs,siemens|SIE|UBSG,SIE
+1|cairn energy,societe generale|CNE|GLE,CNE
+1|barclays,deutsche bank|BARC|BARC,DBK
+1|hsbc,sainsbury|SBRY|HSBA,SBRY
+1|deutsche bank,antofagasta|ANTO|DBK,ANTO
+1|antofagasta,credit suisse|ANTO|CSGN,ANTO
+1|credit suisse,wacker chemie|WCH|CSGN,WCH
+1|hsbc holdings,credit suisse|HSBA|HSBA,CSGN
+1|ubs,imagination technologies|IMG|IMG,UBSG
+1|ubs,persimmon|PSN|UBSG,PSN
+1|asos,societe generale|ASC|ASC,GLE
+1|deutsche bank,eu,just retirement|JRG|DBK,JRG
+1|merck,societe generale|MRK|GLE,MRK
+1|snam,deutsche bank|SRG|DBK,SRG
+1|salvatore ferragamo,credit suisse|SFER|SFER,CSGN
+1|morrisons,deutsche bank|MRW|DBK,MRW
+1|deutsche bank,scor|SCR|DBK,SCR
+1|ubs,oxford instruments|OXIG|UBSG,OXIG
+1|voestalpine,credit suisse|VOE|VOE,CSGN
+1|playtech,ladbrokes|PTEC|LAD,PTEC
+1|playtech,deutsche bank|PTEC|DBK,PTEC
+1|cairn energy,investec|CNE|INVP,CNE
+1|deutsche bank,wacker chemie|WCH|DBK,WCH
+1|orpea,societe generale|ORP|ORP,GLE
+1|jcdecaux,credit suisse|DEC|CSGN,DEC
+1|neopost,societe generale|NEO|GLE,NEO
+1|barclays,lufthansa|LHA|BARC,LHA
+1|fresenius medical care,hsbc|FME|HSBA,FME
+1|iberdrola,investec|IBE|IBE,INVP
+1|kbc,bekaert|BEKB|KBC,BEKB
+1|wacker neuson,deutsche bank|WAC|DBK,WAC
+1|neopost,societe generale|NEO|GLE,NEO
+1|royal mail,credit suisse|RMG|RMG,CSGN
+1|credit agricole,societe generale|ACA|ACA,GLE
+1|natixis,societe generale|KN|GLE,KN
+1|deutsche bank,allianz|ALV|DBK,ALV
+1|stada arzneimittel,deutsche bank|SAZ|DBK,SAZ
+1|stada arzneimittel,natixis|SAZ|KN,SAZ
+1|deutsche bank,segro|SGRO|DBK,SGRO
+1|land securities,deutsche bank|LAND|DBK,LAND
+1|zetes,kbc|ZTS|ZTS,KBC
+1|danske bank,konecranes|KCR1V|KCR1V,DANSKE
+1|reuters,gecina,societe generale|GFC|GFC,GLE
+1|kingfisher,deutsche bank|KGF|DBK,KGF
+1|itv,ubs|ITV|ITV,UBSG
+1|manx telecom,barclays|MANX|BARC,MANX
+1|cobham,barclays|COB|BARC,COB
+1|buwog,immofinanz|IIA|BWO,IIA
+1|vivendi,sfr,altice|VIV|VIV,ATC
+1|vivendi,sfr,altice|VIV|VIV,ATC
+1|numericable,vivendi,les echos,bouygues|VIV|NUM,VIV,EN
+1|postnl,kbc|PNL|PNL,KBC
+1|investec,weir|WEIR|WEIR,INVP
+1|kazakhmys,investec|KAZ|INVP,KAZ
+1|imi,societe generale|IMI|IMI,GLE
+1|bollore,le figaro,tf1|TFI|TFI,BOL
+1|danske bank,atea|ATEA|ATEA,DANSKE
+1|interparfums,natixis|ITP|KN,ITP
+1|eiffage,hsbc|FGR|FGR,HSBA
+1|regenersis,wincor nixdorf|RGS|RGS,WIN
+1|go-ahead,deutsche bank|GOG|DBK,GOG
+1|alfa laval,credit suisse|ALFA|CSGN,ALFA
+1|ubs,brown|BWNG|UBSG,BWNG
+1|glencore xstrata,genel energy (genl.ln),daily mail|GLEN|GLEN,DMGT
+1|bloomberg,bouygues, altice,sfr|EN|EN,ATC
+1|meggitt,investec|MGGT|MGGT,INVP
+1|arkema,credit suisse|AKE|AKE,CSGN
+1|ubs,pearson|PSON|UBSG,PSON
+1|tullett prebon,societe generale|TLPR|GLE,TLPR
+1|devro,societe generale|DVO|DVO,GLE
+1|barclays,oci|OCI|BARC,OCI
+1|bouygues,altice,vivendi,bloomberg,sfr|VIV|VIV,EN,ATC
+1|danske bank,teliasonera|TLSN|DANSKE,TLSN
+1|enagas,repsol,transportadora de gas del per,hunt|ENG|REP,ENG
+1|orange,deutsche telekom,les echos|ORA|ORA,DTE
+1|ubs,groupe danone|BN|UBSG,BN
+1|british american tobacco,credit suisse|BATS|CSGN,BATS
+1|deutsche bank,bmw|BMW|DBK,BMW
+1|barclays,ds smith|SMDS|BARC,SMDS
+1|zodiac aerospace,natixis|ZC|KN,ZC
+1|natixis,iliad|ILD|ILD,KN
+1|sky news,credit suisse,royal bank of scotland|RBS|CSGN,RBS
+1|amadeus it,intercontinental hotels|AMS|IHG,AMS
+1|deutsche bank,banco santander|SAN|DBK,SAN
+1|shanks,investec|SKS|SKS,INVP
+1|deutsche bank,jungheinrich|JUN3|DBK,JUN3
+1|ubs,forbo holding|FORN|FORN,UBSG
+1|mondi,deutsche bank|MNDI|DBK,MNDI
+1|vontobel,flughafen zuerich|FHZN|VONN,FHZN
+1|amadeus it,natixis|AMS|AMS,KN
+1|fda,astrazeneca|AZN|AZN,COPN
+1|galp energia,societe generale|GALP|GLE,GALP
+1|royal dsm,credit suisse|DSM|DSM,CSGN
+1|prudential,ubs|PRU|UBSG,PRU
+1|gkn holdings,ubs|GKN|UBSG,GKN
+1|dalkia,veolia,electricite de france|EDF|VIE,EDF
+1|easyjet,investec|EZJ|INVP,EZJ
+1|clinigen,investec|CLIN|CLIN,INVP
+1|jyske bank,danske bank|JYSK|DANSKE,JYSK
+1|flybe,stobart|STOB|FLYB,STOB
+1|barclays,northgate|NTG|BARC,NTG
+1|banco santander,heineken|HEIA|SAN,HEIA
+1|groupe bruxelles lambert,societe generale|GBLB|GLE,GBLB
+1|hsbc,e.on|EOAN|HSBA,EOAN
+1|hsbc,scottish and southern energy|SSE|HSBA,SSE
+1|hsbc,centrica|CNA|HSBA,CNA
+1|deutsche bank,indus holding|INH|DBK,INH
+1|deutsche bank,ferrovial|FER|DBK,FER
+1|deutsche bank,atlantia|ATL|DBK,ATL
+1|aurubis,societe generale|NDA|GLE,NDA
+1|ubs,e.on|EOAN|EOAN,UBSG
+1|commerzbank,societe generale|CBK|GLE,CBK
+1|hsbc,saft groupe,bloomberg|SAFT|HSBA,SAFT
+1|boiron,societe generale|BOI|BOI,GLE
+1|deutsche bank,ca immobilien anlagen|CAI|DBK,CAI
+1|barclays,royal bank of scotland|RBS|BARC,RBS
+1|meggitt,ubs|MGGT|MGGT,UBSG
+1|tnt express,ubs|TNTE|UBSG,TNTE
+1|eni, repsol,pdvsa,perla|ENI|REP,ENI
+1|siemens,alstom|ALO|ALO,SIE
+1|aryzta,investec|ARYN|ARYN,INVP
+1|repsol,deutsche bank,citi,pemex|REP|DBK,REP
+1|hsbc,barclays|BARC|HSBA,BARC
+1|hsbc,fortum|FUM1V|HSBA,FUM1V
+1|dcc,ramirent,nss|RMR1V|RMR1V,DCC
+1|imi,investec|IMI|IMI,INVP
+1|arkema,credit suisse|AKE|AKE,CSGN
+1|certas energy,dcc,cma|DCC|BCA,DCC
+1|gn store nord,ubs|GN|UBSG,GN
+1|legrand,societe generale|LR|LR,GLE
+1|mtu aero,investec|MTX|MTX,INVP
+1|safran,investec|SAF|SAF,INVP
+1|ultra electronics,investec|ULE|ULE,INVP
+1|airbus,investec|AIR|AIR,INVP
+1|societe generale,weir|WEIR|WEIR,GLE
+1|henkel,societe generale|HEN3|HEN3,GLE
+1|mitsubishi heavy (7011.jp),siemens,alstom|ALO|ALO,SIE
+1|kungsleden,danske bank|KLED|KLED,DANSKE
+1|whitbread,investec|WTB|INVP,WTB
+1|deutsche bank,derwent london|DLN|DBK,DLN
+1|hsbc,deutsche annington immobilien|VNA|HSBA,VNA
+1|hsbc,deutsche wohnen|DWNI|HSBA,DWNI
+1|telefonica deutschland holding,banco santander|O2D|O2D,SAN
+1|ubs,telefonica deutschland holding|O2D|O2D,UBSG
+1|befimmo,kbc|BEFB|BEFB,KBC
+1|barclays,onesavings bank|OSB|BARC,OSB
+1|gsk,skyepharma|SKP|GSK,SKP
+1|coface,natixis|KN|COFA,KN
+1|gsk,genmab|GEN|GSK,GEN
+1|danske bank,kesko|KESBV|KESBV,DANSKE
+1|hsbc,standard chartered|STAN|HSBA,STAN
+1|hsbc,iss|ISS|HSBA,ISS
+1|myferrylink,cma,groupe eurotunnel|GET|BCA,GET
+1|intel capital (intc),imagination technologies,credit suisse, jefferies,jpmorgan|IMG|IMG,CSGN
+1|ubs,redrow|RDW|RDW,UBSG
+1|ubs,ophir energy|OPHR|UBSG,OPHR
+1|meggitt,ubs|MGGT|MGGT,UBSG
+1|fabege,seb|FABG|FABG,SK
+1|bba aviation,societe generale|BBA|GLE,BBA
+1|deutsche bank,borussia dortmund|BVB|DBK,BVB
+1|ubs,asos|ASC|ASC,UBSG
+1|centrica,daily mail|CNA|CNA,DMGT
+1|mitsubishi,siemens,alstom|ALO|ALO,SIE
+1|gdf suez,isab energy,erg|ERG|ENGI,ERG
+1|mhi,siemens,bouygues,european headquarters,alstom|ALO|ALO,SIE,EN
+1|storebrand,danske bank|STB|DANSKE,STB
+1|glencore xstrata,investec|GLEN|GLEN,INVP
+1|rio tinto,investec|RIO|INVP,RIO
+1|majestic wine,investec|MJW|MJW,INVP
+1|ubs,edp energias de portugal|EDP|UBSG,EDP
+1|snam,ubs|SRG|UBSG,SRG
+1|barclays,debenhams|DEB|BARC,DEB
+1|barclays,vestas wind systems|VWS|BARC,VWS
+1|rsa insurance,barclays|RSA|RSA,BARC
+1|wsj's heard,siemens,alstom|ALO|ALO,SIE
+1|xaar,investec|XAR|XAR,INVP
+1|royal dutch shell,natixis|RDSB|KN,RDSB
+1|zoopla,daily mail|DMGT|ZPLA,DMGT
+1|countrywide,zoopla|CWD|ZPLA,CWD
+1|bfm tv,atos,electricite de france|EDF|EDF,ATO
+1|europe focus list,thomas cook,credit suisse|TCG|CSGN,TCG
+1|nexans,credit suisse|NEX|NEX,CSGN
+1|telecom italia,telefonica|TEF|TEF,TIT
+1|numericable,carphone warehouse,omer|DC.|DC.,NUM
+1|fda,astrazeneca|AZN|AZN,COPN
+1|merck,bayer|BAYN|MRK,BAYN
+1|ansaldo,natixis|STS|STS,KN
+1|ubs,card factory|CARD|UBSG,CARD
+1|vivendi,credit suisse|VIV|VIV,CSGN
+1|deutsche bank,telenor|TEL|DBK,TEL
+1|deutsche bank,alstom|ALO|DBK,ALO
+1|technip,credit suisse|TEC|TEC,CSGN
+1|deutsche bank,pemex,repsol,wires,citi|REP|DBK,REP
+1|fda,astrazeneca|AZN|AZN,COPN
+1|hsbc,kbc groep|KBC|HSBA,KBC
+1|groupe danone,natixis|BN|KN,BN
+1|salvatore ferragamo italia,credit suisse|SFER|SFER,CSGN
+1|fresenius medical care,credit suisse|FME|CSGN,FME
+1|barclays,imagination technologies|IMG|BARC,IMG
+1|natixis,lagardere|MMB|MMB,KN
+1|mediaset,telefonica,digital+|MS|TEF,MS
+1|orange (ora.fp),bouygues,reuters,iliad (ild.fp),telecom|EN|EN,TEP
+1|deutsche bank,acciona|ANA|DBK,ANA
+1|deutsche bank,carrefour|CA|DBK,CA
+1|credit suisse,vallourec|VK|CSGN,VK
+1|hsbc,provident financial|PFG|HSBA,PFG
+1|vontobel,sfs|SFSN|SFSN,VONN
+1|deutsche bank,slm solutions|AM3D|DBK,AM3D
+1|slm solutions,credit suisse|AM3D|CSGN,AM3D
+1|sfs,credit suisse|SFSN|SFSN,CSGN
+1|ig,ubs|IGG|UBSG,IGG
+1|euronext,ubs|ENX|UBSG,ENX
+1|ubs,sfs|SFSN|SFSN,UBSG
+1|applus services,ubs|APPS|APPS,UBSG
+1|hsbc,johnson matthey,bloomberg|JMAT|HSBA,JMAT
+1|easyjet,heathrow,telegraph|EZJ|FER,EZJ
+1|lagardere,societe generale|MMB|MMB,GLE
+1|deutsche bank,groupe eurotunnel|GET|DBK,GET
+1|kaba holding,credit suisse|DOKA|CSGN,DOKA
+1|forbo holding,credit suisse|FORN|FORN,CSGN
+1|autoneum,credit suisse|AUTN|CSGN,AUTN
+1|mitsubishi heavy (7011.jp),siemens,alstom|ALO|ALO,SIE
+1|fda,shire|SHP|SHP,COPN
+1|barclays,wsj,caixabank|CABK|BARC,CABK
+1|repsol,sacyr (scyr.sm),sacyr,dow jones|REP|SCYR,REP
+1|credit suisse,lufthansa|LHA|CSGN,LHA
+1|orange,les echos,bouygues|ORA|ORA,EN
+1|lesechos,siemens,alstom|SIE|ALO,SIE
+1|legal & general,societe generale|LGEN|GLE,LGEN
+1|applus services,credit suisse|APPS|APPS,CSGN
+1|comptel,telefonica|CTL1V|CTL1V,TEF
+1|polypipe,deutsche bank|PLP|DBK,PLP
+1|repsol,banco santander|REP|REP,SAN
+1|deutsche bank,telekom austria|TKA|DBK,TKA
+1|reuters,gdf suez,e.on|ENGI|EOAN,ENGI
+1|credit suisse,tate & lyle|TATE|CSGN,TATE
+1|grifols,fda,eu|GRF|GRF,COPN
+1|vodafone,phones4u,uk's cma|VOD|VOD,BCA
+1|xchanging,cma,agencyport europe|XCH|XCH,BCA
+1|bam groep,kbc|BAMNB|KBC,BAMNB
+1|neste oil,societe generale|NESTE|GLE,NESTE
+1|deutsche bank,finmeccanica|FNC|DBK,FNC
+1|tessenderlo chemie,kbc|TESB|KBC,TESB
+1|xchanging,uk's cma|XCH|XCH,BCA
+1|prysmian,general cable,reuters,nexans|PRY|NEX,PRY
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|tenaris,mediobanca,natixis|TEN|TEN,KN
+1|euronav,kbc|EURN|KBC,EURN
+1|michael page international,credit suisse|MPI|MPI,CSGN
+1|capgemini,deutsche bank|CAP|DBK,CAP
+1|atos origin,deutsche bank|ATO|DBK,ATO
+1|deutsche bank,croda international|CRDA|DBK,CRDA
+1|technip,natixis|TEC|TEC,KN
+1|natixis,sbm offshore|SBMO|SBMO,KN
+1|natixis,petroleum geo-services|PGS|PGS,KN
+1|ing,wereldhave,jpmorgan, abn amro|WHA|INGA,WHA
+1|ubs,gecina|GFC|GFC,UBSG
+1|ubs,lufthansa|LHA|UBSG,LHA
+1|international consolidated airlines,ubs,most preferred list|IAG|IAG,UBSG
+1|almirall,credit suisse|ALM|ALM,CSGN
+1|ubs,icap|IAP|UBSG,IAP
+1|ubs,intercontinental hotels|IHG|IHG,UBSG
+1|ubs,telecity|TCY|UBSG,TCY
+1|nostrum oil & gas,deutsche bank|NOG|DBK,NOG
+1|ahold,kbc|AH|KBC,AH
+1|ubs,rentokil|RTO|UBSG,RTO
+1|tikkurila,danske bank|TIK1V|TIK1V,DANSKE
+1|meggitt,investec|MGGT|MGGT,INVP
+1|barclays,fidessa|FDSA|BARC,FDSA
+1|barclays,amadeus it|AMS|BARC,AMS
+1|barclays,debenhams|DEB|BARC,DEB
+1|intertek,ubs|ITRK|UBSG,ITRK
+1|deutsche bank,spectris|SXS|DBK,SXS
+1|wereldhave,unibail-rodamco|UL|UL,WHA
+1|hsbc,tarkett|TKTT|HSBA,TKTT
+1|wartsila,deutsche bank|WRT1V|DBK,WRT1V
+1|ubs,edenred|EDEN|UBSG,EDEN
+1|barclays,bankia|BKIA|BARC,BKIA
+1|barclays,deutsche annington immobilien|VNA|BARC,VNA
+1|technip,credit suisse|TEC|TEC,CSGN
+1|deutsche bank,intertek|ITRK|DBK,ITRK
+1|deutsche bank,schneider electric|SU|DBK,SU
+1|tdc,danske bank|TDC|TDC,DANSKE
+1|barclays,citi,merlin entertainments|MERL|BARC,MERL
+1|orange,credit suisse|ORA|ORA,CSGN
+1|ubs,basf|BAS|UBSG,BAS
+1|repsol,sacyr,expansion|SCYR|SCYR,REP
+1|ing,credit suisse|INGA|INGA,CSGN
+1|barclays,sainsbury|SBRY|BARC,SBRY
+1|barclays,sky|SKY|BARC,SKY
+1|deutsche bank,orange|ORA|DBK,ORA
+1|deutsche bank,telefonica|TEF|DBK,TEF
+1|technip,deutsche bank|TEC|TEC,DBK
+1|voestalpine,credit suisse|VOE|VOE,CSGN
+1|technip,air liquide,zimmer|TEC|TEC,AI
+1|deutsche bank,gea|G1A|DBK,G1A
+1|deutsche bank,airbus|AIR|DBK,AIR
+1|gkn holdings,investec|GKN|GKN,INVP
+1|nh hotels,grupo inversor hesperia,banco santander|NHH|NHH,SAN
+1|fda,diasorin,xl|DIA|DIA,COPN
+1|grifols,barclays|GRF|BARC,GRF
+1|ubs,gea|G1A|G1A,UBSG
+1|ubs,christian hansen holding|CHR|UBSG,CHR
+1|barclays,citi,merlin entertainments|MERL|BARC,MERL
+1|danske bank,valmet|VALMT|VALMT,DANSKE
+1|danske bank,schibsted|SCHA|SCHA,DANSKE
+1|neste oil,ubs|NESTE|UBSG,NESTE
+1|ubs,vallourec|VK|UBSG,VK
+1|barclays,adidas|ADS|BARC,ADS
+1|ubs,schibsted|SCHA|SCHA,UBSG
+1|ubs,fresenius|FRE|FRE,UBSG
+1|hermes,societe generale|RMS|GLE,RMS
+1|kinepolis,kbc|KIN|KBC,KIN
+1|iliad,banco santander|ILD|ILD,SAN
+1|iliad,banco santander|ILD|ILD,SAN
+1|vontobel,schweiter technologies|SWTQ|VONN,SWTQ
+1|carl zeiss meditec,hsbc|AFX|HSBA,AFX
+1|commerzbank,buy,banco santander|CBK|CBK,SAN
+1|beneteau,societe generale|BEN|GLE,BEN
+1|xchanging,cma,agencyport europe|XCH|XCH,BCA
+1|galp energia,banco santander|GALP|GALP,SAN
+1|statoil,banco santander|STL|SAN,STL
+1|hsbc,scottish and southern energy|SSE|HSBA,SSE
+1|binckbank,kbc|BINCK|KBC,BINCK
+1|fortum,investec|FUM1V|FUM1V,INVP
+1|neopost,societe generale|NEO|GLE,NEO
+1|sanofi,fda|SAN|SAN,COPN
+1|deutsche bank,vienna insurance|VIG|DBK,VIG
+1|deutsche bank,edenred|EDEN|DBK,EDEN
+1|le figaro,canal,orange,netflix,tf1|ORA|ORA,TFI
+1|natixis,michelin|ML|ML,KN
+1|hsbc,tesco|TSCO|HSBA,TSCO
+1|deutsche bank,fresenius|FRE|DBK,FRE
+1|hikma pharmaceuticals,ubs,actelion|HIK|UBSG,HIK,ATLN
+1|barclays,paypoint|PAY|BARC,PAY
+1|barclays,dassault systems|DSY|BARC,DSY
+1|cairn energy,societe generale|CNE|GLE,CNE
+1|glaxosmithkline,daily mail|GSK|GSK,DMGT
+1|iliad,banco santander|ILD|ILD,SAN
+1|natixis,iliad|ILD|ILD,KN
+1|hsbc,international consolidated airlines|IAG|HSBA,IAG
+1|barclays,ipsen|IPN|BARC,IPN
+1|ubs,iliad|ILD|ILD,UBSG
+1|ing,ordina,getronics' m&a|ORDI|INGA,ORDI
+1|mobistar,societe generale|MOBB|GLE,MOBB
+1|barclays,telenet group holding|TNET|BARC,TNET
+1|kuoni,credit suisse|KUNN|CSGN,KUNN
+1|sanofi,barclays|SAN|BARC,SAN
+1|sanofi,deutsche bank|SAN|DBK,SAN
+1|cineworld,city screen,uk's cma|CINE|CINE,BCA
+1|credit suisse,omv|OMV|CSGN,OMV
+1|barclays,temenos|TEMN|BARC,TEMN
+1|ubs,arm holdings|ARM|UBSG,ARM
+1|deutsche bank,patrizia immobilien|P1Z|DBK,P1Z
+1|societe generale,ipsos|IPS|GLE,IPS
+1|anglo american,societe generale|AAL|GLE,AAL
+1|hsbc,nordex|NDX1|HSBA,NDX1
+1|infineon technologies,hsbc|IFX|HSBA,IFX
+1|barclays,berkeley|BKG|BARC,BKG
+1|hsbc,vestas wind systems|VWS|HSBA,VWS
+1|hsbc,gamesa|GAM|HSBA,GAM
+1|hsbc,london stock exchange|LSE|HSBA,LSE
+1|international consolidated airlines,credit suisse|IAG|IAG,CSGN
+1|ubs,bankia|BKIA|BKIA,UBSG
+1|barclays,gjensidige forsikring|GJF|BARC,GJF
+1|barclays,yara international|YAR|BARC,YAR
+1|glaxosmithkline,barclays|GSK|GSK,BARC
+1|ubs,grupo catalana occidente|GCO|UBSG,GCO
+1|danone,fresenius|BN|FRE,BN
+1|statoil,credit suisse|STL|CSGN,STL
+1|euronext,societe generale|ENX|GLE,ENX
+1|faurecia,societe generale|EO|GLE,EO
+1|tullow oil,societe generale|TLW|TLW,GLE
+1|diageo,emperador,whyte & mackay,uk's cma|DGE|DGE,BCA
+1|mediaset,telecom italia,repubblica|MS|MS,TIT
+1|societe generale,alcatel-lucent|ALU|ALU,GLE
+1|eu,aegon, banco santander|AGN|AGN,SAN
+1|barclays,old mutual|OML|BARC,OML
+1|barclays,dia|DIA|BARC,DIA
+1|ubs,enel green power|EGPW|UBSG,EGPW
+1|cembra money bank,credit suisse|CMBN|CSGN,CMBN
+1|danske bank,ramirent|RMR1V|RMR1V,DANSKE
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|thales,le figaro,electricite de france|EDF|EDF,HO
+1|sanofi,credit suisse|SAN|CSGN,SAN
+1|societe generale,alstom|ALO|ALO,GLE
+1|vestas wind systems,credit suisse|VWS|VWS,CSGN
+1|credit suisse,linde|LIN|LIN,CSGN
+1|credit suisse,aveva|AVV|AVV,CSGN
+1|ladbrokes,barclays|LAD|BARC,LAD
+1|barclays,daimler|DAI|BARC,DAI
+1|luxottica,repubblica,autogrill|AGL|LUX,AGL
+1|heidelbergcement,ubs|HEI|UBSG,HEI
+1|deutsche bank,banco bilbao vizcaya|BBVA|DBK,BBVA
+1|trevi finanziaria,unicredit,bnp paribas|TFI|BNP,TFI
+1|deutsche bank,bureau veritas|BVI|DBK,BVI
+1|erste bank,sparkassen leasing (earlier),austria's bwb,vienna insurance|EBS|VIG,EBS
+1|dcc,investec|DCC|INVP,DCC
+1|renault,nissan,automobilwoche,daimler|RNO|DAI,RNO
+1|ubs,autoneum|AUTN|UBSG,AUTN
+1|ubs,deutsche post dhl|DPW|DPW,UBSG
+1|deutsche bank,telefonica deutschland holding|O2D|DBK,O2D
+1|deutsche bank,crest nicholson holdings|CRST|DBK,CRST
+1|merck,bayer|BAYN|MRK,BAYN
+1|veyance technologies,continental,uk's cma|CON|BCA,CON
+1|endesa,enel,el confidencial|ELE|ENEL,ELE
+1|atenor,kbc|ATEB|ATEB,KBC
+1|hsbc,hammerson|HMSO|HSBA,HMSO
+1|hsbc,unibail-rodamco|UL|HSBA,UL
+1|galp energia,credit suisse|GALP|CSGN,GALP
+1|ubs,sodexo|SW|UBSG,SW
+1|ubs,aker solutions|AKSO|UBSG,AKSO
+1|facc,ubs|FACC|UBSG,FACC
+1|ubs,edenred|EDEN|UBSG,EDEN
+1|ubs,royal mail|RMG|RMG,UBSG
+1|mtu aero,investec|MTX|MTX,INVP
+1|ubs,seb|SK|SK,UBSG
+1|deutsche bank,telekom austria|TKA|DBK,TKA
+1|umicore,credit suisse|UMI|UMI,CSGN
+1|hikma pharmaceuticals,fda|HIK|HIK,COPN
+1|christian hansen holding,societe generale|CHR|GLE,CHR
+1|ubs,logitech|LOGN|LOGN,UBSG
+1|societe generale,atresmedia|A3M|GLE,A3M
+1|debenhams,societe generale|DEB|GLE,DEB
+1|airbus, safran,eu commission|AIR|SAF,AIR
+1|wartsila,danske bank|WRT1V|DANSKE,WRT1V
+1|tikkurila,danske bank|TIK1V|TIK1V,DANSKE
+1|gn store nord,danske bank|GN|GN,DANSKE
+1|severn trent,societe generale|SVT|SVT,GLE
+1|m6-metropole,hsbc|MMT|HSBA,MMT
+1|gerresheimer,hsbc|GXI|HSBA,GXI
+1|hsbc,centrica|CNA|HSBA,CNA
+1|hsbc,carrefour|CA|HSBA,CA
+1|sandvik,barclays|SAND|SAND,BARC
+1|ubs,cargotec|CGCBV|UBSG,CGCBV
+1|carnegie,grnges,seb|GRNG|SK,GRNG
+1|deutsche bank,telekom austria|TKA|DBK,TKA
+1|glencore,rio tinto|RIO|GLEN,RIO
+1|dorset cereals,associated british foods,uk's cma|ABF|ABF,BCA
+1|dsm (dsm.na),corbion,basf,evonik|CRBN|BAS,EVK,CRBN
+1|hsbc,allianz|ALV|HSBA,ALV
+1|hsbc,belgacom|PROX|HSBA,PROX
+1|hsbc,telenet group holding|TNET|HSBA,TNET
+1|deutsche bank,just retirement|JRG|DBK,JRG
+1|ubs,asos|ASC|ASC,UBSG
+1|helical bar,sainsbury|HLCL|SBRY,HLCL
+1|deutsche bank,groupe delhaize|DELB|DBK,DELB
+1|deutsche bank,goldman sachs,leg immobilien|LEG|DBK,LEG
+1|lme,norsk hydro,credit suisse|NHY|NHY,CSGN
+1|fda,shire|SHP|SHP,COPN
+1|hsbc,red electrica|REE|HSBA,REE
+1|barclays,investec|INVP|BARC,INVP
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|sports direct international,debenhams|SPD|SPD,DEB
+1|deutsche bank,kennedy wilson europe real estate,bofa/ml|KWE|DBK,KWE
+1|aeroport de paris,natixis|ADP|KN,ADP
+1|ubs,tf1|TFI|UBSG,TFI
+1|deutsche bank,drgerwerk|DRW3|DBK,DRW3
+1|standard chartered,societe generale|STAN|STAN,GLE
+1|barclays,bureau veritas|BVI|BARC,BVI
+1|fda,astrazeneca|AZN|AZN,COPN
+1|credit suisse,euler hermes|ELE|CSGN,ELE
+1|red electrica,societe generale|REE|REE,GLE
+1|thyssenkrupp,rheinmetall,wirtschaftswoche|TKA|RHM,TKA
+1|subsea,credit suisse|SUBC|SUBC,CSGN
+1|imerys,societe generale|NK|NK,GLE
+1|deutsche bank,kpn|KPN|DBK,KPN
+1|brown,credit suisse|BWNG|CSGN,BWNG
+1|ubs,royal philips|PHIA|UBSG,PHIA
+1|ubs,valora holding|VALN|VALN,UBSG
+1|deutsche bank,deutsche post dhl|DPW|DBK,DPW
+1|castellum,danske bank|CAST|CAST,DANSKE
+1|bmw,credit suisse|BMW|BMW,CSGN
+1|societe generale,associated british foods|ABF|ABF,GLE
+1|randgold resources,ubs|RRS|UBSG,RRS
+1|deutsche bank,luxottica|LUX|DBK,LUX
+1|anglo american,credit suisse|AAL|CSGN,AAL
+1|mediaset,telecom italia,reuters|TIT|MS,TIT
+1|mears,investec|MER|MER,INVP
+1|bunzl,investec|BNZL|BNZL,INVP
+1|belgacom,kbc|PROX|PROX,KBC
+1|fabege,siemens|FABG|FABG,SIE
+1|hsbc,havas|HAV|HSBA,HAV
+1|wereldhave,unibail-rodamco|UL|UL,WHA
+1|danske bank,societe generale|DANSKE|GLE,DANSKE
+1|ubs,antofagasta|ANTO|UBSG,ANTO
+1|deutsche bank,aker solutions|AKSO|DBK,AKSO
+1|glencore,rio tinto|GLEN|GLEN,RIO
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|deutsche bank,pernod ricard|RI|DBK,RI
+1|antofagasta,societe generale|ANTO|GLE,ANTO
+1|swatch,societe generale|UHR|UHR,GLE
+1|asos,investec|ASC|ASC,INVP
+1|neste oil,danske bank|NESTE|DANSKE,NESTE
+1|apple,arm holdings,liberum,imagination technologies|IMG|IMG,ARM
+1|hsbc,iss|ISS|HSBA,ISS
+1|glaxosmithkline,deutsche bank,genmab|GEN|GSK,DBK,GEN
+1|vilmorin & cie,societe generale|RIN|GLE,RIN
+1|ubs,osram licht|OSR|UBSG,OSR
+1|acs,saeta yield|ACS|ACS,SAY
+1|deutsche bank,conwert immobilien invest|CWI|DBK,CWI
+1|ing,postnl|PNL|INGA,PNL
+1|investec,royal bank of scotland|RBS|RBS,INVP
+1|airbus,credit suisse|AIR|CSGN,AIR
+1|morrisons,tesco|MRW|MRW,TSCO
+1|hitachi,ansaldo,finmeccanica|FNC|FNC,STS
+1|aperam,societe generale|APAM|APAM,GLE
+1|danske bank, morgan stanley,nnit|NNIT|NNIT,DANSKE
+1|credit suisse,accor|AC|CSGN,AC
+1|gamesa,credit suisse|GAM|CSGN,GAM
+1|hsbc,aeroport de paris|ADP|HSBA,ADP
+1|ladbrokes,deutsche bank|LAD|DBK,LAD
+1|babcock international,deutsche bank|BAB|DBK,BAB
+1|ocado,deutsche bank|OCDO|DBK,OCDO
+1|cie automotive,ubs|CIE|CIE,UBSG
+1|glaxosmithkline,deutsche bank,genmab|GEN|GSK,DBK,GEN
+1|cma,phones4u,vodafone|VOD|VOD,BCA
+1|billerudkorsns,danske bank|BILL|BILL,DANSKE
+1|danske bank,af gruppen|AFG|AFG,DANSKE
+1|barclays,ipsen|IPN|BARC,IPN
+1|ing,europe focus list,credit suisse|INGA|INGA,CSGN
+1|ubs,allreal holding|ALLN|ALLN,UBSG
+1|mediaset,deutsche bank|MS|DBK,MS
+1|ubs,carnival|CCL|UBSG,CCL
+1|wihlborgs fastigheter,danske bank|WIHL|WIHL,DANSKE
+1|danske bank,ramirent|RMR1V|RMR1V,DANSKE
+1|danske bank,petroleum geo-services|PGS|DANSKE,PGS
+1|huhtamaki,danske bank|HUH1V|HUH1V,DANSKE
+1|rexel,natixis|RXL|RXL,KN
+1|legrand,natixis|LR|LR,KN
+1|natixis,korian-medica|KORI|KN,KORI
+1|hsbc,royal philips|PHIA|HSBA,PHIA
+1|rio tinto,credit suisse|RIO|CSGN,RIO
+1|boa merrill lynch, citi, societe generale,saeta yield|SAY|GLE,SAY
+1|ubs,michelin|ML|ML,UBSG
+1|glaxosmithkline,ubs|GSK|GSK,UBSG
+1|poundland,jpmorgan cazenove,warburg pincus,credit suisse|PLND|CSGN,PLND
+1|hsbc,konecranes|KCR1V|HSBA,KCR1V
+1|deutsche bank,arkema|AKE|DBK,AKE
+1|ubs,umicore|UMI|UMI,UBSG
+1|telefonica deutschland holding,societe generale|O2D|O2D,GLE
+1|itv,barclays|ITV|BARC,ITV
+1|hsbc,alstria|AOX|HSBA,AOX
+1|stada arzneimittel,ubs|SAZ|UBSG,SAZ
+1|hsbc,bilfinger berger|GBF|HSBA,GBF
+1|solvay,deutsche bank,victrex|VCT|DBK,VCT
+1|kinepolis,kbc|KIN|KBC,KIN
+1|natixis,gaztransport & technigaz|GTT|GTT,KN
+1|ubm,investec|UBM|UBM,INVP
+1|hsbc holdings,ubs|HSBA|HSBA,UBSG
+1|deutsche bank,amadeus it|AMS|DBK,AMS
+1|sunday times,airbus,finmeccanica|FNC|FNC,AIR
+1|wartsila,danske bank|WRT1V|DANSKE,WRT1V
+1|hsbc,teliasonera|TLSN|HSBA,TLSN
+1|swatch,societe generale|UHR|UHR,GLE
+1|porsche,credit suisse|PAH3|CSGN,PAH3
+1|kingfisher,ubs|KGF|KGF,UBSG
+1|danske bank,exiqon|EXQ|DANSKE,EXQ
+1|barclays,britvic|BVIC|BARC,BVIC
+1|hsbc,biotest|BIO3|HSBA,BIO3
+1|bloomberg,arm holdings,investec|ARM|ARM,INVP
+1|wartsila,credit suisse|WRT1V|CSGN,WRT1V
+1|deutsche bank,tesco|TSCO|DBK,TSCO
+1|fidessa,credit suisse|FDSA|CSGN,FDSA
+1|lancashire holdings limited,credit suisse|LRE|LRE,CSGN
+1|ubs,yara international|YAR|UBSG,YAR
+1|bwb,deutsche wohnen,conwert immobilien invest|CWI|DWNI,CWI
+1|commerzbank,unicredit,shw|SW1|CBK,SW1
+1|hsbc,prosegur compania de seguridad|PSG|HSBA,PSG
+1|sse,cma|SSE|SSE,BCA
+1|nexans,societe generale|NEX|NEX,GLE
+1|regus,smid europe focus list,credit suisse|RGU|CSGN,RGU
+1|barclays,wh smith|SMWH|BARC,SMWH
+1|intu properties,barclays|INTU|BARC,INTU
+1|ubs,kering|KER|KER,UBSG
+1|arkema,societe generale|AKE|AKE,GLE
+1|henderson,ubs|HGG|UBSG,HGG
+1|hsbc holdings,banco santander|HSBA|HSBA,SAN
+1|lery seafood,danske bank|LSG|LSG,DANSKE
+1|ca immobilien anlagen,immofinanz,o1 group limited|IIA|IIA,CAI
+1|barclays,wizz air,citi|WIZZ|BARC,WIZZ
+1|mediaset,rai way (rway.im),ei towers|MS|EIT,MS
+1|gkn holdings,societe generale|GKN|GLE,GKN
+1|ubs,sponda|SDA1V|UBSG,SDA1V
+1|daimler,credit suisse|DAI|CSGN,DAI
+1|umicore,credit suisse|UMI|UMI,CSGN
+1|deutsche bank,nordex|NDX1|DBK,NDX1
+1|randgold resources,deutsche bank|RRS|DBK,RRS
+1|statoil,danske bank|STL|DANSKE,STL
+1|rsa insurance,deutsche bank|RSA|RSA,DBK
+1|vallourec,credit suisse|VK|CSGN,VK
+1|deutsche bank,aker solutions|AKSO|DBK,AKSO
+1|societe generale,alcatel-lucent|ALU|ALU,GLE
+1|societe generale,osram licht|OSR|GLE,OSR
+1|kaz minerals,credit suisse|KAZ|CSGN,KAZ
+1|ubm,credit suisse|UBM|UBM,CSGN
+1|ubs,orange|ORA|ORA,UBSG
+1|vivendi,ubs|VIV|VIV,UBSG
+1|standard chartered,deutsche bank|STAN|DBK,STAN
+1|deutsche bank,schneider electric|SU|DBK,SU
+1|deutsche bank,smiths|SMIN|DBK,SMIN
+1|fugro,kbc|FUR|FUR,KBC
+1|hsbc,beiersdorf|BEI|HSBA,BEI
+1|fresenius medical care,hsbc|FME|HSBA,FME
+1|bureau veritas,societe generale|BVI|BVI,GLE
+1|viscofan,societe generale|VIS|GLE,VIS
+1|barclays,associated british foods|ABF|BARC,ABF
+1|ubs,grupo catalana occidente|GCO|UBSG,GCO
+1|deutsche bank,kennedy wilson europe real estate|KWE|DBK,KWE
+1|deutsche bank,credit agricole|ACA|DBK,ACA
+1|natixis,iliad|ILD|ILD,KN
+1|numericable,societe generale|NUM|NUM,GLE
+1|vontobel,allreal holding|ALLN|ALLN,VONN
+1|hsbc,iberdrola|IBE|HSBA,IBE
+1|atos origin,barclays|ATO|BARC,ATO
+1|ubs,carnival|CCL|UBSG,CCL
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|bic,societe generale|BB|GLE,BB
+1|hsbc,barclays,john laing|JLG|HSBA,JLG,BARC
+1|statoil,societe generale|STL|GLE,STL
+1|sartorius stedim biotech,societe generale|DIM|GLE,DIM
+1|barclays,heineken|HEIA|BARC,HEIA
+1|numericable,credit suisse|NUM|NUM,CSGN
+1|sanofi,fda|SAN|SAN,COPN
+1|henderson,credit suisse|HGG|CSGN,HGG
+1|tnt express,volvo|TNTE|VOLVB,TNTE
+1|telecom,bouygues|EN|EN,TEP
+1|glencore,societe generale|GLEN|GLEN,GLE
+1|cma,intercity east coast,stagecoach|SGC|SGC,BCA
+1|metso,valmet|VALMT|VALMT,MEO1V
+1|spar nord bank,danske bank|SPNO|SPNO,DANSKE
+1|danske bank,astrazeneca|AZN|AZN,DANSKE
+1|aberdeen asset management,societe generale|ADN|ADN,GLE
+1|eltel,bnp paribas, morgan stanley,seb|ELTEL|BNP,SK,ELTEL
+1|deutsche bank,adidas|ADS|DBK,ADS
+1|cma,stagecoach|SGC|SGC,BCA
+1|cma,stagecoach|SGC|SGC,BCA
+1|natixis,tf1|TFI|KN,TFI
+1|schneider electric,societe generale|SU|GLE,SU
+1|vontobel,bossard holding|BOSN|BOSN,VONN
+1|mtu aero,investec|MTX|MTX,INVP
+1|hsbc,rheinmetall|RHM|HSBA,RHM
+1|aixtron,societe generale|AIXA|AIXA,GLE
+1|serco,credit suisse|SRP|CSGN,SRP
+1|eni,credit suisse|ENI|CSGN,ENI
+1|edenred,credit suisse|EDEN|CSGN,EDEN
+1|schneider electric,societe generale|SU|GLE,SU
+1|essilor,societe generale|EI|EI,GLE
+1|kingfisher,barclays|KGF|BARC,KGF
+1|ubs,edp energias de portugal|EDP|UBSG,EDP
+1|barclays,ophir energy|OPHR|BARC,OPHR
+1|natixis,safran|SAF|SAF,KN
+1|galp energia,eu,eni|ENI|ENI,GALP
+1|imagination technologies,ip,liberum,eda|IMG|IMG,IPO
+1|credit suisse,weir|WEIR|CSGN,WEIR
+1|beiersdorf,credit suisse|BEI|CSGN,BEI
+1|valora holding,credit suisse|VALN|VALN,CSGN
+1|wirecard,credit suisse|WDI|CSGN,WDI
+1|salzgitter,deutsche bank|SZG|DBK,SZG
+1|barclays,bouygues|EN|BARC,EN
+1|ubs,oxford instruments|OXIG|UBSG,OXIG
+1|eurazeo,bank of america merrill lynch,moncler|RF|RF,MONC
+1|glaxosmithkline,ubs|GSK|GSK,UBSG
+1|geberit,societe generale|GEBN|GLE,GEBN
+1|saint-gobain,credit suisse|SGO|SGO,CSGN
+1|ds smith,ubs|SMDS|SMDS,UBSG
+1|itv,barclays|ITV|BARC,ITV
+1|cytotools,fda|T5O|T5O,COPN
+1|inchcape,ubs|INCH|INCH,UBSG
+1|thomas cook,credit suisse|TCG|CSGN,TCG
+1|vontobel,implenia|IMPN|VONN,IMPN
+1|barclays,onesavings bank|OSB|BARC,OSB
+1|morgan stanley, goldman sachs, caixabank,eu,cellnex telecom|CLNX|CLNX,CABK
+1|iss,danske bank|ISS|ISS,DANSKE
+1|poundland,cma|PLND|BCA,PLND
+1|deutsche bank,nordex|NDX1|DBK,NDX1
+1|danske bank,nokian renkaat|NRE1V|NRE1V,DANSKE
+1|bakkafrost,danske bank|BAKKA|DANSKE,BAKKA
+1|ladbrokes,hsbc|LAD|HSBA,LAD
+1|hsbc,wacker neuson|WAC|HSBA,WAC
+1|mtu aero,ubs|MTX|MTX,UBSG
+1|heidelbergcement,ubs|HEI|UBSG,HEI
+1|barclays,havas|HAV|BARC,HAV
+1|sulzer,credit suisse|SUN|CSGN,SUN
+1|societe generale,e.on|EOAN|EOAN,GLE
+1|inchcape,deutsche bank|INCH|INCH,DBK
+1|ubs,rocket internet|RKET|RKET,UBSG
+1|syngenta,ubs|SYNN|UBSG,SYNN
+1|aberdeen asset management,societe generale|ADN|ADN,GLE
+1|cfo,tomtom,ubm|TOM2|UBM,TOM2
+1|iss,frankfurter allgemeine sonntagszeitung,bmw|BMW|BMW,ISS
+1|credit suisse,victrex|VCT|VCT,CSGN
+1|barclays,bmw|BMW|BARC,BMW
+1|ahold,societe generale|AH|GLE,AH
+1|gruppo campari,societe generale|CPR|GLE,CPR
+1|cytotools,fda|T5O|T5O,COPN
+1|roche holding,fda|ROG|ROG,COPN
+1|novartis,vontobel|NOVN|VONN,NOVN
+1|hsbc,telecity|TCY|HSBA,TCY
+1|deutsche bank,red electrica|REE|DBK,REE
+1|deutsche bank,weir|WEIR|DBK,WEIR
+1|deutsche bank,weir|WEIR|DBK,WEIR
+1|enagas,deutsche bank,eu,citi|ENG|DBK,ENG
+1|elementis,credit suisse|ELM|ELM,CSGN
+1|natixis,ipsos|IPS|KN,IPS
+1|ocean yield,danske bank|OCY|DANSKE,OCY
+1|brenntag,credit suisse|BNR|CSGN,BNR
+1|facc,ubs|FACC|UBSG,FACC
+1|hsbc,bhp billiton|BLT|HSBA,BLT
+1|hsbc,nmc health|NMC|HSBA,NMC
+1|hsbc,al noor hospitals|ANH|HSBA,ANH
+1|evonik industries,societe generale|EVK|GLE,EVK
+1|marks & spencer,barclays|MKS|BARC,MKS
+1|telecom italia,infrastrutture wireless italiane|TIT|INW,TIT
+1|hsbc,pets at home|PETS|HSBA,PETS
+1|smiths,credit suisse|SMIN|CSGN,SMIN
+1|galp energia,eni|ENI|ENI,GALP
+1|galp energia,eni|ENI|ENI,GALP
+1|credit suisse,teliasonera|TLSN|CSGN,TLSN
+1|danske bank,kesko|KESBV|KESBV,DANSKE
+1|munich re,societe generale|MUV2|GLE,MUV2
+1|commerzbank,deutsche bank|CBK|DBK,CBK
+1|hsbc,fraport|FRA|HSBA,FRA
+1|hsbc,fraport|FRA|HSBA,FRA
+1|centrica,deutsche bank|CNA|DBK,CNA
+1|societe generale,alcatel-lucent|ALU|ALU,GLE
+1|hsbc,centrica|CNA|HSBA,CNA
+1|deutsche bank,vienna insurance|VIG|DBK,VIG
+1|de la rue,investec|DLAR|DLAR,INVP
+1|de la rue,investec|DLAR|DLAR,INVP
+1|hsbc,spectris|SXS|HSBA,SXS
+1|vectura,fda|VEC|VEC,COPN
+1|cembra money bank,credit suisse, deutsche bank- reuters,ge capital swiss funding|CMBN|CSGN,CMBN
+1|atlantia,banco santander|ATL|ATL,SAN
+1|danske bank,hkscan|HKSAV|HKSAV,DANSKE
+1|sunday telegraph,cma,spirit pub (sprt.ln),greene king|GNK|GNK,BCA
+1|barclays,daily mail|BARC|BARC,DMGT
+1|deutsche bank,coca cola hbc|CCH|DBK,CCH
+1|ubs,laird|LRD|LRD,UBSG
+1|ubs,sig|SHI|UBSG,SHI
+1|swatch,credit suisse|UHR|CSGN,UHR
+1|swatch,credit suisse|UHR|CSGN,UHR
+1|barclays,swisscom|SCMN|BARC,SCMN
+1|deutsche brse,societe generale|DB1|GLE,DB1
+1|barclays,teliasonera|TLSN|BARC,TLSN
+1|roche holding,ubs|ROG|ROG,UBSG
+1|investec,lloyds banking|LLOY|LLOY,INVP
+1|hsbc,duerr|DUE|HSBA,DUE
+1|danske bank,af gruppen|AFG|AFG,DANSKE
+1|investec,royal bank of scotland|RBS|RBS,INVP
+1|deutsche bank,kuoni|KUNN|DBK,KUNN
+1|barclays,great portland estates|GPOR|BARC,GPOR
+1|coca cola hbc,societe generale|CCH|GLE,CCH
+1|barclays,bmw|BMW|BARC,BMW
+1|hsbc,hamburger hafen,logistik|HHFA|HSBA,HHFA
+1|hsbc,credit agricole|ACA|HSBA,ACA
+1|bakkafrost,danske bank|BAKKA|DANSKE,BAKKA
+1|wessanen,kbc|WES|WES,KBC
+1|numericable-sfr,vivendi,altice|ATC|VIV,ATC
+1|ubs,sophos|SOPH|SOPH,UBSG
+1|diageo,investec|DGE|DGE,INVP
+1|cobham,societe generale|COB|COB,GLE
+1|evonik,wirtschaftswoche,clariant|CLN|CLN,EVK
+1|deutsche bank,sophos|SOPH|DBK,SOPH
+1|deutsche bank,kbc groep|KBC|DBK,KBC
+1|e.on,erg|ERG|EOAN,ERG
+1|hsbc,abb limited|ABBN|HSBA,ABBN
+1|hsbc,hikma pharmaceuticals|HIK|HSBA,HIK
+1|deutsche bank,fortum|FUM1V|DBK,FUM1V
+1|societe generale,kion|KGX|KGX,GLE
+1|barclays,amec foster wheeler|AMFW|BARC,AMFW
+1|aldermore,credit suisse|ALD|ALD,CSGN
+1|vestas wind systems,credit suisse|VWS|VWS,CSGN
+1|gamesa,credit suisse|GAM|CSGN,GAM
+1|heidelbergcement,deutsche bank|HEI|DBK,HEI
+1|deutsche bank,italcementi|IT|DBK,IT
+1|danske bank,topdanmark|TOP|TOP,DANSKE
+1|salzgitter,barclays|SZG|BARC,SZG
+1|hsbc,premier farnell|PFL|HSBA,PFL
+1|thyssenkrupp,barclays|TKA|BARC,TKA
+1|petrofac,societe generale|PFC|PFC,GLE
+1|hsbc,al noor hospitals|ANH|HSBA,ANH
+1|wpp,investec|WPP|WPP,INVP
+1|onesavings bank,investec|OSB|OSB,INVP
+1|hsbc,al noor hospitals|ANH|HSBA,ANH
+1|rheinmetall,credit suisse|RHM|RHM,CSGN
+1|wpp,investec|WPP|WPP,INVP
+1|onesavings bank,investec|OSB|OSB,INVP
+1|deutsche bank,aegon|AGN|DBK,AGN
+1|adecco,credit suisse|ADEN|ADEN,CSGN
+1|veolia environnement,societe generale|VIE|VIE,GLE
+1|gfk,societe generale|GFK|GFK,GLE
+1|alcatel-lucent,nokia,sec|NOKIA|ALU,NOKIA
+1|rsa,zurich insurance|RSA|RSA,ZURN
+1|lafargeholcim,credit suisse|LHN|LHN,CSGN
+1|la liga,sky,daily mail|SKY|SKY,DMGT
+1|arkema,societe generale|AKE|AKE,GLE
+1|credit suisse,lufthansa|LHA|CSGN,LHA
+1|royal dutch shell,ubs|RDSB|UBSG,RDSB
+1|hsbc,straumann holding|STMN|HSBA,STMN
+1|societe generale,caixabank|CABK|CABK,GLE
+1|audi,nokia|NSU|NSU,NOKIA
+1|hsbc,nordea bank|NDA|HSBA,NDA
+1|vestas wind systems,danske bank|VWS|VWS,DANSKE
+1|deutsche bank,home retail|HOME|DBK,HOME
+1|investec,weir|WEIR|WEIR,INVP
+1|repsol,goldman sachs,el confidencial,bbva|REP|BBVA,REP
+1|bloomberg,tomtom,nokia|TOM2|TOM2,NOKIA
+1|bloomberg,tomtom,nokia|TOM2|TOM2,NOKIA
+1|ams,ubs|AMS|UBSG,AMS
+1|hsbc,sulzer|SUN|HSBA,SUN
+1|hsbc,fresenius|FRE|HSBA,FRE
+1|smiths,credit suisse|SMIN|CSGN,SMIN
+1|hsbc,jungheinrich|JUN3|HSBA,JUN3
+1|fresenius medical care,societe generale|FME|GLE,FME
+1|aegon,kbc|AGN|AGN,KBC
+1|rsa insurance,zurich insurance,wsj's heard|ZURN|RSA,ZURN
+1|international consolidated airlines,barclays|IAG|BARC,IAG
+1|lvmh moet hennessy,societe generale|MC|MC,GLE
+1|ubs,forbo holding|FORN|FORN,UBSG
+1|ubs,daimler|DAI|UBSG,DAI
+1|societe generale,lanxess|LXS|LXS,GLE
+1|nordex,societe generale|NDX1|GLE,NDX1
+1|agfa gevaert,kbc|AGFB|AGFB,KBC
+1|danske bank,exiqon|EXQ|DANSKE,EXQ
+1|danske bank,nokia|NOKIA|NOKIA,DANSKE
+1|deutsche bank,ing|INGA|DBK,INGA
+1|barclays,oesterreichische post|POST|BARC,POST
+1|barclays,banca sistema|BST|BARC,BST
+1|fda,basilea|BSLN|BSLN,COPN
+1|dairy crest,credit suisse|DCG|DCG,CSGN
+1|credit suisse,wacker chemie|WCH|CSGN,WCH
+1|ubs,michelin|ML|ML,UBSG
+1|intu properties,ubs|INTU|INTU,UBSG
+1|aena,societe generale|AENA|GLE,AENA
+1|aeroport de paris,societe generale|ADP|GLE,ADP
+1|fraport,societe generale|FRA|FRA,GLE
+1|cineworld,barclays|CINE|BARC,CINE
+1|prysmian,barclays|PRY|BARC,PRY
+1|mediaset,telecom italia|TIT|MS,TIT
+1|europcar groupe,societe generale|EUCAR|EUCAR,GLE
+1|hsbc,vesuvius|VSVS|HSBA,VSVS
+1|hsbc,europcar groupe|EUCAR|HSBA,EUCAR
+1|hsbc,deutz|DEZ|HSBA,DEZ
+1|hsbc,deutz|DEZ|HSBA,DEZ
+1|daily mail,royal bank of scotland|RBS|RBS,DMGT
+1|boliden,ubs|BOL|UBSG,BOL
+1|ubs,euskaltel|EKT|UBSG,EKT
+1|cassiopea,credit suisse|SKIN|CSGN,SKIN
+1|meggitt,cobham|MGGT|MGGT,COB
+1|tdc,societe generale|TDC|TDC,GLE
+1|bloomberg,bayer,covestro|BAYN|1COV,BAYN
+1|syngenta,ubs|SYNN|UBSG,SYNN
+1|bayer,handelsblatt,covestro|BAYN|1COV,BAYN
+1|elia systems operator,kbc|ELI|ELI,KBC
+1|gerresheimer,credit suisse|GXI|CSGN,GXI
+1|dksh,credit suisse|DKSH|CSGN,DKSH
+1|barclays,home retail|HOME|BARC,HOME
+1|bhp billiton,rio tinto|RIO|RIO,BLT
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|snam,societe generale|SRG|GLE,SRG
+1|deutsche bank,deutsche pfandbriefbank|PBB|DBK,PBB
+1|enagas,societe generale|ENG|GLE,ENG
+1|deutsche bank,banco santander|SAN|DBK,SAN
+1|ubs,debenhams|DEB|UBSG,DEB
+1|ubs,dunelm|DNLM|UBSG,DNLM
+1|ubs,b&m european value retail|BME|BME,UBSG
+1|ubs,aker solutions|AKSO|UBSG,AKSO
+1|(sge.ln),kier,sage|KIE|SGE,KIE
+1|deutsche bank,pennon|PNN|DBK,PNN
+1|iss,danske bank|ISS|ISS,DANSKE
+1|tdc,barclays|TDC|BARC,TDC
+1|hsbc,tag immobilien|TEG|HSBA,TEG
+1|ubs,vz holding|VZN|VZN,UBSG
+1|electricite de france,investec|EDF|EDF,INVP
+1|standard chartered,deutsche bank|STAN|DBK,STAN
+1|xxl,credit suisse|XXL|XXL,CSGN
+1|aggreko,credit suisse|AGK|CSGN,AGK
+1|engie,credit suisse|ENGI|CSGN,ENGI
+1|ovs,credit suisse|OVS|OVS,CSGN
+1|hsbc,natixis|KN|HSBA,KN
+1|hsbc,aeroport de paris|ADP|HSBA,ADP
+1|ageas,axa|CS|AGS,CS
+1|metsa board,danske bank|METSB|METSB,DANSKE
+1|hsbc,gea|G1A|HSBA,G1A
+1|rwe,societe generale|RWE|RWE,GLE
+1|fda,sonova|SOON|SOON,COPN
+1|deutsche bank,betfair|BET|DBK,BET
+1|hsbc,britvic|BVIC|HSBA,BVIC
+1|seb,norsk hydro|NHY|SK,NHY
+1|danske bank,royal unibrew|RBREW|RBREW,DANSKE
+1|greencore,investec|GNC|GNC,INVP
+1|inwit,telecom italia,bloomberg|INW|INW,TIT
+1|kilfrost,cma,clariant|CLN|CLN,BCA
+1|hsbc,korian-medica|KORI|HSBA,KORI
+1|ubs,alstom|ALO|ALO,UBSG
+1|g4s,credit suisse|GFS|CSGN,GFS
+1|k+s,credit suisse|SDF|SDF,CSGN
+1|kbc,heineken|HEIA|KBC,HEIA
+1|zetes,kbc|ZTS|ZTS,KBC
+1|ft alphaville,british american tobacco,imperial tobacco|IMT|BATS,IMT
+1|zodiac aerospace,societe generale|ZC|GLE,ZC
+1|petroleum geo-services,societe generale|PGS|GLE,PGS
+1|volkswagen, audi,d'ieteren,koda|DIE|NSU,DIE
+1|novartis,fda,tafinlar|NOVN|NOVN,COPN
+1|barclays,tullett prebon|TLPR|BARC,TLPR
+1|l'oreal,societe generale|OR|OR,GLE
+1|advanced medical solutions,fda|AMS|AMS,COPN
+1|air liquide,natixis|AI|KN,AI
+1|vopak,kbc|VPK|KBC,VPK
+1|telenet group holding,kbc|TNET|KBC,TNET
+1|metsa board,danske bank|METSB|METSB,DANSKE
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|bloomberg,vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|hsbc,osram licht|OSR|HSBA,OSR
+1|hsbc,centrica|CNA|HSBA,CNA
+1|hsbc,rheinmetall|RHM|HSBA,RHM
+1|barclays,telefonica deutschland holding|O2D|BARC,O2D
+1|fresenius medical care,barclays|FME|BARC,FME
+1|societe generale,richemont|CFR|CFR,GLE
+1|betfair, paddy power (plsa.id),uk's cma|BET|BCA,BET
+1|fda,multitom rax,siemens|SIE|SIE,COPN
+1|temenos,credit suisse|TEMN|CSGN,TEMN
+1|ubs,intertrust|INTER|UBSG,INTER
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|bloomberg,telecom italia,orange|ORA|ORA,TIT
+1|fda,siemens|SIE|SIE,COPN
+1|almirall,glaxosmithkline,altabax ointment,veltin gel|ALM|GSK,ALM
+1|hsbc,edp energias de portugal|EDP|HSBA,EDP
+1|hsbc,kpn|KPN|HSBA,KPN
+1|bloomberg,vonovia,iss,deutsche wohnen|VNA|DWNI,ISS,VNA
+1|the french stock market authority,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|deutsche bank,glencore|GLEN|DBK,GLEN
+1|barclays,bureau veritas|BVI|BARC,BVI
+1|heidelbergcement,italcementi,streetaccount metrics|HEI|IT,HEI
+1|hsbc,beiersdorf|BEI|HSBA,BEI
+1|bureau veritas,societe generale|BVI|BVI,GLE
+1|gruppo campari,societe generale|CPR|GLE,CPR
+1|ubs,engie|ENGI|UBSG,ENGI
+1|ontex,kbc|ONTEX|ONTEX,KBC
+1|danske bank,lundin petroleum|LUPE|LUPE,DANSKE
+1|cobham,investec|COB|COB,INVP
+1|hsbc,basf,reuters|BAS|HSBA,BAS
+1|hsbc,basf,reuters|BAS|HSBA,BAS
+1|hsbc,basf,reuters|BAS|HSBA,BAS
+1|inditex,societe generale|ITX|ITX,GLE
+1|deutsche bank,kion|KGX|DBK,KGX
+1|thyssenkrupp,deutsche bank|TKA|DBK,TKA
+1|adecco,credit suisse|ADEN|ADEN,CSGN
+1|aixtron,barclays|AIXA|BARC,AIXA
+1|deutsche bank,wolseley|WOS|DBK,WOS
+1|natixis,vallourec|VK|VK,KN
+1|tullow oil,ubs|TLW|TLW,UBSG
+1|al noor hospitals,nmc health|ANH|NMC,ANH
+1|deutsche bank,sodexo|SW|DBK,SW
+1|carnegie, danske bank,nordea,thule|THULE|THULE,DANSKE
+1|jnj,fda,genmab|GEN|GEN,COPN
+1|darzalex,fda,genmab|GEN|GEN,COPN
+1|bloomberg,danske bank,orkla|ORK|ORK,DANSKE
+1|vonovia,leg immobilien|VNA|LEG,VNA
+1|societe generale,compaa de distribucin integral logista|LOG|GLE,LOG
+1|commerzbank,ubs|CBK|UBSG,CBK
+1|hsbc,elringklinger|ZIL2|HSBA,ZIL2
+1|m6-metropole,hsbc|MMT|HSBA,MMT
+1|whitbread,societe generale|WTB|GLE,WTB
+1|ubs,telefonica|TEF|UBSG,TEF
+1|fda,shire|SHP|SHP,COPN
+1|autoneum,credit suisse|AUTN|CSGN,AUTN
+1|vivendi,le figaro,telecom italia|VIV|VIV,TIT
+1|vivendi,consobs,telecom italia|VIV|VIV,TIT
+1|natixis,ipsos|IPS|KN,IPS
+1|darzalex,fda,genmab|GEN|GEN,COPN
+1|inwit,telecom italia,reuters|TIT|INW,TIT
+1|tdc,hsbc|TDC|HSBA,TDC
+1|hsbc,eurazeo|RF|HSBA,RF
+1|ucb,hsbc|UCB|HSBA,UCB
+1|onesavings bank,aldermore|ALD|OSB,ALD
+1|deutsche bank,aldermore|ALD|DBK,ALD
+1|roche holding,fda|ROG|ROG,COPN
+1|credit suisse,lanxess|LXS|CSGN,LXS
+1|hsbc,vestas wind systems|VWS|HSBA,VWS
+1|mediaset,hsbc|MS|HSBA,MS
+1|hsbc,vossloh|VOS|HSBA,VOS
+1|barclays,osram licht|OSR|BARC,OSR
+1|sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|cisco,alcatel-lucent, nokia|ALU|ALU,NOKIA
+1|postnl,credit suisse|PNL|PNL,CSGN
+1|henkel,credit suisse|HEN3|HEN3,CSGN
+1|adidas,credit suisse|ADS|CSGN,ADS
+1|ubs,amec foster wheeler|AMFW|AMFW,UBSG
+1|deutsche bank,finmeccanica|FNC|DBK,FNC
+1|vontobel,geberit|GEBN|VONN,GEBN
+1|d'ieteren,kbc|DIE|DIE,KBC
+1|evening standard,tullett prebon,icap|IAP|TLPR,IAP
+1|tullett prebon,icap|TLPR|TLPR,IAP
+1|jordan publishing,relx,uk's cma|REN|REN,BCA
+1|hikma pharmaceuticals,fda|HIK|HIK,COPN
+1|hsbc,schaeffler|SHA|HSBA,SHA
+1|deutsche bank,semperit|SEM|DBK,SEM
+1|deutsche bank,schaeffler|SHA|DBK,SHA
+1|vontobel,lafargeholcim|LHN|LHN,VONN
+1|kbc,aedifica|AED|AED,KBC
+1|alcatel-lucent,nokia,oceane|NOKIA|ALU,NOKIA
+1|regus,avanta,uk's cma|RGU|BCA,RGU
+1|deutsche bank,drax|DRX|DBK,DRX
+1|barclays,scout24|G24|BARC,G24
+1|scout24,credit suisse|G24|CSGN,G24
+1|ubs,sodexo|SW|UBSG,SW
+1|deutsche bank,nordex|NDX1|DBK,NDX1
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|commerzbank,rheinmetall|RHM|RHM,CBK
+1|deutsche bank,adidas|ADS|DBK,ADS
+1|deutsche bank,weir|WEIR|DBK,WEIR
+1|credit suisse,covestro|1COV|CSGN,1COV
+1|hsbc,eurofins|ERF|HSBA,ERF
+1|deutsche bank,tlg immobilien|TLG|DBK,TLG
+1|imi,societe generale|IMI|IMI,GLE
+1|eurazeo,natixis|RF|RF,KN
+1|natixis,hermes|RMS|KN,RMS
+1|local world,trinity mirror,daily mail|DMGT|DMGT,TNI
+1|kone,danske bank|KNEBV|DANSKE,KNEBV
+1|indivior,fda,nda|INDV|INDV,COPN
+1|salzgitter,credit suisse|SZG|SZG,CSGN
+1|voestalpine,credit suisse|VOE|VOE,CSGN
+1|thales,ubs|HO|HO,UBSG
+1|daily mail,societe generale|DMGT|GLE,DMGT
+1|ing,kbc|INGA|INGA,KBC
+1|barclays,hastings|HSTG|BARC,HSTG
+1|hastings,credit suisse|HSTG|CSGN,HSTG
+1|hsbc,hastings|HSTG|HSBA,HSTG
+1|groupe danone,societe generale|BN|GLE,BN
+1|deutsche bank,wacker chemie|WCH|DBK,WCH
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|castellum,danske bank|CAST|CAST,DANSKE
+1|lindab,danske bank|LIAB|LIAB,DANSKE
+1|salvatore ferragamo italia,societe generale|SFER|SFER,GLE
+1|christian hansen holding,societe generale|CHR|GLE,CHR
+1|heidelbergcement,hsbc|HEI|HSBA,HEI
+1|repubblica,us department of state,ansaldo sts,finmeccanica|FNC|FNC,STS
+1|rsa insurance,credit suisse|RSA|RSA,CSGN
+1|lvmh moet hennessy,deutsche bank|MC|DBK,MC
+1|majestic wine,investec|MJW|MJW,INVP
+1|danske bank,thule|THULE|THULE,DANSKE
+1|il sole,vivendi,telefonica,ore,gvt|TEF|VIV,TEF
+1|ubs,card factory|CARD|UBSG,CARD
+1|barclays,vestas wind systems|VWS|BARC,VWS
+1|barclays,bnp paribas|BNP|BARC,BNP
+1|statoil,danske bank|STL|DANSKE,STL
+1|ubs,temenos|TEMN|UBSG,TEMN
+1|vontobel,kuoni|KUNN|VONN,KUNN
+1|swatch,hsbc|UHR|HSBA,UHR
+1|ubs,bankia|BKIA|BKIA,UBSG
+1|deutsche bank,ubs|DBK|DBK,UBSG
+1|vontobel,leonteq|LEON|VONN,LEON
+1|helvetia,credit suisse|HELN|CSGN,HELN
+1|remy cointreau,societe generale|RCO|RCO,GLE
+1|a.g.barr,societe generale|BAG|GLE,BAG
+1|flughafen zuerich,swiss life|FHZN|SLHN,FHZN
+1|danske bank,teliasonera|TLSN|DANSKE,TLSN
+1|sandvik,danske bank|SAND|SAND,DANSKE
+1|deutsche bank,bankhaus lampe,reuters,aareal bank,aareal holding|ARL|DBK,ARL
+1|kering,natixis|KER|KER,KN
+1|hannover re,credit suisse|HNR1|HNR1,CSGN
+1|jcdecaux,barclays|DEC|BARC,DEC
+1|centrica,ubs|CNA|CNA,UBSG
+1|hsbc,havas|HAV|HSBA,HAV
+1|ubs,petroleum geo-services|PGS|UBSG,PGS
+1|barclays,groupe danone|BN|BARC,BN
+1|commerzbank,barclays,osram licht|OSR|BARC,CBK,OSR
+1|danske bank,byggmax holding|BMAX|DANSKE,BMAX
+1|swatch,hsbc|UHR|HSBA,UHR
+1|saras,societe generale|SRS|GLE,SRS
+1|ubs,viscofan|VIS|UBSG,VIS
+1|barclays,wolters kluwer|WKL|BARC,WKL
+1|barclays,lufthansa|LHA|BARC,LHA
+1|il sole,campari,pernod ricard,diageo|RI|DGE,RI,CPR
+1|marks & spencer,societe generale|MKS|MKS,GLE
+1|eutelsat communications,credit suisse|ETL|CSGN,ETL
+1|kinepolis,kbc|KIN|KBC,KIN
+1|catena, dis fastigheter, fabege, platzer fastigheter, wihlborgs,mtn|FABG|DIOS,FABG
+1|barclays,amec foster wheeler|AMFW|BARC,AMFW
+1|barclays,aker solutions|AKSO|BARC,AKSO
+1|vontobel,credit suisse|VONN|VONN,CSGN
+1|repsol,sacyr vallehermoso,bloomberg|SCYR|SCYR,REP
+1|orpea,societe generale|ORP|ORP,GLE
+1|mtr,alstom, thales|ALO|ALO,HO
+1|hsbc,berkeley|BKG|HSBA,BKG
+1|ubs,wh smith|SMWH|UBSG,SMWH
+1|deutsche bank,vivendi|VIV|DBK,VIV
+1|aggreko,investec|AGK|AGK,INVP
+1|neopost,societe generale|NEO|GLE,NEO
+1|hsbc,bhp billiton|BLT|HSBA,BLT
+1|partners group holdings,vontobel|PGHN|VONN,PGHN
+1|bobst,vontobel|BOBNN|VONN,BOBNN
+1|swatch,vontobel|UHR|VONN,UHR
+1|efg international,ubs|EFGN|UBSG,EFGN
+1|deutsche bank,yara international|YAR|DBK,YAR
+1|kone,danske bank|KNEBV|DANSKE,KNEBV
+1|aurubis,societe generale|NDA|GLE,NDA
+1|credit suisse,persimmon|PSN|CSGN,PSN
+1|akzo nobel,credit suisse|AKZA|CSGN,AKZA
+1|foxtons,credit suisse|FOXT|CSGN,FOXT
+1|credit suisse,alcatel-lucent|ALU|ALU,CSGN
+1|ubs,sage|SGE|SGE,UBSG
+1|ubs,sap|SAP|UBSG,SAP
+1|anglo american,societe generale|AAL|GLE,AAL
+1|credit suisse,omv|OMV|CSGN,OMV
+1|statoil,credit suisse|STL|CSGN,STL
+1|centrica,credit suisse|CNA|CSGN,CNA
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|hsbc,deutsche euroshop|DEQ|HSBA,DEQ
+1|tesco,societe generale|TSCO|GLE,TSCO
+1|barclays,immofinanz|IIA|BARC,IIA
+1|ubs,london stock exchange|LSE|LSE,UBSG
+1|ubs,schweiter technologies|SWTQ|UBSG,SWTQ
+1|ubs,k+s|SDF|SDF,UBSG
+1|deutsche bank,sap|SAP|DBK,SAP
+1|danske bank,aurora lpg holding|AURLPG|DANSKE,AURLPG
+1|acs,saeta yield|ACS|ACS,SAY
+1|ubs,kaz minerals|KAZ|UBSG,KAZ
+1|metso,valmet|MEO1V|VALMT,MEO1V
+1|domino's pizza,credit suisse|DOM|CSGN,DOM
+1|ladbrokes,credit suisse|LAD|LAD,CSGN
+1|credit suisse,compass|CPG|CSGN,CPG
+1|credit suisse,accor|AC|CSGN,AC
+1|marston,barclays|MARS|BARC,MARS
+1|intrum justitia,danske bank|IJ|IJ,DANSKE
+1|merck,credit suisse|MRK|CSGN,MRK
+1|veolia environnement,credit suisse|VIE|VIE,CSGN
+1|kpn,reuters,deutsche telekom|KPN|KPN,DTE
+1|bloomberg,rsa,ubs|RSA|RSA,UBSG
+1|natixis,publicis groupe|PUB|KN,PUB
+1|barclays,countrywide|CWD|BARC,CWD
+1|barclays,bayer|BAYN|BARC,BAYN
+1|enel,credit suisse|ENEL|CSGN,ENEL
+1|gecina,bmw|GFC|GFC,BMW
+1|sanofi,bayer,ftc|SAN|BAYN,SAN
+1|also, ubs,bbvas,bbva,xinhu zhongbao,cncb,ubs|BBVA|BBVA,UBSG
+1|private equity international,ubs,nh hotels,intesa sanpaolo (isp.im)|NHH|NHH,UBSG
+1|hsbc,e.on|EOAN|HSBA,EOAN
+1|ubs,rio tinto|RIO|UBSG,RIO
+1|wartsila,ubs|WRT1V|UBSG,WRT1V
+1|boliden,ubs|BOL|UBSG,BOL
+1|boiron,societe generale|BOI|BOI,GLE
+1|ubs,rentokil|RTO|UBSG,RTO
+1|private equity international,ubs,nh hotels,intesa sanpaolo (isp.im)|NHH|NHH,UBSG
+1|deutsche bank,intercontinental hotels|IHG|DBK,IHG
+1|deutsche bank,gea|G1A|DBK,G1A
+1|glaxosmithkline,ec,novn.sw,novartis,gsk|GSK|GSK,NOVN
+1|hsbc,standard chartered,lloyds (lloy.ln)|STAN|HSBA,STAN
+1|almirall,fda|ALM|ALM,COPN
+1|tk development,citycon,straedet|CTY1S|TKDV,CTY1S
+1|ocado,barclays|OCDO|BARC,OCDO
+1|barclays,royal philips|PHIA|BARC,PHIA
+1|barclays,siemens|SIE|BARC,SIE
+1|mtu aero,ubs|MTX|MTX,UBSG
+1|deutsche bank,royal philips|PHIA|DBK,PHIA
+1|royal dsm,societe generale|DSM|DSM,GLE
+1|hsbc,itv|ITV|HSBA,ITV
+1|hsbc,severn trent|SVT|HSBA,SVT
+1|hsbc,gea|G1A|HSBA,G1A
+1|aker solutions,credit suisse|AKSO|CSGN,AKSO
+1|technip,credit suisse|TEC|TEC,CSGN
+1|severn trent,credit suisse|SVT|CSGN,SVT
+1|easyjet,barclays|EZJ|BARC,EZJ
+1|mapfre,ubs|MAP|MAP,UBSG
+1|swatch,deutsche bank|UHR|DBK,UHR
+1|bloomberg,o2,sky,telefonica|SKY|SKY,TEF
+1|barclays,weir|WEIR|BARC,WEIR
+1|fresenius medical care,ubs|FME|UBSG,FME
+1|standard chartered,ubs|STAN|STAN,UBSG
+1|mediaset,telefonica|MS|TEF,MS
+1|debenhams,investec|DEB|DEB,INVP
+1|lery seafood,danske bank|LSG|LSG,DANSKE
+1|thyssenkrupp,credit suisse|TKA|TKA,CSGN
+1|barclays,london stock exchange|LSE|BARC,LSE
+1|ubs,pearson|PSON|UBSG,PSON
+1|ubs,tate & lyle|TATE|TATE,UBSG
+1|morrisons,ubs|MRW|UBSG,MRW
+1|ubs,continental|CON|UBSG,CON
+1|barclays,bankinter,mapfre|BARC|BARC,BKT,MAP
+1|bayer,reuters,faz,covestro|BAYN|1COV,BAYN
+1|deutsche bank,nordea bank|NDA|DBK,NDA
+1|fda,astrazeneca,brilinta|AZN|AZN,COPN
+1|vonovia,lanxess,deutsche annington immobilien se),dax|VNA|LXS,VNA
+1|l'oreal,societe generale|OR|OR,GLE
+1|hsbc,electricite de france|EDF|HSBA,EDF
+1|ubs,rexel|RXL|RXL,UBSG
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|deutsche bank,orange|ORA|DBK,ORA
+1|baloise,credit suisse|BALN|CSGN,BALN
+1|endesa,credit suisse|ELE|CSGN,ELE
+1|hsbc,sopra steria|SOP|HSBA,SOP
+1|statoil,abb|STL|ABBN,STL
+1|alten,societe generale|ATE|ATE,GLE
+1|hsbc,mitchells & butlers|MAB|HSBA,MAB
+1|hsbc,voestalpine|VOE|HSBA,VOE
+1|hsbc,capital & counties properties|CAPC|HSBA,CAPC
+1|lafargeholcim,societe generale|LHN|LHN,GLE
+1|bloomberg,nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|danske bank,nobia|NOBI|NOBI,DANSKE
+1|avanta serviced offices,regus,cma|RGU|BCA,RGU
+1|musgrave retail partners gb limited,booker,cma|BOK|BCA,BOK
+1|roche,fda|ROG|ROG,COPN
+1|finter bank zurich,vontobel,italmobiliare|VONN|VONN,ITM
+1|natixis,credit suisse|KN|CSGN,KN
+1|ubs,telekom austria|TKA|TKA,UBSG
+1|hsbc,havas|HAV|HSBA,HAV
+1|hsbc,dksh|DKSH|HSBA,DKSH
+1|finter bank zurich,vontobel,italmobiliare|ITM|VONN,ITM
+1|ipo,bayer,covestro|BAYN|1COV,BAYN
+1|neopost,societe generale|NEO|GLE,NEO
+1|gkn holdings,investec|GKN|GKN,INVP
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|garanti,hsbc,ing,bloomberg|HSBA|HSBA,INGA
+1|fda,genmab|GEN|GEN,COPN
+1|fda,genmab|GEN|GEN,COPN
+1|leonteq securities,credit suisse|LEON|CSGN,LEON
+1|ubs,edenred|EDEN|UBSG,EDEN
+1|sabmiller,societe generale|SAB|SAB,GLE
+1|deutsche bank,richemont|CFR|DBK,CFR
+1|shanks,investec|SKS|SKS,INVP
+1|rsa insurance,daily mail|RSA|RSA,DMGT
+1|syngenta,ubs|SYNN|UBSG,SYNN
+1|syngenta,ubs|SYNN|UBSG,SYNN
+1|buwog,immofinanz|IIA|BWO,IIA
+1|melexis,kbc|MELE|MELE,KBC
+1|natixis,iliad|ILD|ILD,KN
+1|deutsche bank,oci|OCI|DBK,OCI
+1|bayer,covestro|BAYN|1COV,BAYN
+1|barclays,alstom|ALO|BARC,ALO
+1|barclays,ams|AMS|BARC,AMS
+1|sanofi,ubs|SAN|UBSG,SAN
+1|roche holding,fda,clia,liat system|ROG|ROG,COPN
+1|deutsche bank,elringklinger|ZIL2|DBK,ZIL2
+1|standard chartered,investec|STAN|STAN,INVP
+1|natixis,edenred|EDEN|KN,EDEN
+1|bina bawi,genel energy,omv|GENL|GENL,OMV
+1|sanofi,fda,nda|SAN|SAN,COPN
+1|sanofi,fda,nda|SAN|SAN,COPN
+1|hsbc,deutsche wohnen|DWNI|HSBA,DWNI
+1|pennon,investec|PNN|INVP,PNN
+1|arm holdings,natixis|ARM|ARM,KN
+1|basware,danske bank|BAS1V|DANSKE,BAS1V
+1|merck,societe generale|MRK|GLE,MRK
+1|pearson,penguin,daily mail|PSON|DMGT,PSON
+1|deutsche bank,europcar groupe|EUCAR|DBK,EUCAR
+1|deutsche bank,astrazeneca|AZN|DBK,AZN
+1|eranove,jeune afrique,bouygues,axa|EN|EN,CS
+1|bouygues,axa|CS|EN,CS
+1|tdc,danske bank|TDC|TDC,DANSKE
+1|committee on foreign investment,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|audi,porsche,reuters|PAH3|NSU,PAH3
+1|essure,fda,bayer|BAYN|BAYN,COPN
+1|barclays,drax|DRX|BARC,DRX
+1|poundland,hsbc|PLND|HSBA,PLND
+1|hsbc,g4s|GFS|HSBA,GFS
+1|swatch,natixis,bloomberg|UHR|UHR,KN
+1|bloomberg,natixis,richemont|CFR|CFR,KN
+1|natixis,richemont|CFR|CFR,KN
+1|swatch,natixis|UHR|UHR,KN
+1|edp energias de portugal,societe generale|EDP|GLE,EDP
+1|bloomberg,glencore,citigroup,credit suisse|GLEN|GLEN,CSGN
+1|bloomberg,glencore,citigroup,credit suisse|GLEN|GLEN,CSGN
+1|sap,societe generale|SAP|GLE,SAP
+1|hsbc,koenig & bauer|SKB|HSBA,SKB
+1|hsbc,l'oreal|OR|HSBA,OR
+1|hsbc,william hill|WMH|HSBA,WMH
+1|ubs,reuters,asos|ASC|ASC,UBSG
+1|fda,btg,nda|BTG|BTG,COPN
+1|immofinanz,societe generale|IIA|IIA,GLE
+1|deutsche bank,amer sports|AMEAS|DBK,AMEAS
+1|ubs,banco de sabadell|SAB|SAB,UBSG
+1|fda,xarelto,faz,sigmapharm,bayer|BAYN|BAYN,COPN
+1|investec,e.on|EOAN|EOAN,INVP
+1|hsbc,heineken|HEIA|HSBA,HEIA
+1|hsbc,dnb|DNB|HSBA,DNB
+1|hsbc,adidas|ADS|HSBA,ADS
+1|hsbc,korian-medica|KORI|HSBA,KORI
+1|bloomberg,sabmiller,anheuser-busch inbev,altria|ABI|SAB,ABI
+1|ansaldo,finmeccanica|FNC|FNC,STS
+1|deutsche bank,gruppo campari|CPR|DBK,CPR
+1|international consolidated airlines,deutsche bank|IAG|DBK,IAG
+1|ubs,zurich insurance|ZURN|UBSG,ZURN
+1|bloomberg,statoil,credit suisse|STL|CSGN,STL
+1|imcd,goldman sachs, deutsche bank,bain capital|IMCD|DBK,IMCD
+1|consob,vivendi,telecom italia|TIT|VIV,TIT
+1|hsbc,semperit|SEM|HSBA,SEM
+1|hsbc holdings,ubs|HSBA|HSBA,UBSG
+1|hsbc,shire|SHP|HSBA,SHP
+1|deutsche bank,dnb|DNB|DBK,DNB
+1|south west water,bournemouth water,uk's cma|PNN|BCA,PNN
+1|treasury wine estates,diageo,global wines unit,sky|DGE|DGE,SKY
+1|close brothers,barclays|CBG|BARC,CBG
+1|barclays,swisscom|SCMN|BARC,SCMN
+1|legal & general,ubs|LGEN|UBSG,LGEN
+1|hsbc,experian|EXPN|HSBA,EXPN
+1|investec,stagecoach|SGC|SGC,INVP
+1|buwog,immofinanz|BWO|BWO,IIA
+1|vivendi,telecom italia,les echos|TIT|VIV,TIT
+1|buwog,immofinanz|IIA|BWO,IIA
+1|ocado,deutsche bank|OCDO|DBK,OCDO
+1|scottish and southern energy,credit suisse|SSE|SSE,CSGN
+1|inwit,reuters,cellnex telecom|CLNX|CLNX,INW
+1|rotork,investec|ROR|ROR,INVP
+1|deutsche bank,munich re|MUV2|DBK,MUV2
+1|ubs,merlin entertainments|MERL|UBSG,MERL
+1|hsbc,astrazeneca|AZN|HSBA,AZN
+1|societe generale,royal bank of scotland|RBS|GLE,RBS
+1|yoox,uk's cma|YNAP|YNAP,BCA
+1|barclays,cambian|CMBN|BARC,CMBN
+1|ubs,amlin|AML|AML,UBSG
+1|zodiac aerospace,ubs|ZC|UBSG,ZC
+1|kingfisher,ubs|KGF|KGF,UBSG
+1|ubs,rio tinto|RIO|UBSG,RIO
+1|hsbc,acacia mining|ACA|HSBA,ACA
+1|sofina,kbc|SOF|KBC,SOF
+1|hsbc,wacker neuson|WAC|HSBA,WAC
+1|leg immobilien ag, deutsche wohnen,deutsche wohnen,leg immobilien ag. deutsche wohnen,leg immobilien|LEG|DWNI,LEG
+1|siegfried holding,basf|SFZN|SFZN,BAS
+1|zurich,rsa insurance,rsa,zurich insurance|RSA|RSA,ZURN
+1|barclays,temenos|TEMN|BARC,TEMN
+1|barclays,shire|SHP|BARC,SHP
+1|inmarsat,deutsche telekom,lufthansa|ISAT|LHA,DTE,ISAT
+1|deutsche bank,dsv|DSV|DBK,DSV
+1|deutsche bank,nokia|NOKIA|DBK,NOKIA
+1|deutsche bank,alcatel-lucent|ALU|DBK,ALU
+1|ca immobilien anlagen,ubm|CAI|UBM,CAI
+1|rsa,zurich insurance|ZURN|RSA,ZURN
+1|fda,nda,shire|SHP|SHP,COPN
+1|poundland,uk's cma|PLND|BCA,PLND
+1|rio tinto,investec|RIO|INVP,RIO
+1|investec,lloyds banking|LLOY|LLOY,INVP
+1|ubs,seb|SK|SK,UBSG
+1|fortum,societe generale|FUM1V|FUM1V,GLE
+1|societe generale,vallourec|VK|VK,GLE
+1|nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|ubs,bkw|BKW|UBSG,BKW
+1|barclays,bank of georgia holdings|BGEO|BARC,BGEO
+1|societe generale,teliasonera|TLSN|GLE,TLSN
+1|amadeus it,fraport,air-transport it services|AMS|FRA,AMS
+1|vontobel,panalpina|PWTN|PWTN,VONN
+1|barclays,salvatore ferragamo italia|SFER|BARC,SFER
+1|barclays,ipsen|IPN|BARC,IPN
+1|premier farnell,credit suisse|PFL|CSGN,PFL
+1|international consolidated airlines,societe generale|IAG|IAG,GLE
+1|societe generale,lufthansa|LHA|GLE,LHA
+1|aena,banco santander|AENA|SAN,AENA
+1|capgemini,ubs|CAP|CAP,UBSG
+1|deutsche bank,galp energia|GALP|DBK,GALP
+1|hsbc,gfk|GFK|HSBA,GFK
+1|deutsche bank,immofinanz|IIA|DBK,IIA
+1|hsbc,wincor nixdorf|WIN|HSBA,WIN
+1|rwe,societe generale|RWE|RWE,GLE
+1|financial times,nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|kuehne & nagel,deutsche bank|KNIN|DBK,KNIN
+1|ubs,clariant|CLN|UBSG,CLN
+1|streetaccount,nokia,alcatel-lucent,bloomberg,alcatel,nokia (nok1v.fh)|NOKIA|ALU,NOKIA
+1|investec,correios de portugal|CTT|CTT,INVP
+1|gdf suez,credit suisse|ENGI|CSGN,ENGI
+1|hsbc,wincor nixdorf|WIN|HSBA,WIN
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|metro,societe generale|MEO|GLE,MEO
+1|commerzbank,ipo sixt leasing,berenberg,sixt|SIX2|CBK,SIX2
+1|icade,ubs|ICAD|ICAD,UBSG
+1|vivendi,reuters,lagardere|VIV|VIV,MMB
+1|royal dutch shell,pe,daily mail|RDSB|DMGT,RDSB
+1|barclays,tesco,telegraph|TSCO|BARC,TSCO
+1|deutsche bank,sodexo|SW|DBK,SW
+1|tomtom, alcatel-lucent,nokia|NOKIA|ALU,TOM2,NOKIA
+1|danske bank,dnb|DNB|DANSKE,DNB
+1|natixis,sage|SGE|SGE,KN
+1|imi,investec|IMI|IMI,INVP
+1|hsbc,klepierre, unibail,air liquide, dsm, lanxess|LI|HSBA,LXS,LI,AI
+1|boliden,ubs|BOL|UBSG,BOL
+1|wsj's heard,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|bunzl,investec|BNZL|BNZL,INVP
+1|hsbc,wizz air|WIZZ|HSBA,WIZZ
+1|vivendi,societe generale|VIV|VIV,GLE
+1|nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|ovs,credit suisse|OVS|OVS,CSGN
+1|le figaro,vivendi,orange,dailymotion|ORA|VIV,ORA
+1|barclays,cnp bvp,cnp assurances|CNP|BARC,CNP
+1|telecable),el economista,orange,eu,euskaltel|ORA|ORA,EKT
+1|l'oreal,societe generale|OR|OR,GLE
+1|stagecoach,uk's cma|SGC|SGC,BCA
+1|hsbc,deutsche brse|DB1|HSBA,DB1
+1|ubs,investec|INVP|UBSG,INVP
+1|sabmiller,credit suisse|SAB|SAB,CSGN
+1|sky news,cma,lloyds banking|LLOY|LLOY,BCA
+1|deutsche bank,dsv|DSV|DBK,DSV
+1|neste oil,danske bank|NESTE|DANSKE,NESTE
+1|jyske bank,danske bank|JYSK|DANSKE,JYSK
+1|salzgitter,hsbc|SZG|HSBA,SZG
+1|hsbc,washtec|WSU|HSBA,WSU
+1|deutsche bank,aldermore|ALD|DBK,ALD
+1|barclays,northgate|NTG|BARC,NTG
+1|barclays,danske bank|DANSKE|BARC,DANSKE
+1|aldermore,credit suisse|ALD|ALD,CSGN
+1|wsj's heard,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|poste italiane,banca monte dei paschi (bmps.im),anima holding|ANIM|ANIM,PST
+1|ca immobilien anlagen,immofinanz|IIA|IIA,CAI
+1|telecom italia,sky,tims,skys|TIT|SKY,TIT
+1|fda,astrazeneca|AZN|AZN,COPN
+1|citi, credit suisse,reuters,siltronic,wacker chemie|WCH|CSGN,WCH,WAF
+1|natixis,ipsen|IPN|IPN,KN
+1|vontobel,sunrise communications|SRCG|SRCG,VONN
+1|ubs,dfs furniture|DFS|DFS,UBSG
+1|aareal bank,societe generale|ARL|GLE,ARL
+1|sunrise communications,credit suisse|SRCG|SRCG,CSGN
+1|vivendi,mediaset,bloomberg,l'expansion,europacorp|VIV|VIV,MS
+1|capgemini,societe generale|CAP|CAP,GLE
+1|alten,societe generale|ATE|ATE,GLE
+1|ubs,tate & lyle|TATE|TATE,UBSG
+1|sbla,fda,bayer|BAYN|BAYN,COPN
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|statoil,danske bank|STL|DANSKE,STL
+1|hsbc,vtg|VT9|HSBA,VT9
+1|hsbc,sap|SAP|HSBA,SAP
+1|hsbc,biomerieux|BIM|HSBA,BIM
+1|hsbc,aena|AENA|HSBA,AENA
+1|barclays,tag immobilien|TEG|BARC,TEG
+1|britvic,societe generale|BVIC|BVIC,GLE
+1|essilor,societe generale|EI|EI,GLE
+1|barclays,nokia|NOKIA|BARC,NOKIA
+1|credit suisse,tate & lyle|TATE|CSGN,TATE
+1|deutsche bank,ing|INGA|DBK,INGA
+1|danske bank,tieto|TIE1V|TIE1V,DANSKE
+1|hsbc,umicore|UMI|HSBA,UMI
+1|statoil,af gruppen|AFG|AFG,STL
+1|hsbc,ams|AMS|HSBA,AMS
+1|deutsche bank,deutsche telekom|DTE|DBK,DTE
+1|bolsas y mercados espanoles,credit suisse|BME|BME,CSGN
+1|a.g.barr,investec|BAG|BAG,INVP
+1|aryzta,societe generale|ARYN|ARYN,GLE
+1|hsbc,national express|NEX|HSBA,NEX
+1|hsbc,stagecoach|SGC|HSBA,SGC
+1|hsbc,leg immobilien|LEG|HSBA,LEG
+1|hsbc,ovs|OVS|HSBA,OVS
+1|credit suisse,icap|IAP|CSGN,IAP
+1|experian,credit suisse|EXPN|CSGN,EXPN
+1|euronext,credit suisse|ENX|CSGN,ENX
+1|vivendi,orange,vivendi (viv.fp),dailymotion|ORA|VIV,ORA
+1|fedex,tnt express,postnl|PNL|PNL,TNTE
+1|deutsche bank,hella kgaa hueck|HLE|DBK,HLE
+1|fda,shire|SHP|SHP,COPN
+1|vivendi,orange,dailymotion|ORA|VIV,ORA
+1|italcementi,ubs|IT|UBSG,IT
+1|poundland,cma|PLND|BCA,PLND
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|ubs,alcatel-lucent|ALU|ALU,UBSG
+1|ubs,alpiq holding|ALPH|UBSG,ALPH
+1|barclays,oxford instruments|OXIG|BARC,OXIG
+1|ontex,societe generale|ONTEX|ONTEX,GLE
+1|boliden,societe generale|BOL|GLE,BOL
+1|deutsche bank,telenor|TEL|DBK,TEL
+1|ubs,cairn energy|CNE|UBSG,CNE
+1|wartsila,danske bank|WRT1V|DANSKE,WRT1V
+1|alfa laval,danske bank|ALFA|DANSKE,ALFA
+1|deutsche bank,bankinter|BKT|DBK,BKT
+1|societe generale,omv|OMV|OMV,GLE
+1|efg international,vontobel|EFGN|VONN,EFGN
+1|mondi,ubs|MNDI|MNDI,UBSG
+1|gecina,societe generale|GFC|GFC,GLE
+1|jyske bank,christian hansen holding|CHR|JYSK,CHR
+1|bnp paribas,societe generale|BNP|BNP,GLE
+1|kingfisher,societe generale|KGF|KGF,GLE
+1|barclays,wizz air|WIZZ|BARC,WIZZ
+1|lundin petroleum,credit suisse|LUPE|CSGN,LUPE
+1|hsbc,boliden|BOL|HSBA,BOL
+1|barclays,lufthansa|LHA|BARC,LHA
+1|ubs,deutsche euroshop|DEQ|DEQ,UBSG
+1|ubs,persimmon|PSN|UBSG,PSN
+1|ubs,valmet|VALMT|VALMT,UBSG
+1|ophir energy,credit suisse|OPHR|CSGN,OPHR
+1|barclays,munich re|MUV2|BARC,MUV2
+1|vivendi,telecom italia|TIT|VIV,TIT
+1|ubs,sap|SAP|UBSG,SAP
+1|ubs,axa|CS|UBSG,CS
+1|land securities,ubs|LAND|UBSG,LAND
+1|aryzta,societe generale|ARYN|ARYN,GLE
+1|edenred,societe generale|EDEN|GLE,EDEN
+1|sse,cma|SSE|SSE,BCA
+1|technip,societe generale|TEC|TEC,GLE
+1|centrica,cma|CNA|CNA,BCA
+1|investec,lloyds banking|LLOY|LLOY,INVP
+1|hsbc,alfa laval|ALFA|HSBA,ALFA
+1|hsbc,natixis|KN|HSBA,KN
+1|lvmh moet hennessy,deutsche bank|MC|DBK,MC
+1|ubs,adidas|ADS|UBSG,ADS
+1|credit suisse,cassiopea,jefferies|SKIN|CSGN,SKIN
+1|credit suisse,cassiopea,jefferies|SKIN|CSGN,SKIN
+1|aalberts industries,kbc|AALB|KBC,AALB
+1|mediaset,rai way|MS|RWAY,MS
+1|nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|deutsche bank,pandora|PNDORA|DBK,PNDORA
+1|drax,societe generale|DRX|GLE,DRX
+1|coor service management,ubs|COOR|COOR,UBSG
+1|thales,deutsche bank|HO|DBK,HO
+1|faurecia,societe generale|EO|GLE,EO
+1|danske bank,petroleum geo-services|PGS|DANSKE,PGS
+1|fda,biomerieux|BIM|BIM,COPN
+1|premier farnell,credit suisse|PFL|CSGN,PFL
+1|anglo american,credit suisse|AAL|CSGN,AAL
+1|micro focus,morgan stanley, ubs|MCRO|UBSG,MCRO
+1|iberdrola,societe generale|IBE|IBE,GLE
+1|hsbc,pz cussons|PZC|HSBA,PZC
+1|hsbc,electricite de france|EDF|HSBA,EDF
+1|deutsche bank,sap|SAP|DBK,SAP
+1|deutsche bank,sap|SAP|DBK,SAP
+1|deutsche bank,mitchells & butlers|MAB|DBK,MAB
+1|ubs,ophir energy|OPHR|UBSG,OPHR
+1|deutsche bank,credit suisse|CSGN|DBK,CSGN
+1|savills,credit suisse|SVS|CSGN,SVS
+1|commerzbank,freenet,orange (ora.fp)|FNTN|CBK,FNTN
+1|swatch,societe generale|UHR|UHR,GLE
+1|ocado,ubs|OCDO|UBSG,OCDO
+1|arm holdings,investec|ARM|ARM,INVP
+1|commerzbank,krones|KRN|CBK,KRN
+1|societe generale,groupe eurotunnel|GET|GLE,GET
+1|ansaldo sts,finmeccanica|FNC|FNC,STS
+1|indivior,fda|INDV|INDV,COPN
+1|hsbc,pfeiffer vacuum|PFV|HSBA,PFV
+1|gerresheimer,deutsche bank|GXI|DBK,GXI
+1|danske bank,nobina|NOBINA|NOBINA,DANSKE
+1|novartis,gsk,seretide/advair|GSK|GSK,NOVN
+1|telefonica brasil,vivendi,telefonica|TEF|VIV,TEF
+1|indivior,fda|INDV|INDV,COPN
+1|cimpa,airbus,sopra steria|SOP|SOP,AIR
+1|essilor,societe generale|EI|EI,GLE
+1|jcdecaux,barclays|DEC|BARC,DEC
+1|technip,barclays|TEC|TEC,BARC
+1|deutsche bank,alstria|AOX|DBK,AOX
+1|hsbc,engie|ENGI|HSBA,ENGI
+1|hsbc,tarkett|TKTT|HSBA,TKTT
+1|poundland,hsbc|PLND|HSBA,PLND
+1|hsbc,b&m european value retail|BME|HSBA,BME
+1|ansaldo,hitachi, finmeccanica|STS|FNC,STS
+1|poste italiane,anima holding|ANIM|ANIM,PST
+1|ucb,fda,kremers urban,bloomberg|UCB|COPN,UCB
+1|ipp,gamesa,orange|GAM|ORA,GAM
+1|natixis,credit suisse|KN|CSGN,KN
+1|rentokil,credit suisse|RTO|CSGN,RTO
+1|ubs,merlin entertainments|MERL|UBSG,MERL
+1|smart motorways,galliford try, costain|GFRD|GFRD,COST
+1|sartorius stedim biotech,societe generale|DIM|GLE,DIM
+1|hsbc holdings,reuters,ing|HSBA|HSBA,INGA
+1|deutsche bank,ams|AMS|DBK,AMS
+1|firstgroup,ubs|FGP|FGP,UBSG
+1|zoopla,investec|ZPLA|ZPLA,INVP
+1|rightmove,investec|RMV|RMV,INVP
+1|south west water,pennon,cma|PNN|BCA,PNN
+1|sanofi,deutsche bank|SAN|DBK,SAN
+1|sanofi,deutsche bank|SAN|DBK,SAN
+1|salvatore ferragamo italia,credit suisse|SFER|SFER,CSGN
+1|international consolidated airlines,ubs|IAG|IAG,UBSG
+1|ubs,rwe|RWE|RWE,UBSG
+1|fda,astrazeneca|AZN|AZN,COPN
+1|fda,astrazeneca|AZN|AZN,COPN
+1|spie,societe generale|SPIE|GLE,SPIE
+1|gategroup holding,ubs|GATE|UBSG,GATE
+1|fenner,investec|FENR|FENR,INVP
+1|danske bank,atria|ATRAV|ATRAV,DANSKE
+1|do deutsche office,alstria|AOX|AOX,PMOX
+1|do deutsche office,alstria|AOX|AOX,PMOX
+1|deutsche bank,bankinter|BKT|DBK,BKT
+1|daily mail,grainger|GRI|GRI,DMGT
+1|enagas,hsbc|ENG|HSBA,ENG
+1|hsbc,e.on|EOAN|HSBA,EOAN
+1|galp energia,societe generale|GALP|GLE,GALP
+1|deutsche bank,unibail-rodamco|UL|DBK,UL
+1|ubs,nh hotels|NHH|NHH,UBSG
+1|ubs,dairy crest|DCG|DCG,UBSG
+1|icade,ubs|ICAD|ICAD,UBSG
+1|barclays,atresmedia|A3M|BARC,A3M
+1|barclays,vestas wind systems|VWS|BARC,VWS
+1|ladbrokes,deutsche bank,ubs|LAD|DBK,LAD,UBSG
+1|european commission,nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|mtu aero,investec|MTX|MTX,INVP
+1|mtu aero,investec|MTX|MTX,INVP
+1|bloomberg,hsbc,flybe|FLYB|HSBA,FLYB
+1|thales,societe generale|HO|HO,GLE
+1|barclays,el economista,bankinter|BKT|BARC,BKT
+1|deutsche bank,iss|ISS|DBK,ISS
+1|deutsche bank,drgerwerk|DRW3|DBK,DRW3
+1|dksh,ubs|DKSH|DKSH,UBSG
+1|imagination technologies,investec|IMG|IMG,INVP
+1|bloomberg,wiwo,siemens,alstom|SIE|ALO,SIE
+1|telefonica,credit suisse|TEF|CSGN,TEF
+1|aperam,societe generale|APAM|APAM,GLE
+1|aena,banco santander|AENA|SAN,AENA
+1|net-a-porter,yoox,uk's cma|YNAP|YNAP,BCA
+1|vivendi,telecom italia|TIT|VIV,TIT
+1|bnp paribas,societe generale|BNP|BNP,GLE
+1|ubs,debenhams|DEB|UBSG,DEB
+1|hsbc,eurazeo|RF|HSBA,RF
+1|hsbc,wolseley|WOS|HSBA,WOS
+1|bla,fda,genmab|GEN|GEN,COPN
+1|inwit,deutsche bank|INW|DBK,INW
+1|rsa insurance,zurich insurance|ZURN|RSA,ZURN
+1|barclays,royal philips|PHIA|BARC,PHIA
+1|hsbc,drax|DRX|HSBA,DRX
+1|hsbc,eutelsat communications|ETL|HSBA,ETL
+1|royal philips,societe generale|PHIA|GLE,PHIA
+1|vectura,fda|VEC|VEC,COPN
+1|icade,gecina|ICAD|ICAD,GFC
+1|sponda,danske bank|SDA1V|DANSKE,SDA1V
+1|gkn holdings,ubs,jpmorgan|GKN|UBSG,GKN
+1|heidelbergcement,italcementi|HEI|IT,HEI
+1|heidelbergcement,italcementi|HEI|IT,HEI
+1|heidelbergcement,italcementi|IT|IT,HEI
+1|mediaset espana,barclays|TL5|BARC,TL5
+1|societe generale,tate & lyle|TATE|TATE,GLE
+1|roche holding,fda|ROG|ROG,COPN
+1|italcementi,ubs|IT|UBSG,IT
+1|gkn holdings,ubs|GKN|UBSG,GKN
+1|ontex,societe generale|ONTEX|ONTEX,GLE
+1|voestalpine,societe generale|VOE|VOE,GLE
+1|credit suisse,tate & lyle|TATE|CSGN,TATE
+1|thales,ubs|HO|HO,UBSG
+1|credit suisse,topdanmark|TOP|TOP,CSGN
+1|dairy crest,credit suisse|DCG|DCG,CSGN
+1|deutsche bank,cairn energy|CNE|DBK,CNE
+1|deutsche bank,pernod ricard|RI|DBK,RI
+1|deutsche bank,ubm|UBM|DBK,UBM
+1|vivendi,telecom italia|TIT|VIV,TIT
+1|hiscox,credit suisse|HSX|CSGN,HSX
+1|fda,astrazeneca|AZN|AZN,COPN
+1|danske bank,astrazeneca|AZN|AZN,DANSKE
+1|oc oerlikon,deutsche bank,reuters|OERL|DBK,OERL
+1|oc oerlikon,deutsche bank,reuters|OERL|DBK,OERL
+1|micro focus,ubs,morgan stanley|MCRO|UBSG,MCRO
+1|erste bank,barclays|EBS|BARC,EBS
+1|barclays,spie|SPIE|BARC,SPIE
+1|ubs,spie|SPIE|UBSG,SPIE
+1|deutsche telekom,telefonica deutschland holding|O2D|O2D,DTE
+1|spie,natixis|SPIE|KN,SPIE
+1|numericable,natixis|NUM|NUM,KN
+1|dfs,ubs,jefferies|DFS|DFS,UBSG
+1|endesa,enel,capital research and management,expansion|ELE|ENEL,ELE
+1|danske bank, morgan stanley,nnit|NNIT|NNIT,DANSKE
+1|airbus,"sea lion",daily mail|AIR|AIR,DMGT
+1|berendsen,credit suisse|BRSN|CSGN,BRSN
+1|aberdeen asset management,svg capital|ADN|ADN,SVI
+1|aberdeen svg,aberdeen asset management,svg capital|SVI|ADN,SVI
+1|salvatore ferragamo italia,credit suisse|SFER|SFER,CSGN
+1|hsbc,aareal bank|ARL|HSBA,ARL
+1|ubs,porsche|PAH3|UBSG,PAH3
+1|fda,ipsen|IPN|IPN,COPN
+1|gruppo campari,natixis|CPR|KN,CPR
+1|mediaset,natixis|MS|KN,MS
+1|ubs,daimler|DAI|UBSG,DAI
+1|bank of georgia holdings,ubs|BGEO|BGEO,UBSG
+1|ubs,deutsche post dhl|DPW|DPW,UBSG
+1|societe generale,sage|SGE|SGE,GLE
+1|actelion,credit suisse|ATLN|CSGN,ATLN
+1|continental,credit suisse|CON|CSGN,CON
+1|krones,deutsche bank|KRN|DBK,KRN
+1|barclays,domino's pizza|DOM|BARC,DOM
+1|novartis,vectura,fda|VEC|NOVN,VEC,COPN
+1|subsea,danske bank|SUBC|SUBC,DANSKE
+1|deutsche bank,oci|OCI|DBK,OCI
+1|henkel,deutsche bank|HEN3|HEN3,DBK
+1|hsbc,mlp|MLP|HSBA,MLP
+1|rightmove,credit suisse|RMV|CSGN,RMV
+1|faurecia,credit suisse|EO|CSGN,EO
+1|credit suisse,caixabank|CABK|CSGN,CABK
+1|hsbc,united internet|UTDI|HSBA,UTDI
+1|barclays,john laing|JLG|BARC,JLG
+1|deutsche bank,asml holding|ASML|DBK,ASML
+1|ubs,bayer|BAYN|UBSG,BAYN
+1|europe focus list,wolseley,credit suisse|WOS|CSGN,WOS
+1|applus services,credit suisse|APPS|APPS,CSGN
+1|deutsche bank,whitbread|WTB|DBK,WTB
+1|diageo,credit suisse|DGE|DGE,CSGN
+1|ubs,faurecia|EO|UBSG,EO
+1|ubs,whitbread|WTB|UBSG,WTB
+1|peugeot citroen,ubs|UG|UBSG,UG
+1|eurazeo,societe generale|RF|RF,GLE
+1|prudential,credit suisse|CSGN|CSGN,PRU
+1|morgan stanley, goldman sachs,credit suisse,zalando|ZAL|CSGN,ZAL
+1|siltronic,wacker chemie|WCH|WCH,WAF
+1|ansaldo,natixis|STS|STS,KN
+1|esure,deutsche bank|ESUR|DBK,ESUR
+1|deutsche bank,aldermore,credit suisse|ALD|DBK,ALD,CSGN
+1|barclays,segro|SGRO|BARC,SGRO
+1|hsbc,wpp|WPP|HSBA,WPP
+1|ing,ubs|INGA|INGA,UBSG
+1|novartis,fda|NOVN|NOVN,COPN
+1|fda,astrazeneca|AZN|AZN,COPN
+1|richemont,the net-a-porter,yoox|YNAP|CFR,YNAP
+1|vontobel,credit suisse|VONN|VONN,CSGN
+1|dairy crest,uk's cma|DCG|DCG,BCA
+1|ahold,natixis|AH|KN,AH
+1|mediaset,metroweb,telecom italia,repubblica|TIT|MS,TIT
+1|aena,banco santander|AENA|SAN,AENA
+1|deutsche bank,carnival|CCL|DBK,CCL
+1|boskalis westminster,fugro|FUR|BOKA,FUR
+1|barclays,grandvision|GVNV|BARC,GVNV
+1|heidelbergcement,credit suisse|HEI|CSGN,HEI
+1|infineon technologies,deutsche bank|IFX|DBK,IFX
+1|billerudkorsns,danske bank|BILL|BILL,DANSKE
+1|spar nord bank,danske bank|SPNO|SPNO,DANSKE
+1|bloomberg,groupe danone,investec|BN|INVP,BN
+1|ubs,synthomer|SYNT|UBSG,SYNT
+1|hella kgaa hueck,credit suisse|HLE|CSGN,HLE
+1|ubs,eni|ENI|UBSG,ENI
+1|hsbc,euler hermes|ELE|HSBA,ELE
+1|statoil,ubs|STL|UBSG,STL
+1|conwert's nav/share,deutsche wohnen,conwert immobilien invest|CWI|DWNI,CWI
+1|kemira,danske bank|KRA1V|DANSKE,KRA1V
+1|hsbc,indus holding|INH|HSBA,INH
+1|ubs,l'oreal|OR|OR,UBSG
+1|barclays,hsbc holdings|HSBA|BARC,HSBA
+1|standard chartered,barclays|STAN|BARC,STAN
+1|barclays,rexel|RXL|BARC,RXL
+1|deutsche bank,sunrise communications|SRCG|DBK,SRCG
+1|ubs,sunrise communications|SRCG|SRCG,UBSG
+1|fda,nda,shire|SHP|SHP,COPN
+1|amadeus it,natixis|AMS|AMS,KN
+1|intu properties,deutsche bank|INTU|DBK,INTU
+1|valeo,deutsche bank|FR|FR,DBK
+1|novartis,glaxosmithkline|GSK|GSK,NOVN
+1|novartis,ofatumumab,genmab|GEN|NOVN,GEN
+1|glencore,credit suisse|GLEN|GLEN,CSGN
+1|rsa insurance,ubs|RSA|RSA,UBSG
+1|thales,orange,caisse des dpts,cloudwatt|ORA|ORA,HO
+1|enel,investec|ENEL|ENEL,INVP
+1|standard chartered,investec|STAN|STAN,INVP
+1|barclays,sunrise communications|SRCG|BARC,SRCG
+1|rexel,credit suisse|RXL|RXL,CSGN
+1|legrand,credit suisse|LR|CSGN,LR
+1|auto trader,deutsche bank,boa merrill lynch|AUTO|DBK,AUTO
+1|deutsche bank,buzzi unicem|BZU|DBK,BZU
+1|babcock international,deutsche bank|BAB|DBK,BAB
+1|hsbc,al noor hospitals|ANH|HSBA,ANH
+1|randstad holding,ubs|RAND|RAND,UBSG
+1|roche holding,credit suisse,europe & global focus list|ROG|CSGN,ROG
+1|deutsche bank,credit suisse|DBK|DBK,CSGN
+1|net-a-porter group, yoox,richemont|CFR|CFR,YNAP
+1|net-a-porter,yoox,richemont|CFR|CFR,YNAP
+1|statoil,abb|STL|ABBN,STL
+1|actelion,ubs|ATLN|UBSG,ATLN
+1|inwit,telecom italia,milan stock exchange,rai news|TIT|INW,TIT
+1|inditex,barclays|ITX|BARC,ITX
+1|barclays,michael page international|MPI|BARC,MPI
+1|ubs,alpiq holding|ALPH|UBSG,ALPH
+1|scor,societe generale|SCR|SCR,GLE
+1|xaar,investec|XAR|XAR,INVP
+1|a.g.barr,investec|BAG|BAG,INVP
+1|centrica,deutsche bank|CNA|DBK,CNA
+1|heidelbergcement,deutsche bank|HEI|DBK,HEI
+1|xchanging,agencyport europe,uk's cma|XCH|XCH,BCA
+1|endesa,societe generale|ELE|GLE,ELE
+1|ubs,nos|NOS|UBSG,NOS
+1|sanofi,fda|SAN|SAN,COPN
+1|eurazeo, legendre holding,accor|AC|RF,AC
+1|asml holding,banco santander|ASML|ASML,SAN
+1|barclays,investec|BARC|BARC,INVP
+1|immofinanz,societe generale|IIA|IIA,GLE
+1|aeroport de paris,banco santander|ADP|SAN,ADP
+1|hsbc,hikma pharmaceuticals|HIK|HSBA,HIK
+1|airbus group,socit gnrale, bnp paribas, hsbc|AIR|BNP,HSBA,AIR
+1|cellnex telecom,societe generale|CLNX|CLNX,GLE
+1|deutsche bank,k+s|SDF|DBK,SDF
+1|onesavings bank,investec|OSB|OSB,INVP
+1|deutsche bank,dmg mori seiki|GIL|DBK,GIL
+1|heidelbergcement,hsbc|HEI|HSBA,HEI
+1|deutsche wohnen,societe generale|DWNI|DWNI,GLE
+1|deutsche bank,indus holding|INH|DBK,INH
+1|bayer,materialscience,covestro|BAYN|1COV,BAYN
+1|deutsche bank,britvic|BVIC|DBK,BVIC
+1|ubs,tieto|TIE1V|TIE1V,UBSG
+1|salzgitter,hsbc|SZG|HSBA,SZG
+1|deutsche bank,royal unibrew|RBREW|DBK,RBREW
+1|danske bank,konecranes|KCR1V|KCR1V,DANSKE
+1|syngenta,reuters,kws saat|SYNN|KWS,SYNN
+1|viscofan,societe generale|VIS|GLE,VIS
+1|hsbc,abb limited|ABBN|HSBA,ABBN
+1|tecnicas reunidas,natixis|TRE|TRE,KN
+1|diageo,natixis|DGE|DGE,KN
+1|telecom italia,vivendi|TIT|VIV,TIT
+1|eiffage,hsbc|FGR|FGR,HSBA
+1|hsbc,bilfinger|GBF|HSBA,GBF
+1|voestalpine,ubs|VOE|VOE,UBSG
+1|cargotec,danske bank|CGCBV|DANSKE,CGCBV
+1|deutsche bank,carnival|CCL|DBK,CCL
+1|royal dutch shell,deutsche bank|RDSB|DBK,RDSB
+1|clariant,daily mail,rumor: solvay (solb.bb)|CLN|CLN,DMGT
+1|kuoni,credit suisse|KUNN|CSGN,KUNN
+1|societe generale,sainsbury|SBRY|SBRY,GLE
+1|auto trader,barclays|AUTO|BARC,AUTO
+1|ubs,grupo catalana occidente|GCO|UBSG,GCO
+1|swatch,societe generale|UHR|UHR,GLE
+1|bhp billiton,credit suisse|BLT|CSGN,BLT
+1|easyjet,arm holdings|ARM|ARM,EZJ
+1|bollore,telecom italia,reuters,mediobanca (mb.im)|TIT|BOL,TIT
+1|vivendi,telecom italia|VIV|VIV,TIT
+1|hsbc,metro|MEO|HSBA,MEO
+1|amadeus it,deutsche,lufthansa|AMS|AMS,LHA
+1|amadeus it,deutsche,lufthansa|AMS|AMS,LHA
+1|telecom italia,infrastrutture wireless italiane|TIT|INW,TIT
+1|british american tobacco,credit suisse|BATS|CSGN,BATS
+1|imperial tobacco,credit suisse|IMT|CSGN,IMT
+1|kering,credit suisse|KER|KER,CSGN
+1|do deutsche office,alstria|AOX|AOX,PMOX
+1|glaxosmithkline,fda,potiga|GSK|GSK,COPN
+1|deutsche bank,slm solutions,reuters,dpe deutsche private equity|AM3D|DBK,AM3D
+1|hsbc,banco bilbao vizcaya,expansion|BBVA|HSBA,BBVA
+1|capgemini,hsbc|CAP|HSBA,CAP
+1|altice,alcatel-lucent|ALU|ALU,ATC
+1|bloomberg,tryg,danske bank|TRYG|TRYG,DANSKE
+1|novartis,fda|NOVN|NOVN,COPN
+1|applus services,barclays|APPS|APPS,BARC
+1|barclays,mitchells & butlers|MAB|BARC,MAB
+1|engie,societe generale|ENGI|GLE,ENGI
+1|eu,nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|reuters,les echos,bouygues,altice|EN|EN,ATC
+1|bouygues,altice|EN|EN,ATC
+1|roche,fda|ROG|ROG,COPN
+1|ubs,red electrica|REE|REE,UBSG
+1|ackermans & van haaren,societe generale|ACKB|ACKB,GLE
+1|ubs,wacker chemie|WCH|UBSG,WCH
+1|syngenta,vontobel|SYNN|VONN,SYNN
+1|kbc,biocartis|BCART|KBC,BCART
+1|tdc,danske bank|TDC|TDC,DANSKE
+1|uponor,danske bank|UNR1V|DANSKE,UNR1V
+1|spirit pub,cma,greene king|GNK|GNK,BCA
+1|hsbc,reuters,tesco|TSCO|HSBA,TSCO
+1|ahold,groupe delhaize,wsj's heard|DELB|AH,DELB
+1|ubs,elementis|ELM|ELM,UBSG
+1|le figaro,bouygues,altice|EN|EN,ATC
+1|barclays,sodexo|SW|BARC,SW
+1|telecom italia,telefonica|TEF|TEF,TIT
+1|hsbc,ahold|AH|HSBA,AH
+1|hsbc,zumtobel|ZAG|HSBA,ZAG
+1|investec,bloomberg,sage|SGE|SGE,INVP
+1|numericable,bfm,bouygues|EN|NUM,EN
+1|investec,sage|SGE|SGE,INVP
+1|bla,glaxosmithkline,fda|GSK|GSK,COPN
+1|roche,fda|ROG|ROG,COPN
+1|dairy crest,cma|DCG|DCG,BCA
+1|deutsche bank,lanxess|LXS|DBK,LXS
+1|carnegie,danske bank,nobina|NOBINA|NOBINA,DANSKE
+1|novartis,vectura|VEC|NOVN,VEC
+1|pearson,investec|PSON|PSON,INVP
+1|deutsche bank,aena|AENA|DBK,AENA
+1|vivendi,telecom italia|VIV|VIV,TIT
+1|playtech,canaccord genuity, ubs|PTEC|UBSG,PTEC
+1|ubs,edp renovaveis|EDPR|UBSG,EDPR
+1|schneider electric,ubs|SU|UBSG,SU
+1|metso,ubs|MEO1V|MEO1V,UBSG
+1|cinco dias,iberdrola,siemens|SIE|IBE,SIE
+1|hsbc,associated british foods|ABF|HSBA,ABF
+1|hsbc,lloyds banking|LLOY|HSBA,LLOY
+1|heidelbergcement,natixis|HEI|KN,HEI
+1|deutsche bank,grand city properties|GYC|DBK,GYC
+1|deutsche bank,deutsche annington immobilien|VNA|DBK,VNA
+1|deutsche bank,conwert immobilien invest|CWI|DBK,CWI
+1|london stock exchange,sky|LSE|LSE,SKY
+1|deutsche bank,victrex|VCT|DBK,VCT
+1|deutsche bank,air liquide|AI|DBK,AI
+1|deutsche bank,deutsche wohnen|DWNI|DBK,DWNI
+1|barclays,elior|ELIOR|BARC,ELIOR
+1|hsbc,bhp billiton|BLT|HSBA,BLT
+1|hsbc,tullett prebon|TLPR|HSBA,TLPR
+1|deutsche bank,imperial tobacco|IMT|DBK,IMT
+1|publicis groupe,credit suisse|PUB|CSGN,PUB
+1|danske bank,teliasonera|TLSN|DANSKE,TLSN
+1|fabege (fabg.ss),seb,veidekke|VEI|SK,VEI
+1|k+s,societe generale|SDF|SDF,GLE
+1|elior,societe generale|ELIOR|ELIOR,GLE
+1|hsbc,saft groupe|SAFT|HSBA,SAFT
+1|roche,evotec,sembragiline|EVT|ROG,EVT
+1|vopak,ubs|VPK|UBSG,VPK
+1|jpmorgan, ubs,spie|SPIE|UBSG,SPIE
+1|banco santander,societe generale|GLE|GLE,SAN
+1|hsbc,washtec|WSU|HSBA,WSU
+1|dfds,groupe eurotunnel|GET|DFDS,GET
+1|barclays,kone|KNEBV|BARC,KNEBV
+1|ypsomed holding,credit suisse|YPSN|CSGN,YPSN
+1|kaz minerals,credit suisse|KAZ|CSGN,KAZ
+1|easyjet,investec|EZJ|INVP,EZJ
+1|hsbc,fortum|FUM1V|HSBA,FUM1V
+1|hsbc,albioma|ABIO|HSBA,ABIO
+1|evonik,brenntag|BNR|EVK,BNR
+1|diageo,credit suisse|DGE|DGE,CSGN
+1|south west water,cma,bournemouth water|PNN|BCA,PNN
+1|daily mail,lloyds banking|LLOY|LLOY,DMGT
+1|hsbc,italcementi|IT|HSBA,IT
+1|hsbc,buzzi unicem|BZU|HSBA,BZU
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|zydelig,fda,genmab,snda|GEN|GEN,COPN
+1|zydelig,fda,genmab,snda|GEN|GEN,COPN
+1|vivendi,telecom italia|TIT|VIV,TIT
+1|hsbc,thyssenkrupp|TKA|HSBA,TKA
+1|elementis,credit suisse|ELM|ELM,CSGN
+1|bloomberg,barclays,north sea field,omv|OMV|BARC,OMV
+1|cambian,investec|CMBN|CMBN,INVP
+1|le monde,nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|ftc,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|cma,intercity east coast,stagecoach|SGC|SGC,BCA
+1|cma,stagecoach|SGC|SGC,BCA
+1|us doj,nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|ubs,abb limited|ABBN|ABBN,UBSG
+1|barclays,imperial tobacco|IMT|BARC,IMT
+1|british american tobacco,barclays|BATS|BARC,BATS
+1|bunzl,deutsche bank|BNZL|BNZL,DBK
+1|mtu aero,ubs|MTX|MTX,UBSG
+1|numericable-sfr, bouygues telecom, numericable-sfr,bouygues,altice,iliad (ild.fp),bouygues telecom|EN|EN,ATC
+1|daetwyler holding,vontobel|DAE|VONN,DAE
+1|natixis,bouygues|EN|EN,KN
+1|hsbc holdings,investec|HSBA|HSBA,INVP
+1|dfds,groupe eurotunnel|GET|DFDS,GET
+1|telecom italia,vivendi|TIT|VIV,TIT
+1|deutsche bank,aena|AENA|DBK,AENA
+1|roche holding,fda,alecensa|ROG|ROG,COPN
+1|cembra money bank,credit suisse|CMBN|CSGN,CMBN
+1|cosmo pharmaceuticals,credit suisse|COPN|CSGN,COPN
+1|ubs,vz holding|VZN|VZN,UBSG
+1|hsbc,ams|AMS|HSBA,AMS
+1|porr,rib software|RSTA|RSTA,POS
+1|inwit,telecom italia,il sole,bloomberg|TIT|INW,TIT
+1|ncell,ubs, deloitte, davis polk, mannheimer swartling, control risk,bhavana singh shrestha,axiata,visor,axiata. teliasonera,sunivera capital ventures pte,axiata, teliasonera,department of industries,teliasonera,freedom of expression,niraj shrestha,nepal, nepalese telecom authority, malaysian central bank,kroll|TLSN|UBSG,TLSN
+1|aubay,societe generale|AUB|GLE,AUB
+1|actelion,fda,uptravi nda|ATLN|COPN,ATLN
+1|barclays,equiniti|EQN|BARC,EQN
+1|equiniti,credit suisse|EQN|CSGN,EQN
+1|hsbc,umicore|UMI|HSBA,UMI
+1|hsbc,krones|KRN|HSBA,KRN
+1|wsj,euro am sonntag,bayer,covestro|1COV|1COV,BAYN
+1|bhp billiton,credit suisse|BLT|CSGN,BLT
+1|barclays,schibsted|SCHA|BARC,SCHA
+1|aixtron,barclays|AIXA|BARC,AIXA
+1|bw lpg,aurora lpg holding|BWLPG|BWLPG,AURLPG
+1|faurecia,societe generale|EO|GLE,EO
+1|ageas,eu,axa|CS|AGS,CS
+1|cobham,deutsche bank|COB|DBK,COB
+1|barclays,whitbread|WTB|BARC,WTB
+1|telecom italia,ubs|TIT|UBSG,TIT
+1|hsbc,lancashire holdings limited|LRE|HSBA,LRE
+1|saf holland,deutsche bank|SFQ|SFQ,DBK
+1|partners group holdings,credit suisse|PGHN|PGHN,CSGN
+1|deutsche bank,anglo american|AAL|DBK,AAL
+1|ica gruppen,intrum justitia|ICA|ICA,IJ
+1|roche holding,fda|ROG|ROG,COPN
+1|paddy power,cma,betfair|BET|BET,BCA
+1|anglo american,societe generale|AAL|GLE,AAL
+1|bloomberg,hsbc,ing|HSBA|HSBA,INGA
+1|ladbrokes,coral group (+gala.ln),cma|LAD|LAD,BCA
+1|credit suisse,alcatel-lucent|ALU|ALU,CSGN
+1|nokia,credit suisse|NOKIA|CSGN,NOKIA
+1|ssp,barclays|SSPG|BARC,SSPG
+1|barclays,allianz|ALV|BARC,ALV
+1|actelion,vontobel|ATLN|VONN,ATLN
+1|sabmiller,natixis|SAB|SAB,KN
+1|hsbc,weir|WEIR|HSBA,WEIR
+1|hsbc,smiths|SMIN|HSBA,SMIN
+1|hsbc,imi|IMI|HSBA,IMI
+1|remy cointreau,societe generale|RCO|RCO,GLE
+1|vestas wind systems,jyske bank|VWS|VWS,JYSK
+1|onesavings bank,investec|OSB|OSB,INVP
+1|aurelius,saga,allied healthcare|SAGA|SAGA,AR4
+1|aurelius,allied healthcare,saga|AR4|SAGA,AR4
+1|learndirect,pearson,cma,sky news|PSON|BCA,PSON
+1|deutsche bank,imcd,reuters,goldman sachs,bain capital|IMCD|DBK,IMCD
+1|hsbc,bayer|BAYN|HSBA,BAYN
+1|wpp,l'oreal,publicis groupe|PUB|OR,WPP,PUB
+1|swatch,societe generale|UHR|UHR,GLE
+1|havfisk,hermes|HFISK|HFISK,RMS
+1|celesio,cma,sainsbury|SBRY|SBRY,CLS1,BCA
+1|fda,btg|BTG|BTG,COPN
+1|j.p.morgan, ubs,basilea pharmaceutica,chf|BSLN|BSLN,UBSG
+1|hsbc,finnair|FIA1S|HSBA,FIA1S
+1|orange,les echos,bouygues|EN|ORA,EN
+1|grandvision,kbc|GVNV|KBC,GVNV
+1|aalberts industries,kbc|AALB|KBC,AALB
+1|barclays,ibstock|IBST|BARC,IBST
+1|valeo,reuters,bnp paribas|FR|FR,BNP
+1|air liquide,credit suisse|AI|CSGN,AI
+1|poste italiane,credit suisse|PST|CSGN,PST
+1|hsbc,linde|LIN|HSBA,LIN
+1|hsbc,bodycote|BOY|HSBA,BOY
+1|hsbc,k+s|SDF|HSBA,SDF
+1|hsbc,grifols|GRF|HSBA,GRF
+1|ubs,ibstock|IBST|UBSG,IBST
+1|poste italiane,ubs|PST|UBSG,PST
+1|neopost,societe generale|NEO|GLE,NEO
+1|elia systems operator,kbc|ELI|ELI,KBC
+1|orange,telecom italia,reuters,orange (ora.fp)|TIT|ORA,TIT
+1|gamesa,cfe|GAM|CFEB,GAM
+1|vodafone,swisscom|VOD|SCMN,VOD
+1|nokia,credit suisse|NOKIA|CSGN,NOKIA
+1|deutsche bank,arkema|AKE|DBK,AKE
+1|fda,astrazeneca|AZN|AZN,COPN
+1|enovos international,rwe, e.on|EOAN|EOAN,RWE
+1|nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|inmarsat,airbus|ISAT|AIR,ISAT
+1|unilever,credit suisse|UNA|CSGN,UNA
+1|metso,ubs|MEO1V|MEO1V,UBSG
+1|alfa laval,ubs|ALFA|UBSG,ALFA
+1|hsbc,anheuser-busch inbev|ABI|HSBA,ABI
+1|atos,siemens,gores,unify,eu|ATO|SIE,ATO
+1|regus,avanta,uk's cma|RGU|BCA,RGU
+1|dyneema purity radiopaque cerclage cable,royal dsm,fda|DSM|DSM,COPN
+1|snam,deutsche bank|SRG|DBK,SRG
+1|barclays,victrex|VCT|BARC,VCT
+1|telenet group holding,societe generale|TNET|GLE,TNET
+1|natixis,micronas semiconductor holding|MASN|KN,MASN
+1|abb limited,danske bank|ABBN|ABBN,DANSKE
+1|diageo,heineken,uk's cma|HEIA|DGE,BCA,HEIA
+1|italcementi,italgen,italmobiliare,bravosolution|IT|ITM,IT
+1|ubs,morgan advanced materials|MGAM|UBSG,MGAM
+1|spire healthcare,investec|SPI|SPI,INVP
+1|europe focus lists,whitbread,credit suisse|WTB|CSGN,WTB
+1|barclays,icap|IAP|BARC,IAP
+1|hsbc,pernod ricard|RI|HSBA,RI
+1|remy cointreau,hsbc|RCO|RCO,HSBA
+1|hsbc,diageo|DGE|HSBA,DGE
+1|fda,astrazeneca|AZN|AZN,COPN
+1|metso,danske bank|MEO1V|MEO1V,DANSKE
+1|accorhotels,fonciere des regions|FDR|FDR,AC
+1|pearson,credit suisse|PSON|CSGN,PSON
+1|micro focus,ubs|MCRO|UBSG,MCRO
+1|barclays,goldman sachs,equiniti|EQN|BARC,EQN
+1|bloomberg,ashtead,ubs|AHT|UBSG,AHT
+1|ashtead,ubs|AHT|UBSG,AHT
+1|centrica,cma|CNA|CNA,BCA
+1|siegfried holding,basf|BAS|SFZN,BAS
+1|barclays,deutsche brse|DB1|BARC,DB1
+1|aryzta,societe generale|ARYN|ARYN,GLE
+1|uponor,danske bank|UNR1V|DANSKE,UNR1V
+1|bloomberg,telecom italia,orange,orange europe|ORA|ORA,TIT
+1|barclays,glencore|GLEN|BARC,GLEN
+1|vivendi,reuters,telecom italia|TIT|VIV,TIT
+1|barclays,mobistar|MOBB|BARC,MOBB
+1|acerinox,credit suisse|ACX|CSGN,ACX
+1|aubay,societe generale|AUB|GLE,AUB
+1|huhtamaki,danske bank|HUH1V|HUH1V,DANSKE
+1|heidelbergcement,italcementi|HEI|IT,HEI
+1|micro focus,ubs|MCRO|UBSG,MCRO
+1|hsbc,hays|HAS|HSBA,HAS
+1|hsbc,zurich insurance|ZURN|HSBA,ZURN
+1|deutsche bank,k+s|SDF|DBK,SDF
+1|ing,natixis|INGA|INGA,KN
+1|natixis,societe generale|KN|GLE,KN
+1|it,al noor hospitals,nmc health|ANH|NMC,ANH
+1|deutsche bank,acciona|ANA|DBK,ANA
+1|thyssenkrupp,credit suisse|TKA|TKA,CSGN
+1|salvatore ferragamo italia,societe generale|SFER|SFER,GLE
+1|barclays,old mutual|OML|BARC,OML
+1|suez environnement,societe generale|SEV|GLE,SEV
+1|hsbc,shaftesbury|SHB|HSBA,SHB
+1|hsbc,k+s|SDF|HSBA,SDF
+1|hsbc,hammerson|HMSO|HSBA,HMSO
+1|ubs,temenos|TEMN|UBSG,TEMN
+1|fidessa,ubs|FDSA|UBSG,FDSA
+1|desnoes & geddes, guinness anchor berhad,diageo,heineken,gapl|DGE|DGE,HEIA
+1|vilmorin & cie,societe generale|RIN|GLE,RIN
+1|erste bank,societe generale|EBS|EBS,GLE
+1|desnoes & geddes, guinness anchor berhad,ggbl,diageo,heineken|DGE|DGE,HEIA
+1|natixis,anheuser-busch inbev|ABI|ABI,KN
+1|swisscom,sunrise communications|SRCG|SRCG,SCMN
+1|(pre-eu,europe focus list,wolseley,credit suisse|WOS|CSGN,WOS
+1|deutsche bank,informa|INF|DBK,INF
+1|pearson,uk's cma|PSON|BCA,PSON
+1|adidas,adidas (ads.gr),henkel,reuters,cnbc|HEN3|HEN3,ADS
+1|galp energia,edp energias de portugal|GALP|GALP,EDP
+1|munich re,spie|SPIE|SPIE,MUV2
+1|rwe,societe generale|RWE|RWE,GLE
+1|barclays,banco bilbao vizcaya|BBVA|BARC,BBVA
+1|voestalpine,ubs|VOE|VOE,UBSG
+1|hsbc,telekom austria|TKA|HSBA,TKA
+1|deutsche bank,metro|MEO|DBK,MEO
+1|mller,dairy crest,cma,sunday times|DCG|DCG,BCA
+1|xchanging,apollo,capita|XCH|XCH,CPI
+1|porsche,societe generale|PAH3|GLE,PAH3
+1|edenred,credit suisse|EDEN|CSGN,EDEN
+1|metso,hsbc|MEO1V|HSBA,MEO1V
+1|barclays,betfair|BET|BARC,BET
+1|nokia,alcatel-lucent|ALU|ALU,NOKIA
+1|oesterreichische post,credit suisse|POST|CSGN,POST
+1|hsbc,bayer|BAYN|HSBA,BAYN
+1|hitachi,ansaldobreda,ansaldo sts,finmeccanica|FNC|FNC,STS
+1|nokian renkaat,natixis|NRE1V|NRE1V,KN
+1|blackstone,airbus group,rheinmetall,reuters|AIR|RHM,AIR
+1|munich re,societe generale|MUV2|GLE,MUV2
+1|fda,astrazeneca|AZN|AZN,COPN
+1|nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|vivendi,gameloft,ubisoft|VIV|VIV,UBI
+1|ubs,wincor nixdorf|WIN|WIN,UBSG
+1|soco international,ubs|SIA|UBSG,SIA
+1|ubs,lundin petroleum|LUPE|UBSG,LUPE
+1|firstgroup,ubs|FGP|FGP,UBSG
+1|castellum,danske bank|CAST|CAST,DANSKE
+1|novartis,fda|NOVN|NOVN,COPN
+1|sabmiller,anheuser-busch inbev|ABI|SAB,ABI
+1|barclays,subsea|SUBC|BARC,SUBC
+1|kpn,credit suisse|KPN|CSGN,KPN
+1|sabmiller,anheuser-busch inbev,guardian|SAB|SAB,ABI
+1|ubs,rwe|RWE|RWE,UBSG
+1|applus services,ubs|APPS|APPS,UBSG
+1|cinryze,fda,amr,shire|SHP|SHP,COPN
+1|bloomberg,credit suisse,banco santander|SAN|CSGN,SAN
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|kbc groep,credit suisse|KBC|CSGN,KBC
+1|ubs,ems chemie holding|EMSN|EMSN,UBSG
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|ubs,k+s|SDF|SDF,UBSG
+1|ubs,linde|LIN|LIN,UBSG
+1|ubs,elementis|ELM|ELM,UBSG
+1|hsbc,sap|SAP|HSBA,SAP
+1|hsbc,john laing|JLG|HSBA,JLG
+1|hsbc,dksh|DKSH|HSBA,DKSH
+1|carnegie,jyske bank,pandora|PNDORA|JYSK,PNDORA
+1|vonovia,deutsche wohnen|DWNI|DWNI,VNA
+1|vivendi,ubisoft|UBI|VIV,UBI
+1|hsbc,saint-gobain|SGO|HSBA,SGO
+1|hsbc,l'oreal|OR|HSBA,OR
+1|ubs,nh hotels|NHH|NHH,UBSG
+1|ubs,genel energy|GENL|GENL,UBSG
+1|nokia,alcatel-lucent|NOKIA|ALU,NOKIA
+1|societe generale,caixabank|CABK|CABK,GLE
+1|valeo,credit suisse|FR|FR,CSGN
+1|advent international,jeffries, ubs,dfs furniture|DFS|DFS,UBSG
+1|vontobel,kuoni|KUNN|VONN,KUNN
+1|bic,societe generale|BB|GLE,BB
+1|danske bank,yara international|YAR|YAR,DANSKE
+1|micro focus,wizard,ubs|MCRO|UBSG,MCRO
+1|ny post,sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|ubs,emmi|EMMN|UBSG,EMMN
+1|mediaset,hsbc|MS|HSBA,MS
+1|danske bank,teliasonera|TLSN|DANSKE,TLSN
+1|endesa,enel,enel green power|EGPW|EGPW,ENEL,ELE
+1|bloomberg,sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|bloomberg,sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|ny post,sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|credit suisse, goldman sachs,hastings|HSTG|CSGN,HSTG
+1|rwe,societe generale|RWE|RWE,GLE
+1|workspace,deutsche bank|WKP|DBK,WKP
+1|sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|zodiac aerospace,credit suisse|ZC|CSGN,ZC
+1|streetaccount,sunday times,sabmiller,anheuser-busch inbev|SAB|SAB,ABI
+1|syngenta,vilmorin & cie|RIN|RIN,SYNN
+1|faurecia,societe generale|EO|GLE,EO
+1|hsbc,hamburger hafen,logistik|HHFA|HSBA,HHFA
+1|hsbc,serco|SRP|HSBA,SRP
+1|sabmiller,anheuser-busch inbev|ABI|SAB,ABI
+1|sabmiller,anheuser-busch inbev|ABI|SAB,ABI
+1|leg immobilien,wsj,deutsche wohnen,vonovia,iss|DWNI|DWNI,LEG,ISS,VNA
+1|infineon technologies,ubs|IFX|IFX,UBSG
+1|hsbc,leg immobilien|LEG|HSBA,LEG
+1|hsbc,deutsche wohnen|DWNI|HSBA,DWNI
+1|diageo,credit suisse|DGE|DGE,CSGN
+1|mediaset espana,societe generale|TL5|GLE,TL5
+1|yara international,societe generale|YAR|GLE,YAR
+1|agfa gevaert,kbc|AGFB|AGFB,KBC
+1|bloomberg,telecom italia,iliad|TIT|ILD,TIT
+1|muller,dairy crest,cma|DCG|DCG,BCA
+1|consob,vivendi,reuters,telecom italia|TIT|VIV,TIT
+1|kuehne & nagel,bmw|KNIN|BMW,KNIN
+1|loi,publicis groupe, orange|PUB|ORA,PUB
+1|barclays,kpn|KPN|BARC,KPN
+1|deutsche bank,groupe eurotunnel|GET|DBK,GET
+1|hsbc,shire|SHP|HSBA,SHP
+1|lindab,danske bank|LIAB|LIAB,DANSKE
+1|novartis,fda,reuters|NOVN|NOVN,COPN
